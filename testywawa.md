@@ -1,4 +1,6 @@
+<head>
 <link rel="stylesheet" href="/assets/css/style.css">
+</head>
 
 i have no idea what is going on
 
