@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="assets/css/style.css">
+
 
 
 i have no idea what is going on
