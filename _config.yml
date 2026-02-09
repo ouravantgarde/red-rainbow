@@ -1,3 +1,4 @@
 title: Red Rainbow
 theme: minima
-description: weirdcore hell
+minima:
+  skin: dark
