@@ -2,3 +2,5 @@ title: Red Rainbow
 theme: minima
 minima:
   skin: dark
+
+title-on-all-pages: false
