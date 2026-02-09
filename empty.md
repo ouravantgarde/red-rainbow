@@ -109,7 +109,7 @@ Avnlyla paces around the circle, and eventually stops to observe more carefully.
 Avnlyla shifts carefully over the curling roots, and kneels to the entity, sitting on her legs. The area is covered in petals and leaves from the tree, the grass is softer than she is used to.
 "It's like a mannequin? Like, a glass doll?"
 
-⁨⁨It... is a somewhat short figure, some thing like a mannequin, and like one it is averagely shaped in every way a humanoid could be, although with double ball jointed knees and similar construction elsewhere. The legs end in round points, but the arms possess hands. It has not a face, but a depression, an ovular outline where a face should be, as if one could be clicked into place. The body, translucent, composed somewhere between sea glass, air, and aerogel, shimmering and reflecting the reds and purples and whites of the black sky.
+It... is a somewhat short figure, some thing like a mannequin, and like one it is averagely shaped in every way a humanoid could be, although with double ball jointed knees and similar construction elsewhere. The legs end in round points, but the arms possess hands. It has not a face, but a depression, an ovular outline where a face should be, as if one could be clicked into place. The body, translucent, composed somewhere between sea glass, air, and aerogel, shimmering and reflecting the reds and purples and whites of the black sky.
 
 It rests limp, head tilted, sitting against the marble clay pillar, and well supported upon the grass overgrowing around it. The roots intermingle with the ground around it, and seemingly soon the thing's legs. It all seems picture-esque, how the doll is at the center of this structure under the tree.
 
