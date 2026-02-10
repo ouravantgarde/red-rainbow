@@ -71,6 +71,8 @@ And here the Downy Wawas end... With a divider, in markdown
 
 And forth come the HTML Wawas!! Who are actually bringing their divider line because markdown didn't work!
 
+Nevermind! Neither wawa is capable of making a line! I will have to look into this...
+
 <ins>The underlying wawa.</ins>
 
 H<sub>wawa</sub>O
