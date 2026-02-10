@@ -33,11 +33,7 @@ I am going to shrimply type out All Markdown, and then All HTML that isn't alrea
 
 ### Heady Wawa 3
 
-#### Heady Wawa 4
-
-##### Heady Wawa 5
-
-###### Heady Wawa 6
+###### Heady Wawa 6, which I am using as the subtitly wawa
 
 **Boldy Wawa**
 
@@ -56,6 +52,7 @@ WHAT! The wawas above have FAILED their markdown! HTML it is...
 > Can't think of any famous wawa quotes...
 >
 >> Wawa Quoteception
+<br>
 
 ```lua
 -- The Codey Wawa
@@ -72,6 +69,8 @@ And here the Downy Wawas end... With a divider, in markdown
 And forth come the HTML Wawas!! Who are actually bringing their divider line because markdown didn't work!
 
 Nevermind! Neither wawa is capable of making a line! I will have to look into this...
+
+It has been resolved I think both wawas were capable it just didn't render correctly
 
 <ins>The underlying wawa.</ins>
 
