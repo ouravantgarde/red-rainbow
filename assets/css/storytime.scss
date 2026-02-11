@@ -110,7 +110,7 @@ abbr:hover {
 abbr::after {
     content: attr(data-title);
     z-index: 10000;
-    position: fixed;
+    position: absolute;
     margin-top: 25px;
     margin-left: -30px;
     max-width: 45vw;
