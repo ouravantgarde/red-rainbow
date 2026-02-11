@@ -2,37 +2,14 @@
 ---
 
 @import "{{ site.theme }}";
-@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap');
-
-.courier-prime-regular {
-  font-family: "Courier Prime", monospace;
-  font-weight: 400;
-  font-style: normal;
-}
-
-.courier-prime-bold {
-  font-family: "Courier Prime", monospace;
-  font-weight: 700;
-  font-style: normal;
-}
-
-.courier-prime-regular-italic {
-  font-family: "Courier Prime", monospace;
-  font-weight: 400;
-  font-style: italic;
-}
-
-.courier-prime-bold-italic {
-  font-family: "Courier Prime", monospace;
-  font-weight: 700;
-  font-style: italic;
-}
+@import url(https://db.onlinewebfonts.com/c/c94e49765ec47b72f1cec8a8c4ef14c5?family=Courier+Prime);
+@import url(https://db.onlinewebfonts.com/c/9263dd1028ba2eef4981450e97433b11?family=VGA+New);
 
 html,body {
     background: black url("../../red-rainbow-storytime-tempbg.jpg") no-repeat fixed;
     background-position: center;
     background-size: cover;
-    scrollbar-color: rgb(255,255,255) rgb(0,0,0);
+    scrollbar-color: rgb(255,0,0) rgb(0,0,0);
     scroll-behavior: smooth;
     overscroll-behavior: none
 }
@@ -71,11 +48,12 @@ html,body {
 #toc {
     direction: ltr;
     padding: 2rem 0rem 0rem 1rem;
+    font-family: "VGA New", serif;
     color: white;
 }
 
 h2,h3,h4,h5 {
-    color: rgba(255,247,250,1);
+    color: rgb(255,247,250);
     margin-top: 1.5rem
 }
 
@@ -86,7 +64,7 @@ h6 {
 
 hr {
     margin: 2rem;
-    border-color: rgba(230,230,255,1)
+    border-color: rgb(230,230,255)
 }
 
 p {
@@ -95,7 +73,7 @@ p {
 
 blockquote {
     font-style: italic;
-    border: thin solid rgba(230,230,255,1);
+    border: thin solid rgb(230,230,255);
     padding: 1rem
 }
 
@@ -108,7 +86,7 @@ blockquote p {
 }
 
 code {
-    color: rgba(56,0,0,1);
+    color: rgb(56,0,0);
     background: white;
     font-size: 18px
 }
@@ -141,6 +119,7 @@ abbr::after {
     text-shadow: 10px 14px cyan, -10px -14px yellow, 10px -14px white, -10px 14px white;
     box-shadow: 5px -5px cyan, -5px 5px magenta;
     padding: 0.4rem;
+    font-family: "VGA New", serif;
     font-size: 12px;
     border: 1px dashed black;
     opacity: 0;
