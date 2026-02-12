@@ -4,14 +4,14 @@ layout: storytime
 
 {% capture find_my_toc %}
 * Testing the toc
-{:TOC}
+{:toc}
 {% endcapture %}
 
 {{ find_my_toc }}
 
 * bees
 
-{:TOC}
+{:toc}
 
 i have no idea what is going on
 
