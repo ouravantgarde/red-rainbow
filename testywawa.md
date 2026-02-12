@@ -2,6 +2,11 @@
 layout: storytime
 ---
 
+{% capture find_my_toc %}
+* Testing the toc
+:TOC
+{% endcapture %}
+
 i have no idea what is going on
 
 
