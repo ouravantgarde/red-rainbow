@@ -3,11 +3,8 @@ layout: storytime
 ---
 
 {% capture find_my_toc %}
-* Testing the toc
 {:toc}
 {% endcapture %}
-
-{{ find_my_toc }}
 
 i have no idea what is going on
 
