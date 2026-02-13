@@ -14,8 +14,13 @@
 
     
     <div id="storyentry">
-            
-        {{ tocsidebar | markdownify }}
+            <div id="tocsidebar">
+                <p id="toc" markdown="1">  
+                * the bees
+                {:toc}
+                </p>
+            </div>
+
         {{ content }}
     
     </div>
