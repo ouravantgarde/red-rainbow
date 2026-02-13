@@ -2,13 +2,15 @@
 layout: storytime
 ---
 
-{% capture find_my_toc %}
+{% capture sidebar %}
 
 how many bees
 
 {:toc}
 
 {% endcapture %}
+
+{% include sidebar.html %}
 
 i have no idea what is going on
 
