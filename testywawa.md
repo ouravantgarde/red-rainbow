@@ -82,7 +82,7 @@ wawa<sup>wawa</sup>
 
 <p style="text-align:center">This wawa wants to be in the center</p>
 
-<p style="color:rosybrown">And this wawa wants to be puce.</p>
+And this wawa <p style="color:rosybrown">wants to be puce.</p>
 
 Who let this wawa be so scrumptious?
 
