@@ -8,7 +8,7 @@ $-st**Tier** : Greater
 
 $-st**Weight** : Heavy
 
-%-st**Health** : 6000
+$-st**Health** : 6000
 
 $-tr
 
