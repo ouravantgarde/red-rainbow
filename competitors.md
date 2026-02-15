@@ -4,37 +4,39 @@ layout: wiki
 
 # Yawns&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-**Tier** : Greater
+$-st**Tier** : Greater
 
-**Weight** : Heavy
+$-st**Weight** : Heavy
 
-**Health** : 6000
+%-st**Health** : 6000
+
+$-tr
 
 Yawns are disgusting abominations, flesh cultivated to absorb as much remnant as possible.
 
-\[-\] **Abilities**
+$-se\[-\] **Abilities**
 
 Yawns will stay put where they spawn, only moving slightly in a small area. They target their three different sides in three 120° radii surrounding them, and do not normally change orientation when moving.
 
-Yawns will $$paConsume]$ any remnants nearby them into its upper opening, depriving Reeham of mana. These remnants are released upon death.
+Yawns will $$pa**Consume**]$ any remnants nearby them into its upper opening, depriving Reeham of mana. These remnants are released upon death.
 
-Yawns' **Maddening** side constantly spews out patterns of slow projectiles that deal 40 normal damage each. These projectiles slowly accelerate over time.
+Yawns' $$at**Maddening**]$ side constantly spews out patterns of slow projectiles that deal 40 normal damage each. These projectiles slowly accelerate over time.
 
-Its **Gnawing** side will frequently create maws of energy near Reeham when in it's radius, which will dash and bite after 0.7 seconds, dealing 50 normal damage before dissipating.
+Its $$at**Gnawing**]$ side will frequently create maws of energy near Reeham when in it's radius, which will dash and bite after 0.7 seconds, dealing 50 normal damage before dissipating.
 
-Its **Grimacing** side will build up a masses of teeth and gore around enemies in its radius, growing a tooth for a random enemy every 4 seconds. Each tooth grants +5 damage to all attacks and +20 health every second, up to a maximum of 6 stacks.
+Its $$at**Grimacing**]$ side will build up a masses of teeth and gore around enemies in its radius, growing a tooth for a random enemy every 4 seconds. Each tooth grants +5 damage to all attacks and +20 health every second, up to a maximum of 6 stacks.
 
-If Reeham is in above Yawns, it will **Purge** a large beam of energy at her via its top opening, dealing 60 normal damage and applying a heavy snare that grounds and prevents jumping for 3 seconds.
+If Reeham is in above Yawns, it will $$at**Purge**]$ a large beam of energy at her via its top opening, dealing 60 normal damage and applying a heavy snare that grounds and prevents jumping for 3 seconds.
 
-Every 33% of max health lost, Yawns will begin **Screaming** an unending monstrous howl as it rapidly spins upon its base, allowing it to use **Maddening**, **Gnawing**, and **Grimacing** in a 360° radius around it. It will also rapidly crawl around the arena. The Screaming will last for 7 seconds before it settles down in a new location.
+Every 33% of max health lost, Yawns will begin $$pa**Screaming**]$ an unending monstrous howl as it rapidly spins upon its base, allowing it to use **Maddening**, **Gnawing**, and **Grimacing** in a 360° radius around it. It will also rapidly crawl around the arena. The Screaming will last for 7 seconds before it settles down in a new location.
 
-\[-\] **Visuals & Lore**
+$-se\[-\] **Visuals & Lore**
 
 Yawns are large fleshy totems, connected to a swivel joint base of meaty bone as well as three spider-like legs equidistantly orbiting its center to crawl. The flesh appears deeply red although somewhat grayed in streaks, with a sticky appearance. The main body itself has 3 relatively flat sides, which increases in width towards the top(while tapering down into the boney base at the bottom). Each side has its own vestigial "mouth" that takes up the entire side, however there is no "inside" to speak of; Right behind its outer teeth is a useless fleshy film. The top of Yawns is a crater lined with teeth, which is uses to consume remnant. It may also expel a bloody beam, angling itself the best it can to aim.
 
 It's mouths each display different expressions upon its surface. Grimacing has a very lip defined, exaggerated and overstretched smiling and frowning based on you killing enemies. Maddening is stretched open across the surface, appearing to leak blood as it attacks. Gnawing has prominent sharp teeth which it grits and breaks upon itself, although new grow back very quickly.
 
-\[-\] **Compendium Entry**
+$-se\[-\] **Compendium Entry**
 
 > Pending...
 
@@ -120,37 +122,25 @@ Killed after Wail: Distressing.
 
 \[-\] **Compendium Entry - "The Parrot"**
 > Hello?
-> 
-> &nbsp;
-> 
+>
 > There are songs outside, which is unfair.
 > Metal prevents flight, feathers leave my body.
 > Cleaning myself every day to keep myself well.
 > There are songs outside, metal prevents flight.
 > Preening myself every day to keep myself well, feathers leave my body.
 >
-> &nbsp;
->
 > Atrophy rots.
->
-> &nbsp;
 >
 > Hello? Metal prevents flight, there are songs outside.
 > Rot is stopped by taking care of myself every hour.
 > Preening myself every hour to keep myself well.
 > There are feathers outside, cleaning myself is unfair.
 > 
-> &nbsp;
-> 
 > Atrophy rots.
->
-> &nbsp;
 >
 > Hello?
 > Metal keeps me unwell, atrophy prevents flight.
 > Feathers leave my body, rotting myself every second to keep me unwell.
 > Metal is rot, rot leaves my body, cleaning myself every second.
-> 
-> &nbsp;
 > 
 > Metal, atrophy, rot.
