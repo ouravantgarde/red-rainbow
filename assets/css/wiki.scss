@@ -24,7 +24,6 @@ html,body {
     scrollbar-gutter: stable both-edges;
     scrollbar-color: rgba(255,255,255,0.60) transparent;
     background: rgba(0,0,0,0.5);
-    backdrop-filter: blur(2px);
     outline: thin solid #ffffff;
     border-radius: 15px;
     box-shadow: 
@@ -41,47 +40,35 @@ html,body {
 }
 
 h1 {
-    color: $viowhite;
-    margin-top: 1.5rem
-}
-
-hr {
-    margin: 1rem;
-    border-color: $manawhite
+    color: rgb(160,90,130);
+    backdrop-filter: grayscale(1);
+    letter-spacing: 3px;
+    font-size: calc(clamp(14px, 1vw - 0.15rem, 1.7vw) * 2);
+    white-space: nowrap
 }
 
 p {
-    margin: 1.5rem 0
+    margin: 1rem 0;
+    backdrop-filter: blur(1px);
+}
+
+hr {
+    margin: 3rem 1rem;
+    border-color: #e1e1ff
 }
 
 blockquote {
     font-style: italic;
-    border: thin solid $manawhite;
-    color: $manawhite;
-    padding: 1rem
-}
-
-blockquote p {
-    margin: 0
+    border: thin solid #e1e1ff;
+    color: #e1e1ff;
+    padding: 0 1rem;
+    background: transparent;
+    backdrop-filter: blur(4px) grayscale(1)
 }
 
 ::selection {
     background: darkred
 }
-
-code {
-    color: rgb(64,0,0);
-    background: $viowhite;
-    font-size: clamp(14px, #{"1vw - 0.15rem"}, 1.7vw)
-}
-
-div.highlighter-rouge code {
-    display: block;
-    overflow-x: auto;
-    white-space: pre-wrap;
-    padding: 1rem
-}
-
 
 /*Table of Contents*/
 
