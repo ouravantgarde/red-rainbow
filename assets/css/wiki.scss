@@ -15,10 +15,10 @@ html,body {
     overscroll-behavior: none;
 }
 
-#wiki {
+#wiki { // Main
     min-width: 600px;
     max-width: min(40vw, 1040px);
-    height: 94vh; // 100 - margin vh*2
+    height: 94vh; 
     margin: 3vh auto 0;
     overflow-y: auto;
     overflow-x: clip;
@@ -44,29 +44,43 @@ html,body {
     background: darkred
 }
 
+
+/* Wiki Style In Order */
+
+
 h1 {
     color: #ffebf0;
     backdrop-filter: hue-rotate(220deg);
     letter-spacing: 0.3em;
     font-size: 2em;
-    white-space: nowrap
+    white-space: nowrap;
+    ::selection {background: transparent}
 }
 
-p:not(blockquote p, .stats, .section) {
+.stats {
+    letter-spacing: 0.3em;
+    backdrop-filter: hue-rotate(220deg);
+    margin: 0;
+    line-height: 2.4em
+}
+
+.flavordesc {
+    
+}
+
+.thinrule {
+    border-color: rgba(255,255,255,0.16);
+    margin: 1em 0em 2em
+}
+
+.section {
+    font-size: 1.3em;
+    margin: 3em 0 1em
+}
+
+p:not(.stats, .section, .flavordesc, blockquote p) {
     margin: 0 0 2em;
     backdrop-filter: blur(1px)
-}
-
-blockquote {
-    border: thin solid #e1e1ff;
-    background: transparent;
-    backdrop-filter: blur(4px) grayscale(1)
-}
-
-blockquote p:not(.pending) {
-    font-style: italic;
-    color: #e1e1ff;
-    padding: 1em 1em; 
 }
 
 .passive {
@@ -81,28 +95,16 @@ blockquote p:not(.pending) {
     color: hsl(50, 100%, 60%)
 }
 
-.stats {
-    letter-spacing: 0.3em;
-    backdrop-filter: hue-rotate(220deg);
-    margin: 0;
-    line-height: 2.4em
-}
-
-.section {
-    font-size: 1.3em;
-    margin: 3em 0 1em
-}
-
-.staticrule {
-    margin: 4em -1.5em 2em;
-    background: linear-gradient(to bottom, cyan, red);
-    height: 2px;
-    border: 0
-}
-
-.thinrule {
-    border-color: rgba(255,255,255,0.16);
-    margin: 1em 0em 2em
+blockquote {
+    border: thin solid #e1e1ff;
+    background: transparent;
+    backdrop-filter: blur(4px) grayscale(1);
+    
+    p:not(.pending) {
+        font-style: italic;
+        color: #e1e1ff;
+        padding: 1em 1em; 
+        }
 }
 
 .pending {
@@ -112,8 +114,18 @@ blockquote p:not(.pending) {
     text-shadow: 0.7px 0px blue
 }
 
+.staticrule {
+    margin: 4em -1.5em 2em;
+    background: linear-gradient(to bottom, cyan, red);
+    height: 2px;
+    border: 0
+}
+
+
 /*Table of Contents*/
 
+/*Buttons do not work without javascript. Here, we can make a link into a indistinguishable button by using the line height to take up the entire "padding" we want.
+Then, we use empty entities to fill the rest of the "button's" length. Anywhere you click on the "button" works now, without any javascript*/
 
 .toc {
     position: absolute;
@@ -128,45 +140,43 @@ blockquote p:not(.pending) {
     scrollbar-width: thin;
     background: rgba(0,0,0,0.15);
     backdrop-filter: grayscale(1) blur(1.5px);
-    outline: thin solid #fff
+    outline: thin solid #fff;
+
+    ::selection {
+        background: transparent //To further make them feel like true buttons, we can "disable" highlighting them
+        };
+
+    ul {
+        display: flex;
+        flex-direction: column;
+        direction: ltr //The direction is set back so all our text is normal!
+        };
+    
+    li {
+        margin: 30px 0px 0px 0px;
+        padding-left: 1rem;
+        background: rgba(255,255,255,0.1);
+        font-family: "VGA New", serif;
+        font-size: 20px;
+        letter-spacing: 3px;
+        line-height: 2.5;
+        white-space: nowrap;
+        transition: background 0.2s,line-height 0.2s;
+
+        :hover {
+            background: rgba(255,255,255,0.8);
+            line-height: 3; 
+            box-shadow: 0px 2px rgba(0,255,255,0.5),0px -2px rgba(255,0,0,0.5);
+            transition: background 0.2s,box-shadow 0.2s;
+
+            :active {
+                background: black;
+                box-shadow: 12px 6px rgba(255,0,0,0.9),-12px -6px rgba(0,255,255,0.9)
+                }
+            }
+        }
 }
 
-.toc ul {
-    display: flex;
-    flex-direction: column;
-    direction: ltr //The direction is set back so all our text is normal!
-}
-
-/*Buttons do not work without javascript. Here, we can make a link into a indistinguishable button by using the line height to take up the entire "padding" we want.
-Then, we use empty entities to fill the rest of the "button's" length. Anywhere you click on the "button" works now, without any javascript*/
-
-.toc li {
-    margin: 30px 0px 0px 0px;
-    padding-left: 1rem;
-    background: rgba(255,255,255,0.1);
-    font-family: "VGA New", serif;
-    font-size: 20px;
-    letter-spacing: 3px;
-    line-height: 2.5;
-    white-space: nowrap;
-    transition: background 0.2s,line-height 0.2s
-}
-
-.toc li:hover {
-    background: rgba(255,255,255,0.8);
-    line-height: 3; 
-    box-shadow: 0px 2px rgba(0,255,255,0.5),0px -2px rgba(255,0,0,0.5);
-    transition: background 0.2s,box-shadow 0.2s
-}
-
-.toc li:hover:active {
-    background: black;
-    box-shadow: 12px 6px rgba(255,0,0,0.9),-12px -6px rgba(0,255,255,0.9)
-}
-
-.toc ::selection {
-    background: transparent //To further make them feel like true buttons, we can "disable" highlighting them
-}
 
 a {
     display:inline-block;
