@@ -34,7 +34,7 @@ html,body {
     -0.5px -0.5px 0px 0.5px hsla(300deg,100%,50%,35%) inset; // Line Distortion, adjusted for red bias
     color: $viowhite;
     font-family: "Courier Prime", monospace;
-    font-size: clamp(14px, #{"1vw - 0.06rem"}, 30px); // For some reason Jekyll hated me for trying to subtract different units from eachother(a standard practice elsewhere!!). The math here is interpolated to be Sassy
+    font-size: clamp(14px, #{"1vw - 0.06rem"}, 60px); // For some reason Jekyll hated me for trying to subtract different units from eachother(a standard practice elsewhere!!). The math here is interpolated to be Sassy
     line-height: 1.6;
     padding: 4em 2em;
     overflow-wrap: break-word
@@ -124,13 +124,14 @@ blockquote {
 
 /*Table of Contents*/
 
-/*Buttons do not work without javascript. Here, we can make a link into a indistinguishable button by using the line height to take up the entire "padding" we want.
-Then, we use empty entities to fill the rest of the "button's" length. Anywhere you click on the "button" works now, without any javascript*/
+/*Buttons do not work without JavaScript. Here, we can make a link into a indistinguishable button by using the line height to take up the entire "padding" we want.
+Then, we use empty entities to fill the rest of the "button's" length. Anywhere you click on the "button" works now, without any javascript.*/
+
 
 .toc {
     position: absolute;
-    width: 324px;
-    height: 100vh;
+    width: 324px; 
+    height: 100vh; //
     margin-top: -3vh;
     margin-left: calc(max(30vw, 450px) - 450px); //This "left" is all in reverse, because the direction here is set to rtl so the scrollbar is on the left. The function here helps compatibility all the way to 720p monitors.
     overflow-y: auto;
