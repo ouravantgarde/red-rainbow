@@ -119,10 +119,6 @@ Killed by Atrophy: Could you not bear its burden?
 Killed after Wail: Distressing.
 
 %-se\[-\] **Compendium Entry - "The Parrot"**
-> %-peRecieved.
->
-> &nbsp;
->
 > Hello? There are songs outside, which is unfair.
 >
 > Metal prevents flight, feathers leave my body.\
