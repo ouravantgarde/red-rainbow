@@ -5,7 +5,7 @@
 @import url(https://db.onlinewebfonts.com/c/c94e49765ec47b72f1cec8a8c4ef14c5?family=Courier+Prime);
 @import url(https://db.onlinewebfonts.com/c/9263dd1028ba2eef4981450e97433b11?family=VGA+New);
 
-$viowhite: hsla(345deg,100%,94%,100%);
+$viowhite: hsla(345deg,100%,96%,100%);
 $manawhite: hsla(240deg,100%,94%,100%);
 
 html,body {
@@ -15,7 +15,7 @@ html,body {
     overscroll-behavior: none;
 }
 
-#wiki { // Main
+#wiki { //Main
     min-width: max(600px, 40vw);
     max-width: min(40vw, 1040px);
     height: 94vh; 
@@ -29,7 +29,7 @@ html,body {
     border-radius: 15px;
     box-shadow: 
     -10px 0 150px 30px hsla(0deg,0%,0%,50%), // Dimmer
-    0 0 120px 180px hsla(0deg,0%,0%,50%), // Inside dimmer
+    0 0 120px 180px hsla(0deg,0%,0%,50%) inset, // Inside dimmer
     0.5px 0.5px 0px 0.5px hsla(180deg,100%,50%,50%) inset, // Line Distortion
     -0.5px -0.5px 0px 0.5px hsla(300deg,100%,50%,35%) inset; // Line Distortion, adjusted for red bias
     color: $viowhite;
