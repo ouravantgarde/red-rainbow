@@ -20,17 +20,17 @@ Yawns are disgusting abominations, flesh cultivated to absorb as much remnant as
 
 Yawns will stay put where they spawn, only moving slightly in a small area. They target their three different sides in three 120° radii surrounding them, and do not normally change orientation when moving.
 
-Yawns will %%pa**Consume**]% any remnants nearby them into its upper opening, depriving Reeham of mana. These remnants are released upon death.
+Yawns will %%pa**Consume**}% any remnants nearby them into its upper opening, depriving Reeham of mana. These remnants are released upon death.
 
-Yawns' %%at**Maddening**]% side constantly spews out patterns of slow projectiles that deal 40 normal damage each. These projectiles slowly accelerate over time.
+Yawns' %%at**Maddening**}% side constantly spews out patterns of slow projectiles that deal 40 normal damage each. These projectiles slowly accelerate over time.
 
-Its %%at**Gnawing**]% side will frequently create maws of energy near Reeham when in it's radius, which will dash and bite after 0.7 seconds, dealing 50 normal damage before dissipating.
+Its %%at**Gnawing**}% side will frequently create maws of energy near Reeham when in it's radius, which will dash and bite after 0.7 seconds, dealing 50 normal damage before dissipating.
 
-Its %%at**Grimacing**]% side will build up a masses of teeth and gore around enemies in its radius, growing a tooth for a random enemy every 4 seconds. Each tooth grants +5 damage to all attacks and +20 health every second, up to a maximum of 6 stacks.
+Its %%at**Grimacing**}% side will build up a masses of teeth and gore around enemies in its radius, growing a tooth for a random enemy every 4 seconds. Each tooth grants +5 damage to all attacks and +20 health every second, up to a maximum of 6 stacks.
 
-If Reeham is in above Yawns, it will %%at**Purge**]% a large beam of energy at her via its top opening, dealing 60 normal damage and applying a heavy snare that grounds and prevents jumping for 3 seconds.
+If Reeham is in above Yawns, it will %%at**Purge**}% a large beam of energy at her via its top opening, dealing 60 normal damage and applying a heavy snare that grounds and prevents jumping for 3 seconds.
 
-Every 33% of max health lost, Yawns will begin %%pa**Screaming**]% an unending monstrous howl as it rapidly spins upon its base, allowing it to use **Maddening**, **Gnawing**, and **Grimacing** in a 360° radius around it. It will also rapidly crawl around the arena. The Screaming will last for 7 seconds before it settles down in a new location.
+Every 33% of max health lost, Yawns will begin %%pa**Screaming**}% an unending monstrous howl as it rapidly spins upon its base, allowing it to use **Maddening**, **Gnawing**, and **Grimacing** in a 360° radius around it. It will also rapidly crawl around the arena. The Screaming will last for 7 seconds before it settles down in a new location.
 
 %-se\[-\] **Visuals & Lore**
 
@@ -62,9 +62,9 @@ Believed to be manifested from rapture's leftovers oozing its way all they way d
 
 Phosphenes wander around the arena, gravitating towards Reeham. As their swarm increases, they move faster and may occasionally warp forward a small distance.
 
-They will %%pa**Rive**]% to create new Phosphenes every 6 to 12 seconds, causing them to quickly amass a swarm. Phosphenes will also %%at**Leak**]% fluid that covers the ground, which deals 20 normal DPS and lasts for 7 seconds.
+They will %%pa**Rive**}% to create new Phosphenes every 6 to 12 seconds, causing them to quickly amass a swarm. Phosphenes will also %%at**Leak**}% fluid that covers the ground, which deals 20 normal DPS and lasts for 7 seconds.
 
-Phosphenes possess %%db**Viral Stability**]%. Touching them or the fluids they leave will rapidly decrease max health at a rate of 30% a second. This debuff lasts 4 seconds. If Reeham is brinking and touches Phosphenes, or brinks while under the effect of **Viral Stability**, she will instantly die regardless of any flesh health present.
+Phosphenes possess %%db**Viral Stability**}%. Touching them or the fluids they leave will rapidly decrease max health at a rate of 30% a second. This debuff lasts 4 seconds. If Reeham is brinking and touches Phosphenes, or brinks while under the effect of **Viral Stability**, she will instantly die regardless of any flesh health present.
 
 %-se\[-\] **Visuals and Lore**
 
@@ -98,13 +98,13 @@ Wall Arts are pitiful vessels, absorbing the pain around them. You should make s
 
 Wall Art will attempt to follow the largest health enemy in the arena. If that enemy dies, it will seek a new companion.
 
-Dependent on %%pa**Empathy**]%, they will drain pain from a target enemy. 33% of damage dealt to the target enemy is prevented and stored, up to 100 + 10% of the tethered enemies max health. When the target enemy begins to release light, **Empathy**'s limit has been reached, and %%at**Throes**]% emanates red static pain around Empathy's target. While **Throes** is active, it will slowly drain **Empathy**'s stored damage at a rate of 60 DPS to create a large AoE of normal damage that expands until it runs out. During **Throes**, **Empathy**'s damage absorption is disabled entirely, and **Empathy**'s target experiences 20% higher animation speed. **Throes** is also released by Wall Art when it dies, lasting on its corpse for 6 seconds.
+Dependent on %%pa**Empathy**}%, they will drain pain from a target enemy. 33% of damage dealt to the target enemy is prevented and stored, up to 100 + 10% of the tethered enemies max health. When the target enemy begins to release light, **Empathy**'s limit has been reached, and %%at**Throes**}% emanates red static pain around Empathy's target. While **Throes** is active, it will slowly drain **Empathy**'s stored damage at a rate of 60 DPS to create a large AoE of normal damage that expands until it runs out. During **Throes**, **Empathy**'s damage absorption is disabled entirely, and **Empathy**'s target experiences 20% higher animation speed. **Throes** is also released by Wall Art when it dies, lasting on its corpse for 6 seconds.
 
-While not under **Throes**, Wall Art may painfully %%at**Wail**]%, releasing a staticky shockwave that expands across the arena, dealing 10 normal damage + normal damage based on Avnlyla's current health equal to Wall Art's percentage of missing health.
+While not under **Throes**, Wall Art may painfully %%at**Wail**}%, releasing a staticky shockwave that expands across the arena, dealing 10 normal damage + normal damage based on Avnlyla's current health equal to Wall Art's percentage of missing health.
 
-Wall Art suffers all damage dealt to them in the form of %%pa**Atrophy**]%, causing them to take all damage over time. **Atrophy** bleeds out Wall Art at a maximum rate of 6.66% of max health per second, as such a Wall Art will always take at least 15 seconds to kill. **Atrophy** will spread to Avnlyla if she gets close, causing her to receive 10% of her max health as light DPS, for the amount of seconds spent in radius, plus two. As it loses health, it moves more unpredictably.
+Wall Art suffers all damage dealt to them in the form of %%pa**Atrophy**}%, causing them to take all damage over time. **Atrophy** bleeds out Wall Art at a maximum rate of 6.66% of max health per second, as such a Wall Art will always take at least 15 seconds to kill. **Atrophy** will spread to Avnlyla if she gets close, causing her to receive 10% of her max health as light DPS, for the amount of seconds spent in radius, plus two. As it loses health, it moves more unpredictably.
 
-Wall Arts will Experience %%pa**Mania**]% if they exist without pain, due to the stimulation of violence around them. Every second they are not bleeding, they give +2% damage and movement speed to the target of **Empathy**, maxing out at 30%.
+Wall Arts will Experience %%pa**Mania**}% if they exist without pain, due to the stimulation of violence around them. Every second they are not bleeding, they give +2% damage and movement speed to the target of **Empathy**, maxing out at 30%.
 
 If a Wall Art goes 5 + _x_\*10 ( _x_ = current health / max health) seconds without **Atrophy**, **Mania** will be permanently active, which is considered an enrage. An enraged Wall Art will be reborn as a Joyous upon dying.
 
@@ -116,13 +116,13 @@ As it loses health, it gains bright pink horizontally oriented cuts on it's body
 
 Wall Art is thematically about suffering. They are dependent beings that rely on the other demons, and if exposed to enough violence without suffering themselves, may unfortunately break in enabling ways.
 
-%%-se\[-\] **Death Messages**
+%-se\[-\] **Death Messages**
 
 Killed by Atrophy: Could you not bear its burden?
 
 Killed after Wail: Distressing.
 
-%%-se\[-\] **Compendium Entry - "The Parrot"**
+%-se\[-\] **Compendium Entry - "The Parrot"**
 
 > Hello?
 >
@@ -145,5 +145,4 @@ Killed after Wail: Distressing.
 > Metal keeps me unwell, atrophy prevents flight.
 > Feathers leave my body, rotting myself every second to keep me unwell.
 > Metal is rot, rot leaves my body, cleaning myself every second.
-> 
 > Metal, atrophy, rot.
