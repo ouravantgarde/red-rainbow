@@ -40,68 +40,71 @@ html,body {
     overflow-wrap: break-word
 }
 
-h1 {
-    color: rgb(160,90,130);
-    backdrop-filter: grayscale(1);
-    letter-spacing: 3px;
-    font-size: calc(clamp(14px, 1vw - 0.15rem, 1.7vw) * 2);
-    white-space: nowrap
-}
-
-p {
-    margin: 1rem 0;
-    backdrop-filter: blur(1px);
-}
-
-hr {
-    margin: 3rem 1rem;
-    border-color: #e1e1ff
-}
-
-blockquote {
-    font-style: italic;
-    border: thin solid #e1e1ff;
-    color: #e1e1ff;
-    padding: 0 1rem;
-    background: transparent;
-    backdrop-filter: blur(4px) grayscale(1)
-}
-
 ::selection {
     background: darkred
 }
 
+h1 {
+    color: #ffebf0;
+    backdrop-filter: hue-rotate(220deg);
+    letter-spacing: 0.3em;
+    font-size: 2em;
+    white-space: nowrap
+}
+
+p:not(blockquote p, .stats, .section) {
+    margin: 0 0 2em;
+    backdrop-filter: blur(1px)
+}
+
+blockquote {
+    border: thin solid #e1e1ff;
+    background: transparent;
+    backdrop-filter: blur(4px) grayscale(1)
+}
+
+blockquote p {
+    font-style: italic;
+    color: #e1e1ff;
+    padding: 1em 1em; 
+}
+
 .passive {
-    color: darkviolet;
+    color: hsl(220 100% 60% / 1)
 }
 
 .attack {
-    color: tomato
+    color: hsl(0 100% 60% / 1)
 }
 
 .debuff {
-    color: gold
+    color: hsl(50 100% 60% / 1)
 }
 
 .stats {
-    color: chocolate
+    letter-spacing: 0.3em;
+    backdrop-filter: hue-rotate(220deg);
+    margin: 0;
+    line-height: 2.4em
 }
 
 .section {
-    color: green
+    font-size: 1.3em;
+    margin: 3em 0 1em
 }
 
 .bluerule {
-    border-color: cyan
-}
-
-.redrule {
-    border-color: red
+    margin: 5em -1.5em 3em;
+    background: linear-gradient(to bottom, cyan, red);
+    height: 2px;
+    border: 0;
 }
 
 .thinrule {
-    border-color: olive
+    border-color: hsl(0deg 0% 100% / 16%);
+    margin: 1em 0em 2em
 }
+
 /*Table of Contents*/
 
 
