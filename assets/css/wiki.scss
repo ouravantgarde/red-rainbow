@@ -5,8 +5,8 @@
 @import url(https://db.onlinewebfonts.com/c/c94e49765ec47b72f1cec8a8c4ef14c5?family=Courier+Prime);
 @import url(https://db.onlinewebfonts.com/c/9263dd1028ba2eef4981450e97433b11?family=VGA+New);
 
-$viowhite: rgb(255,235,240);
-$manawhite: rgb(225,225,255);
+$viowhite: hsla(345deg,100%,94%,100%);
+$manawhite: hsla(240deg,100%,94%,100%);
 
 html,body {
     background: black url("../../wikibg.avif") no-repeat fixed;
@@ -16,25 +16,25 @@ html,body {
 }
 
 #wiki { // Main
-    min-width: 600px;
+    min-width: max(600px, 40vw);
     max-width: min(40vw, 1040px);
     height: 94vh; 
     margin: 3vh auto 0;
     overflow-y: auto;
     overflow-x: clip;
     scrollbar-gutter: stable both-edges;
-    scrollbar-color: rgba(255,255,255,0.60) transparent;
-    background: rgba(0,0,0,0.5);
-    outline: thin solid #ffffff;
+    scrollbar-color: hsla(0deg,0%,100%,60%) transparent;
+    background: hsla(0deg,0%,0%,50%);
+    outline: thin solid white;
     border-radius: 15px;
     box-shadow: 
-    -10px 0 150px 30px rgba(0,0,0,0.10), // Dimmer
-    -10px 0 60px 30px rgba(0,0,0,0.30) inset, // Inside dimmer
-    0.5px 0.5px 0px 0.5px rgba(0,255,255,0.50) inset, // Line Distortion
-    -0.5px -0.5px 0px 0.5px rgba(255,0,255,0.35) inset; // Line Distortion, adjusted for red bias
+    -10px 0 150px 30px hsla(0deg,0%,0%,50%), // Dimmer
+    0 0 120px 180px hsla(0deg,0%,0%,50%), // Inside dimmer
+    0.5px 0.5px 0px 0.5px hsla(180deg,100%,50%,50%) inset, // Line Distortion
+    -0.5px -0.5px 0px 0.5px hsla(300deg,100%,50%,35%) inset; // Line Distortion, adjusted for red bias
     color: $viowhite;
     font-family: "Courier Prime", monospace;
-    font-size: clamp(14px, #{"1vw - 0.15rem"}, 1.7vw); // For some reason Jekyll hated me for trying to subtract different units from eachother(a standard practice elsewhere!!). The math here is interpolated to be sassy
+    font-size: clamp(14px, #{"1vw - 0.06rem"}, 30px); // For some reason Jekyll hated me for trying to subtract different units from eachother(a standard practice elsewhere!!). The math here is interpolated to be Sassy
     line-height: 1.6;
     padding: 4em 2em;
     overflow-wrap: break-word
@@ -49,7 +49,7 @@ html,body {
 
 
 h1 {
-    color: #ffebf0;
+    color: $viowhite;
     backdrop-filter: hue-rotate(220deg);
     letter-spacing: 0.3em;
     font-size: 2em;
@@ -69,7 +69,7 @@ h1 {
 }
 
 .thinrule {
-    border-color: rgba(255,255,255,0.16);
+    border-color: hsla(0deg,0%,100%,15%);
     margin: 1em 0em 2em
 }
 
@@ -84,25 +84,25 @@ p:not(.stats, .section, .flavordesc, blockquote p) {
 }
 
 .passive {
-    color: hsl(220, 100%, 60%)
+    color: hsla(220,100%,60%,100%)
 }
 
 .attack {
-    color: hsl(0, 100%, 60%)
+    color: hsla(0,100%,60%,100%)
 }
 
 .debuff {
-    color: hsl(50, 100%, 60%)
+    color: hsla(50,100%,60%,100%)
 }
 
 blockquote {
-    border: thin solid #e1e1ff;
+    border: thin solid $manawhite;
     background: transparent;
     backdrop-filter: blur(4px) grayscale(1);
     
     p:not(.pending) {
         font-style: italic;
-        color: #e1e1ff;
+        color: $manawhite;
         padding: 1em 1em; 
         }
 }
@@ -138,9 +138,9 @@ Then, we use empty entities to fill the rest of the "button's" length. Anywhere 
     direction: rtl;
     scrollbar-color: white transparent;
     scrollbar-width: thin;
-    background: rgba(0,0,0,0.15);
+    background: hsla(0deg,0%,0%,15%);
     backdrop-filter: grayscale(1) blur(1.5px);
-    outline: thin solid #fff;
+    outline: thin solid white;
 
     ul {
         direction: ltr //The direction is set back so all our text is normal! 
@@ -149,7 +149,7 @@ Then, we use empty entities to fill the rest of the "button's" length. Anywhere 
     li {
         margin: 30px 0px 0px 0px;
         padding-left: 1rem;
-        background: rgba(255,255,255,0.1);
+        background: hsla(0deg,0%,100%,10%);
         font-family: "VGA New", serif;
         font-size: 20px;
         letter-spacing: 3px;
@@ -159,15 +159,15 @@ Then, we use empty entities to fill the rest of the "button's" length. Anywhere 
         };
     
     li:hover {
-        background: rgba(255,255,255,0.8);
+        background: hsla(0deg,0%,100%,80%);
         line-height: 3; 
-        box-shadow: 0px 2px rgba(0,255,255,0.5),0px -2px rgba(255,0,0,0.5);
-        transition: background 0.2s,box-shadow 0.2s;
+        box-shadow: 0px 2px hsla(180deg,100%,50%,50%),0px -2px hsla(0deg,100%,50%,50%);
+        transition: background 0.15s,box-shadow 0.15s;
         };
 
     li:hover:active {
         background: black;
-        box-shadow: 12px 6px rgba(255,0,0,0.9),-12px -6px rgba(0,255,255,0.9)
+        box-shadow: 12px 6px hsla(0deg,100%,50%,90%),-12px -6px hsla(180deg,100%,50%,90%)
         };
     
     ::selection {
@@ -175,57 +175,13 @@ Then, we use empty entities to fill the rest of the "button's" length. Anywhere 
         }
 }
 
-
 a {
     display:inline-block;
-    color: rgb(160,90,130)
+    color: hsla(325deg,25%,50%,100%)
 }
 
 a:hover {
-    text-decoration: none
-}
-
-
-/* My tooltips */
-
-
-abbr {
-    text-shadow: -0.8px 0px red;
-    transition: text-shadow 0.5s
-}
-
-abbr:hover {
-    text-shadow: 1px 1px cyan
-}
-
-abbr::after {
-    content: attr(data-title);
-    z-index: 10000;
-    position: absolute;
-    margin-top: 25px;
-    margin-left: -30px;
-    max-width: 45vw;
-    background: black;
-    color: magenta;
-    text-shadow: 10px 14px cyan, -10px -14px yellow, 10px -14px white, -10px 14px white;
-    box-shadow: 5px -5px cyan, -5px 5px magenta;
-    padding: 0.4rem;
-    font-family: monospace;
-    font-size: 12px;
-    border: 1px dashed black;
-    opacity: 0;
-    visibility: hidden;
-    transition: opacity 0s, visibility 0s, color 0s,  border 0s, text-shadow 0s, box-shadow 0s
-}
-
-abbr:hover::after{
-    opacity: 1;
-    visibility: visible;
-    color: $manawhite;
-    border: 1px dashed white;
-    text-shadow: 0 0;
-    box-shadow: 0 0;
-    transition: opacity 0.3s, visibility 0.3s, color 0.3s, border 1s, text-shadow 1s, box-shadow, 1s
+    text-decoration: none //More buttonization :>
 }
 
 
