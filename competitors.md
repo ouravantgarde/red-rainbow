@@ -40,7 +40,7 @@ It's mouths each display different expressions upon its surface. Grimacing has a
 
 %-se\[-\] **Compendium Entry**
 
-> %-pePending . . .
+> %-pePending...
 
 %-sr
 
@@ -74,7 +74,7 @@ Phosphenes are named after the colors and patterns that appear when you rub your
 
 %-se\[-\] **Compendium Entry**
 
-> %-pePending. . .
+> %-pePending...
 
 %-sr
 
@@ -121,7 +121,7 @@ Killed after Wail: Distressing.
 %-se\[-\] **Compendium Entry - "The Parrot"**
 > %-peRecieved.
 >
-> &nbsp
+> &nbsp;
 >
 > Hello? There are songs outside, which is unfair.
 >
