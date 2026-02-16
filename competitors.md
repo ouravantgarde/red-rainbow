@@ -40,7 +40,7 @@ It's mouths each display different expressions upon its surface. Grimacing has a
 
 %-se\[-\] **Compendium Entry**
 
-> Pending...
+> %-pePending . . .
 
 %-sr
 
@@ -74,7 +74,7 @@ Phosphenes are named after the colors and patterns that appear when you rub your
 
 %-se\[-\] **Compendium Entry**
 
-> Pending...
+> %-pePending. . .
 
 %-sr
 
@@ -119,7 +119,10 @@ Killed by Atrophy: Could you not bear its burden?
 Killed after Wail: Distressing.
 
 %-se\[-\] **Compendium Entry - "The Parrot"**
-
+> %-peRecieved.
+>
+> &nbsp
+>
 > Hello? There are songs outside, which is unfair.
 >
 > Metal prevents flight, feathers leave my body.\
