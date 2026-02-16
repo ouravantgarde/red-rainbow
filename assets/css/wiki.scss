@@ -106,9 +106,10 @@ blockquote p:not(.pending) {
 }
 
 .pending {
-    letter-spacing: 0.7em;
+    letter-spacing: 0.2em;
     padding: 1em 0 0.5em 1em;
-    color: red
+    color: red;
+    text-shadow: 0.7px 0px blue
 }
 
 /*Table of Contents*/
