@@ -1,4 +1,4 @@
-]% - Closes the syntax for inlines (%%)
+}% - Closes the syntax for inlines (%%)
 
 %%at - This is offensive
 
