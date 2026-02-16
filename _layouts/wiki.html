@@ -19,7 +19,7 @@
     <main id="wiki" role="main">
         {{ content 
             | replace: 'abbr title=', 'abbr data-title=' 
-            | replace: ']%', '</span>' 
+            | replace: '}%', '</span>' 
             | replace: '%%pa', '<span class="passive">' 
             | replace: '%%at', '<span class="attack">' 
             | replace: '%%db', '<span class="debuff">' 
