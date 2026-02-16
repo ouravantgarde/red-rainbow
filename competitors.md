@@ -10,7 +10,7 @@ layout: wiki
 
 %-st**Health** : 6000
 
-Yawns are disgusting abominations, flesh cultivated to absorb as much remnant as possible.
+%-fdYawns are disgusting abominations, flesh cultivated to absorb as much remnant as possible.
 
 %-tr
 
@@ -52,7 +52,7 @@ It's mouths each display different expressions upon its surface. Grimacing has a
 
 %-st**Health** : 700
 
-Believed to be manifested from rapture's leftovers oozing its way all they way down, Phosphenes are a form of viral apparition, seeking fresh magic.
+%-fdBelieved to be manifested from rapture's leftovers oozing its way all they way down, Phosphenes are a form of viral apparition, seeking fresh magic.
 
 %-tr
 
@@ -86,7 +86,7 @@ Phosphenes are named after the colors and patterns that appear when you rub your
 
 %-st**Health** : 2000
 
-Wall Arts are pitiful vessels, absorbing the pain around them. You should make sure they suffer.
+%-fdWall Arts are pitiful vessels, absorbing the pain around them. You should make sure they suffer.
 
 %-tr
 
