@@ -63,7 +63,7 @@ blockquote {
     backdrop-filter: blur(4px) grayscale(1)
 }
 
-blockquote p {
+blockquote p:not(.pending) {
     font-style: italic;
     color: #e1e1ff;
     padding: 1em 1em; 
