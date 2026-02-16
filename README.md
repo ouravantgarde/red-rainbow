@@ -1,17 +1,17 @@
-]$ - Closes the syntax for inlines ($$)
+]% - Closes the syntax for inlines (%%)
 
-$$at - This is offensive
+%%at - This is offensive
 
-$$pa - This is passive, mobility, or defensive
+%%pa - This is passive, mobility, or defensive
 
-$$db - This is a debuff
+%%db - This is a debuff
 
-$-br - Cyan rule
+%-br - Cyan rule
 
-$-rr - Red rule
+%-rr - Red rule
 
-$-tr - Thin rule
+%-tr - Thin rule
 
-$-st - Stats 
+%-st - Stats 
 
-$-se - This is a section title 
+%-se - This is a section title 
