@@ -42,9 +42,7 @@ It's mouths each display different expressions upon its surface. Grimacing has a
 
 > Pending...
 
-%-br
-
-%-rr
+%-sr
 
 # Phosphenes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -78,9 +76,7 @@ Phosphenes are named after the colors and patterns that appear when you rub your
 
 > Pending...
 
-%-br
-
-%-rr
+%-sr
 
 # Wall Art&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
