@@ -10,9 +10,9 @@ $-st**Weight** : Heavy
 
 $-st**Health** : 6000
 
-$-tr
-
 Yawns are disgusting abominations, flesh cultivated to absorb as much remnant as possible.
+
+$-tr
 
 $-se\[-\] **Abilities**
 
@@ -40,31 +40,31 @@ $-se\[-\] **Compendium Entry**
 
 > Pending...
 
-* * *
+$-br
 
-&nbsp;
-
-* * *
+$-rr
 
 # Phosphenes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-**Tier** : Normal
+$-st**Tier** : Normal
 
-**Weight** : Light
+$-st**Weight** : Light
 
-**Health** : 700
+$-st**Health** : 700
 
 Believed to be manifested from rapture's leftovers oozing its way all they way down, Phosphenes are a form of viral apparition, seeking fresh magic.
 
-\[-\] **Abilities**
+$-tr
+
+$-se\[-\] **Abilities**
 
 Phosphenes wander around the arena, gravitating towards Reeham. As their swarm increases, they move faster and may occasionally warp forward a small distance.
 
-They will **Rive** to create new Phosphenes every 6 to 12 seconds, causing them to quickly amass a swarm. Phosphenes will also **Leak** fluid that covers the ground, which deals 20 normal DPS and lasts for 7 seconds.
+They will $$pa**Rive**]$ to create new Phosphenes every 6 to 12 seconds, causing them to quickly amass a swarm. Phosphenes will also $$at**Leak**]$ fluid that covers the ground, which deals 20 normal DPS and lasts for 7 seconds.
 
-Phosphenes possess **Viral Stability**. Touching them or the fluids they leave will rapidly decrease max health at a rate of 30% a second. This debuff lasts 4 seconds. If Reeham is brinking and touches Phosphenes, or brinks while under the effect of **Viral Stability**, she will instantly die regardless of any flesh health present.
+Phosphenes possess $$db**Viral Stability**]$. Touching them or the fluids they leave will rapidly decrease max health at a rate of 30% a second. This debuff lasts 4 seconds. If Reeham is brinking and touches Phosphenes, or brinks while under the effect of **Viral Stability**, she will instantly die regardless of any flesh health present.
 
-\[-\] **Visuals and Lore**
+$-se\[-\] **Visuals and Lore**
 
 Phosphenes are vaguely humanoid pitch black silhouettes, varying between 3 and 7 feet tall with no other change in body shape. Due to this, they are usually only able to be seen in contrast with a background, however dealing damage to them, or if their swarm gets big enough, causes their form to be stained with blurry pulses of fading colors and patterns.
 
@@ -72,41 +72,41 @@ They possess sporadic and broken animations and shift between properly walking, 
 
 Phosphenes are named after the colors and patterns that appear when you rub your eyes.
 
-\[-\] **Compendium Entry**
+$-se\[-\] **Compendium Entry**
 
 > Pending...
 
-* * *
+$-br
 
-&nbsp;
-
-* * *
+$-rr
 
 # Wall Art&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-**Tier** : Greater
+$-st**Tier** : Greater
 
-**Weight** : Normal
+$-st**Weight** : Normal
 
-**Health** : 2000
+$-st**Health** : 2000
 
 Wall Arts are pitiful vessels, absorbing the pain around them. You should make sure they suffer.
 
-\[-\] **Abilities**
+$-tr
+
+$-se\[-\] **Abilities**
 
 Wall Art will attempt to follow the largest health enemy in the arena. If that enemy dies, it will seek a new companion.
 
-Dependent on **Empathy**, they will drain pain from a target enemy. 33% of damage dealt to the target enemy is prevented and stored, up to 100 + 10% of the tethered enemies max health. When the target enemy begins to release light, **Empathy**'s limit has been reached, and **Throes** emanates red static pain around Empathy's target. While **Throes** is active, it will slowly drain **Empathy**'s stored damage at a rate of 60 DPS to create a large AoE of normal damage that expands until it runs out. During **Throes**, **Empathy**'s damage absorption is disabled entirely, and **Empathy**'s target experiences 20% higher animation speed. **Throes** is also released by Wall Art when it dies, lasting on its corpse for 6 seconds.
+Dependent on $$pa**Empathy**]$, they will drain pain from a target enemy. 33% of damage dealt to the target enemy is prevented and stored, up to 100 + 10% of the tethered enemies max health. When the target enemy begins to release light, **Empathy**'s limit has been reached, and $$at**Throes**]$ emanates red static pain around Empathy's target. While **Throes** is active, it will slowly drain **Empathy**'s stored damage at a rate of 60 DPS to create a large AoE of normal damage that expands until it runs out. During **Throes**, **Empathy**'s damage absorption is disabled entirely, and **Empathy**'s target experiences 20% higher animation speed. **Throes** is also released by Wall Art when it dies, lasting on its corpse for 6 seconds.
 
-While not under **Throes**, Wall Art may painfully **Wail**, releasing a staticky shockwave that expands across the arena, dealing 10 normal damage + normal damage based on Avnlyla's current health equal to Wall Art's percentage of missing health.
+While not under **Throes**, Wall Art may painfully $$at**Wail**]$, releasing a staticky shockwave that expands across the arena, dealing 10 normal damage + normal damage based on Avnlyla's current health equal to Wall Art's percentage of missing health.
 
-Wall Art suffers all damage dealt to them in the form of **Atrophy**, causing them to take all damage over time. **Atrophy** bleeds out Wall Art at a maximum rate of 6.66% of max health per second, as such a Wall Art will always take at least 15 seconds to kill. **Atrophy** will spread to Avnlyla if she gets close, causing her to receive 10% of her max health as light DPS, for the amount of seconds spent in radius, plus two. As it loses health, it moves more unpredictably.
+Wall Art suffers all damage dealt to them in the form of $$pa**Atrophy**]$, causing them to take all damage over time. **Atrophy** bleeds out Wall Art at a maximum rate of 6.66% of max health per second, as such a Wall Art will always take at least 15 seconds to kill. **Atrophy** will spread to Avnlyla if she gets close, causing her to receive 10% of her max health as light DPS, for the amount of seconds spent in radius, plus two. As it loses health, it moves more unpredictably.
 
-Wall Arts will Experience **Mania** if they exist without pain, due to the stimulation of violence around them. Every second they are not bleeding, they give +2% damage and movement speed to the target of **Empathy**, maxing out at 30%.
+Wall Arts will Experience $$pa**Mania**]$ if they exist without pain, due to the stimulation of violence around them. Every second they are not bleeding, they give +2% damage and movement speed to the target of **Empathy**, maxing out at 30%.
 
 If a Wall Art goes 5 + _x_\*10 ( _x_ = current health / max health) seconds without **Atrophy**, **Mania** will be permanently active, which is considered an enrage. An enraged Wall Art will be reborn as a Joyous upon dying.
 
-\[-\] **Visuals & Lore**
+$-se\[-\] **Visuals & Lore**
 
 Wall Art are pastel blue, lowly detailed slender humanoids, with a bull-like head. They are around 5 feet tall, and appear to be somewhat furred. Their limbs end in small rounded points, missing hands and feet. They have unusually long arms, with which they often use to walk quadrupedally like an animal, although also sometimes walking bipedally.
 
@@ -114,13 +114,14 @@ As it loses health, it gains bright pink horizontally oriented cuts on it's body
 
 Wall Art is thematically about suffering. They are dependent beings that rely on the other demons, and if exposed to enough violence without suffering themselves, may unfortunately break in enabling ways.
 
-\[-\] **Death Messages**
+$$-se\[-\] **Death Messages**
 
 Killed by Atrophy: Could you not bear its burden?
 
 Killed after Wail: Distressing.
 
-\[-\] **Compendium Entry - "The Parrot"**
+$$-se\[-\] **Compendium Entry - "The Parrot"**
+
 > Hello?
 >
 > There are songs outside, which is unfair.
