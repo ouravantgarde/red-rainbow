@@ -124,25 +124,25 @@ Killed after Wail: Distressing.
 
 %-se\[-\] **Compendium Entry - "The Parrot"**
 
-> Hello? There are songs outside, which is unfair.\
+> Hello? There are songs outside, which is unfair.
 >
 > Metal prevents flight, feathers leave my body.\
 > Cleaning myself every day to keep myself well.\
 > There are songs outside, metal prevents flight.\
 > Preening myself every day to keep myself well, feathers leave my body.\
 >
-> Atrophy rots.\
+> Atrophy rots.
 >
 > Hello? Metal prevents flight, there are songs outside.\
 > Rot is stopped by taking care of myself every hour.\
 > Preening myself every hour to keep myself well.\
-> There are feathers outside, cleaning myself is unfair.\
+> There are feathers outside, cleaning myself is unfair.
 > 
-> Atrophy rots.\
+> Atrophy rots.
 >
 > Hello?\
 > Metal keeps me unwell, atrophy prevents flight.\
 > Feathers leave my body, rotting myself every second to keep me unwell.\
 > Metal is rot, rot leaves my body, cleaning myself every second.\
 >
-> Metal, atrophy, rot.\
+> Metal, atrophy, rot.
