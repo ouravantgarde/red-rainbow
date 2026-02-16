@@ -70,15 +70,15 @@ blockquote p {
 }
 
 .passive {
-    color: hsla(220 100% 60% / 1)
+    color: hsl(220, 100%, 60%)
 }
 
 .attack {
-    color: hsla(0 100% 60% / 1)
+    color: hsl(0, 100%, 60%)
 }
 
 .debuff {
-    color: hsla(50 100% 60% / 1)
+    color: hsl(50, 100%, 60%)
 }
 
 .stats {
