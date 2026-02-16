@@ -45,7 +45,7 @@ html,body {
 }
 
 
-/* Wiki Style In Order */
+/* Wiki Style, in entry's order */
 
 
 h1 {
@@ -142,15 +142,9 @@ Then, we use empty entities to fill the rest of the "button's" length. Anywhere 
     backdrop-filter: grayscale(1) blur(1.5px);
     outline: thin solid #fff;
 
-    ::selection {
-        background: transparent //To further make them feel like true buttons, we can "disable" highlighting them
-        };
-
     ul {
-        display: flex;
-        flex-direction: column;
-        direction: ltr //The direction is set back so all our text is normal!
-        };
+        direction: ltr //The direction is set back so all our text is normal! 
+        }; //Also, usually for something like this, you would use a Flexbox. But as the ToC is generated as a <ul>, it already organizes everything how we want it and flexbox/grid does nothing
     
     li {
         margin: 30px 0px 0px 0px;
@@ -174,7 +168,11 @@ Then, we use empty entities to fill the rest of the "button's" length. Anywhere 
     li:hover:active {
         background: black;
         box-shadow: 12px 6px rgba(255,0,0,0.9),-12px -6px rgba(0,255,255,0.9)
-        }         
+        };
+    
+    ::selection {
+        background: transparent //To further make them feel like true buttons, we can "disable" highlighting them
+        }
 }
 
 
