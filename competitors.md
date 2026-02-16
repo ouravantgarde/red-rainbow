@@ -16,6 +16,8 @@ Yawns are disgusting abominations, flesh cultivated to absorb as much remnant as
 
 %-se\[-\] **Abilities**
 
+}
+
 Yawns will stay put where they spawn, only moving slightly in a small area. They target their three different sides in three 120° radii surrounding them, and do not normally change orientation when moving.
 
 Yawns will %%pa**Consume**]% any remnants nearby them into its upper opening, depriving Reeham of mana. These remnants are released upon death.
