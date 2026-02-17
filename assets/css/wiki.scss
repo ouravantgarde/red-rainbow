@@ -28,7 +28,7 @@ html,body {
     outline: thin solid white;
     border-radius: 15px;
     box-shadow: 
-    -10px 0 150px 30px hsla(0deg,0%,0%,50%), // Dimmer
+    -10px 0 150px 30px hsla(0deg,0%,0%,40%), // Dimmer
     0 0 120px 180px hsla(0deg,0%,0%,50%) inset, // Inside dimmer
     0.5px 0.5px 0px 0.5px hsla(180deg,100%,50%,50%) inset, // Line Distortion
     -0.5px -0.5px 0px 0.5px hsla(300deg,100%,50%,35%) inset; // Line Distortion, adjusted for red bias
