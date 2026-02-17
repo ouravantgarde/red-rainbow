@@ -8,9 +8,9 @@
 
 %-sr - Static rule
 
-%-tr - Thin rule
-
 %-st - Stats 
+
+%-fd - Flavortext
 
 %-se - This is a section title 
 
