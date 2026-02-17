@@ -261,7 +261,7 @@ Phosphenes and Joyous will never imprint, and Baer will not care if they die.
 
 > %-pePending...
 
-$-sr
+%-sr
 
 # Saponificare&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -305,7 +305,7 @@ Any death: All clean!
 
 > %-pePending...
 
-$-sr
+%-sr
 
 # CH2O&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
