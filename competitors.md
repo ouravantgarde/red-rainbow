@@ -2,7 +2,7 @@
 layout: wiki
 ---
 
-# Cherry&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+# Cherry&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 %-st**Tier** : Fodder
 
@@ -31,7 +31,7 @@ INCOMPLETE INCOMPLETE
 
 %-sr
 
-## Pit&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+## Pit&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 **Tier** : Fodder
 
@@ -170,7 +170,7 @@ Killed after Wail: *Distressing.*
 > Metal prevents flight, feathers leave my body.\
 > Cleaning myself every day to keep myself well.\
 > There are songs outside, metal prevents flight.\
-> Preening myself every day to keep myself well, feathers leave my body.\
+> Preening myself every day to keep myself well, feathers leave my body.
 >
 > Atrophy rots.
 >
@@ -184,7 +184,7 @@ Killed after Wail: *Distressing.*
 > Hello?\
 > Metal keeps me unwell, atrophy prevents flight.\
 > Feathers leave my body, rotting myself every second to keep me unwell.\
-> Metal is rot, rot leaves my body, cleaning myself every second.\
+> Metal is rot, rot leaves my body, cleaning myself every second.
 >
 > Metal, atrophy, rot.
 
@@ -210,11 +210,11 @@ At no aggression, it will %%at**Spit**++% blood projectiles at the player for 30
 
 Joyous will become a deadly threat the second they land an attack. At level one aggression, they will move faster and gain the ability to %%pa**Dash**++%, boosting in any strafe direction. All their abilities can be used while moving. They may frequently use %%at**Gutsling**++%, bending over backwards slightly to open their abdomen to predictively fire out their guts in a reeling line for 40 normal damage. Getting hit by this heals Joyous for 500 health and pulls you towards it a bit. They can also vent %%at**Steam**++% via one of their external hearts, creating a constant stream of 50 light DPS boiling blood for a few seconds in-front of it for 3 seconds, applying a stack of **???** for every second exposed.
 
-With four stacks of **???**, Joyous will begin diving Avnlyla, still attempting ranged circling attacks but also frequently and relentlessly chasing her. It will occasionally %%pa**Leap**++% directly towards the player, or %%pa**Glide**++% to extend any dash or leap. It now uses special melee attacks, such as %%at**Slash**++%, quickly and consecutively dealing 30 normal damage while trying to stay close. It can also %%at**Grapple**++%%, boosting into the air and pulling you upwards with it for 20 normal damage, applying a light air control reducing snare and immediately attempting to enter another attack.
+With four stacks of **???**, Joyous will begin diving Avnlyla, still attempting ranged circling attacks but also frequently and relentlessly chasing her. It will occasionally %%pa**Leap**++% directly towards the player, or %%pa**Glide**++% to extend any dash or leap. It now uses special melee attacks, such as %%at**Slash**++%, quickly and consecutively dealing 30 normal damage while trying to stay close. It can also %%at**Grapple**++%, boosting into the air and pulling you upwards with it for 20 normal damage, applying a light air control reducing snare and immediately attempting to enter another attack.
 
-At 8 stacks of **???**, it will become even faster in its attacks, and unlock %%at**Spine Throttle**++++%%, where it will attempt to bite Avnlyla after using Grapple or Glide, or if Avnlyla is below 30 health. It does 40 heavy damage and applies a light stun snare.
+At 8 stacks of **???**, it will become even faster in its attacks, and unlock %%at**Spine Throttle**++%, where it will attempt to bite Avnlyla after using Grapple or Glide, or if Avnlyla is below 30 health. It does 40 heavy damage and applies a light stun snare.
 
-Joyous are also dangerously %%pa**Masochistic**++%%, and react intensely to being damaged. They dive more frequently at lower health. Their 2 external hearts will also beat faster as they take damage, start beating rapidly at 700 damage taken, and will regenerate every 15 seconds or if they land Gutsling. Once you hear them beating fast, it can use %%at**Cardiac Arrest**++% to buff its attacks with a 40 normal damage explosion. Up close, it may rip off one of it's external hearts and hit you with it. From afar, one of its hearts may be dragged inside through its viscera and sent as a payload for Gutsling, exploding on impact or being dropped and exploding after a second if Gutsling misses.
+Joyous are also dangerously %%pa**Masochistic**++%, and react intensely to being damaged. They dive more frequently at lower health. Their 2 external hearts will also beat faster as they take damage, start beating rapidly at 700 damage taken, and will regenerate every 15 seconds or if they land Gutsling. Once you hear them beating fast, it can use %%at**Cardiac Arrest**++% to buff its attacks with a 40 normal damage explosion. Up close, it may rip off one of it's external hearts and hit you with it. From afar, one of its hearts may be dragged inside through its viscera and sent as a payload for Gutsling, exploding on impact or being dropped and exploding after a second if Gutsling misses.
 
 Furthermore, breaks have no affect on Joyous besides causing them to stand still to adjust themselves. Breaking any limbs or any massive impacts will instead cause Joyous to immediately enter Cardiac Arrest and use %%at**Pain Beam**++%, a deadly laser slash originating from it's right (lack-of)eye that attempts to slightly follow the player. Pain Beam deals 70 heavy DPS and applies the %%db**Mindbreak**++% debuff, disabling Avnlyla's spells and attacking for it's duration.
 
@@ -249,8 +249,9 @@ Jahai: **Plʔεŋ** \- Smell of meat that attracts tigers
 %-se\[-\] **Compendium Entry - "Adrenaline"**
 > Wake to adrenaline\
 > Wake to your desires\
-> Buy me. Cut me. Eat me. Consume me!\
-> Your love makes me bleed\
+> Buy me. Cut me. Eat me. Consume me.
+> Your love makes me bleed
+>
 > Your eyes and heart, set upon my beautiful gore\
 > Your addiction for pain\
 > Splay and fill me\
@@ -259,7 +260,8 @@ Jahai: **Plʔεŋ** \- Smell of meat that attracts tigers
 > pain
 >   
 > For every moment of pain and pleasure that brought me to your epoch\
-> I bring gluttony and lust\
+> I bring gluttony and lust
+>
 > I am meat\
 > I am the enabling flesh\
 > I am your violence\
@@ -268,7 +270,7 @@ Jahai: **Plʔεŋ** \- Smell of meat that attracts tigers
 
 %-sr
 
-# Baer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+# Baer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 %-st**Tier** : Supreme
 
@@ -361,7 +363,7 @@ Any death: All clean!
 
 %-sr
 
-# CH2O&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+# CH2O&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 %-st**Tier** : Supreme
 
