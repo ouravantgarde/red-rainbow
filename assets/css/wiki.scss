@@ -28,13 +28,13 @@ html,body {
     outline: thin solid white;
     border-radius: 15px;
     box-shadow: 
-    -10px 0 150px 30px hsla(0deg,0%,0%,40%), // Dimmer
-    0 0 120px 180px hsla(0deg,0%,0%,50%) inset, // Inside dimmer
-    0.5px 0.5px 0px 0.5px hsla(180deg,100%,50%,50%) inset, // Line Distortion
-    -0.5px -0.5px 0px 0.5px hsla(300deg,100%,50%,35%) inset; // Line Distortion, adjusted for red bias
+    -10px 0 150px 30px hsla(0deg,0%,0%,30%), //Dimmer
+    0 0 120px 180px hsla(0deg,0%,0%,50%) inset, //Inside Dimmer
+    0.5px 0.5px 0px 0.5px hsla(180deg,100%,50%,50%) inset, //Line Distortion
+    -0.5px -0.5px 0px 0.5px hsla(300deg,100%,50%,35%) inset; //Line Distortion, adjusted for red bias
     color: $viowhite;
     font-family: "Courier Prime", monospace;
-    font-size: clamp(14px, #{"1vw - 0.06rem"}, 60px); // For some reason Jekyll hated me for trying to subtract different units from eachother(a standard practice elsewhere!!). The math here is interpolated to be Sassy
+    font-size: clamp(14px, #{"1vw - 0.06rem"}, 60px); //For some reason Jekyll hated me for trying to subtract different units from eachother(a standard practice elsewhere!!). The math here is interpolated to be Sassy
     line-height: 1.6;
     padding: 4em 2em;
     overflow-wrap: break-word
@@ -49,13 +49,14 @@ html,body {
 
 
 h1 {
+    border-top: thin solid hsla(0deg,100%,100%,15%);
     color: $viowhite;
     backdrop-filter: hue-rotate(220deg);
     letter-spacing: 0.3em;
     font-size: 2em;
-    white-space: nowrap;
-    ::selection {background: transparent}
+    white-space: nowrap
 }
+    h1::selection {background: transparent}
 
 .stats {
     letter-spacing: 0.3em;
@@ -65,12 +66,8 @@ h1 {
 }
 
 .flavordesc {
-    
-}
-
-.thinrule {
-    border-color: hsla(0deg,0%,100%,15%);
-    margin: 1em 0em 2em
+    backdrop-filter: hue-rotate(220deg);
+    border-bottom: thin solid hsla(0deg,100%,100%,15%)
 }
 
 .section {
