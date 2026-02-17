@@ -66,8 +66,7 @@ h1 {
 }
 
 .flavordesc {
-    backdrop-filter: hue-rotate(220deg);
-    border-bottom: thin solid hsla(0deg,100%,100%,15%)
+    backdrop-filter: hue-rotate(220deg)
 }
 
 .section {
@@ -100,7 +99,7 @@ blockquote {
     p:not(.pending) {
         font-style: italic;
         color: $manawhite;
-        padding: 1em 1em; 
+        padding: 1em 1em
         }
 }
 
@@ -153,14 +152,14 @@ Then, we use empty entities to fill the rest of the "button's" length. Anywhere 
         letter-spacing: 3px;
         line-height: 2.5;
         white-space: nowrap;
-        transition: background 0.2s,line-height 0.2s;
+        transition: background 0.2s,line-height 0.2s
         };
     
     li:hover {
         background: hsla(0deg,0%,100%,80%);
         line-height: 3; 
         box-shadow: 0px 2px hsla(180deg,100%,50%,50%),0px -2px hsla(0deg,100%,50%,50%);
-        transition: background 0.15s,box-shadow 0.15s;
+        transition: background 0.15s,box-shadow 0.15s
         };
 
     li:hover:active {
