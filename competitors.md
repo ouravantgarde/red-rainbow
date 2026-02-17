@@ -2,6 +2,58 @@
 layout: wiki
 ---
 
+# Cherry
+
+%-st**Tier** : Fodder
+
+%-st**Weight** : None
+
+%-st**Health** : 600
+
+%-fdCherries are ambient and beautiful things that migrate between the facets in flocks; They quell the violence and mania around them.
+
+%-se\[-\] **Abilities**
+
+Cherries always come in flocks of two to five, and move together as such. They rapidly spread out if one of them takes 33% of their health in damage.
+
+Cherries will %%db**Lull**++% things around them, including Avnlyla. **Lulled** beings can't use abilities, jump, or be enraged. They also move 50% slower and take 80% less damage.
+
+INCOMPLETE INCOMPLETE
+
+
+\[-\] **Compendium Entry - "Angel Eyes"**
+
+> Please don't look away.  
+>   
+> I like when you look at me so closely.  
+>   
+> I want this to be what I last see. Can you do that for me?
+
+%-sr
+
+## Pit
+**Tier** : Fodder
+**Weight** : None
+**Health** : 1
+
+INCOMPLETE INCOMPLETE
+
+Pits take the form of barely real or coherent eyes, with a randomly colored flat glow surrounding them. Each one's model is given random shading and lighting, often not following the design rules of the game. They always face the player.
+
+\[-\] **Compendium Entry - "Antiprovidence"**
+
+> In the semiosphere\[sic\], eyes are the universal symbol of danger.  
+>   
+> "I know you exist"  
+>   
+> What could be scarier than being seen? Animals plaster themselves in false eyes and elaborate eye patterns. For no other reason but to scare off predators, to make them feel watched.  
+>   
+> We aren't all that different. Staring is seen as disrespectful, Heaven forbid a stranger stare at you as if they know you. There's the mythological concepts of evil eyes and basilisks, they controlled entire civilizations. Yet because of our sapient fear, we see eyes as protection. The hamsa. The Eye of Providence, Horus, or those of Buddha.  
+>   
+> All god does anymore is watch.
+
+%-sr
+
 # Yawns&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 %-st**Tier** : Greater
@@ -315,7 +367,7 @@ Any death: All clean!
 
 %-st**Health** : 2000
 
-CH2Os are sadistic apparitions that relish in mischief and suffering. They are few in numbers and exceedingly loyal to Caroline, but are sometimes enabled to do as they please.
+%-fdCH2Os are sadistic apparitions that relish in mischief and suffering. They are few in numbers and exceedingly loyal to Caroline, but are sometimes enabled to do as they please.
 
 %-se\[-\] **Abilities**
 
@@ -323,9 +375,9 @@ CH2O floats around, with no care for its orientation. It is capable of %%pa**Fad
 
 CH2O are %%pa**Sadistic**++%, and gain +10% more damage for every debuff Avnlyla has, +10% if she is below half health, and +10% if she is below half mana. They will also heal 5% of their health every time she kills an enemy.
 
-When spaced away from Avnlyla, it may **Serrate**, dashing to the either side of her and cutting a horizontal slash in her direction, dealing 50 normal damage. If Avnlyla is in the air, it will instead warp to her and **Cleave**, making a vertical spike that grounds and deals 40 normal damage. If it has been out of view for more than 8 seconds, including due to **Fading**, it may with only the least generous cues **Backstab**, slicing past her to deal 30 light damage, entering another attack or **Fading** just a second after. 
+When spaced away from Avnlyla, it may %%at**Serrate**++%, dashing to the either side of her and cutting a horizontal slash in her direction, dealing 50 normal damage. If Avnlyla is in the air, it will instead warp to her and %%at**Cleave**++%, making a vertical spike that grounds and deals 40 normal damage. If it has been out of view for more than 8 seconds, including due to **Fading**, it may with only the least generous cues %%at**Backstab**++%, slicing past her to deal 30 light damage, entering another attack or **Fading** just a second after. 
 
-If Avnlyla has more than 3 buffs, CH2O will occasionally attempt to **Contemn** her with a dark pink slash. This will apply a special debuff that removes a buff Avnlyla has every second, each time healing CH2O for 5% of its max health, while removing 10% of Avnlyla's current health, which lasts 7 seconds. All of its cutting attacks cause %%db**Veinspasm**++%, removing a stamina charge for 5 seconds and causing any damage taken to cause a 7 normal DPS DoT effect for 5 seconds.
+If Avnlyla has more than 3 buffs, CH2O will occasionally attempt to %%at**Contemn**++% her with a dark pink slash. This will apply a special debuff that removes a buff Avnlyla has every second, each time healing CH2O for 5% of its max health, while removing 10% of Avnlyla's current health, which lasts 7 seconds. All of its cutting attacks cause %%db**Veinspasm**++%, removing a stamina charge for 5 seconds and causing any damage taken to cause a 7 normal DPS DoT effect for 5 seconds.
 
 Very rarely, a chance that increases as Avnlyla kills enemies, CH2O will crawl out of its pocket dimension, bringing with it sludge that leaks out to the floor and applies %%db**Viral Stability**++%(see Phosphenes/Migraines). It will quickly throw a red light into the air before immediately leaving the arena. This will bloom into %%at**Vice in Vanitas**++%, a hypnotic symbol that floats in the air. Looking at **Vice in Vanitas** will expose you to its desire, and if it has been visible in *any* way for more than 3 seconds total since spawning in Avnlyla will will be considered fully exposed. Afterwards, **Vice in Vanitas** will apply one stack of the debuff %%db**Death Fantasy**++%. A stack is gained whenever it is observed, with a half second of immunity. **Death Fantasy** builds up over course of 15 seconds to consume one stack, which deals 30 heavy damage + 5% of Avnlyla's missing health as damage. This affect causes time to slow down before rapidly speeding up, then going back down to normal over the course of 3 seconds. This will continue to happen every 20 seconds until all **Death Fantasy** stacks have been used, however in practice it will happen every 15 seconds due to the gamespeed.
 
