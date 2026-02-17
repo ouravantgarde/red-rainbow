@@ -275,7 +275,7 @@ Phosphenes and Joyous will never imprint, and Baer will not care if they die.
 
 %-se\[-\] **Abilities**
 
-Saponificare use soap to create obstacles. Passively, they release %%pa**Bubbles**++% around them, at a rate of 2 bubbles a second. Any corpses near them will be visited and melted into 5 bubbles. These bubbles deal 10 light damage. Any bubbles it creates pop immediately if it is snared, or can be popped with any weapon. Saponificare may also $$at**Wiggle**++% to rapidly generate bubbles, at a rate of 10 a second.
+Saponificare use soap to create obstacles. Passively, they release %%pa**Bubbles**++% around them, at a rate of 2 bubbles a second. Any corpses near them will be visited and melted into 5 bubbles. These bubbles deal 10 light damage. Any bubbles it creates pop immediately if it is snared, or can be popped with any weapon. Saponificare may also %%at**Wiggle**++% to rapidly generate bubbles, at a rate of 10 a second.
 
 Saponificare's main ability is %%pa**Clean**++%. It will steady and stop moving, producing 3 bubbles a second, and becoming immune to falters and most snares. All bubbles in the arena will then begin sparkling, indicating they now deal 30 normal damage and can not be popped. The bubbles are now in Saponificare's full control.
 
