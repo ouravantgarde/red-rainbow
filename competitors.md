@@ -12,11 +12,7 @@ layout: wiki
 
 %-fdYawns are disgusting abominations, flesh cultivated to absorb as much remnant as possible.
 
-%-tr
-
 %-se\[-\] **Abilities**
-
-
 
 Yawns will stay put where they spawn, only moving slightly in a small area. They target their three different sides in three 120° radii surrounding them, and do not normally change orientation when moving.
 
@@ -54,8 +50,6 @@ It's mouths each display different expressions upon its surface. Grimacing has a
 
 %-fdBelieved to be manifested from rapture's leftovers oozing its way all they way down, Phosphenes are a form of viral apparition, seeking fresh magic.
 
-%-tr
-
 %-se\[-\] **Abilities**
 
 Phosphenes wander around the arena, gravitating towards Reeham. As their swarm increases, they move faster and may occasionally warp forward a small distance.
@@ -87,8 +81,6 @@ Phosphenes are named after the colors and patterns that appear when you rub your
 %-st**Health** : 2000
 
 %-fdWall Arts are pitiful vessels, absorbing the pain around them. You should make sure they suffer.
-
-%-tr
 
 %-se\[-\] **Abilities**
 
