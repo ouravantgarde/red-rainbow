@@ -10,15 +10,15 @@ layout: wiki
 
 %-st**Health** : 600
 
-%-fdCherries are ambient and beautiful things that migrate between the facets in flocks; They quell the violence and mania around them.
+%-fdCherries are ambient and beautiful things that migrate between the facets in flocks. They seem to quell the violence and mania around them.
 
 %-se\[-\] **Abilities**
 
-Cherries always come in flocks of two to five, and move together as such. They rapidly spread out if one of them takes 33% of their health in damage.
+Cherries always come in flocks of two to five, and move together as such. They rapidly spread out if one takes too much damage.
 
-Cherries will %%db**Lull**++% things around them, including Avnlyla. **Lulled** beings can't use abilities, jump, or be enraged. They also move 50% slower and take 80% less damage.
+Cherries will %%db**Lull**++% actors around them, excluding other Cheries. **Lulled** beings are silenced, disarmed, can not jump or dash, and take 80% less damage. Anytime something **Lulled** takes damage, every Cherry a gains a stack of %%pa**Distress**++%.
 
-INCOMPLETE INCOMPLETE
+Anytime something dies, every Cherry will consume a stack of **Distress** to invade the closest target, quickly flying past with their flowing tendrils and marking them with a glowing %%db**Inhibition**++%. **Inhibition** is a stacking debuff that causes any damage dealt by the affected actor to cost health(A rate of 100 damage = 4% of current health as self damage. This self damage is light damage and can't damage you below 20% health). This self damage is siphoned to all Cherries, which will increase their max health. Stacks will be consumed for every 40% of max health as self damage taken, one at a time, which is the only way to get rid of **Inhibition** besides cleanses. Every stack beyond the first increases the current health as self damage by 2%.
 
 
 \[-\] **Compendium Entry - "Angel Eyes"**
@@ -31,7 +31,7 @@ INCOMPLETE INCOMPLETE
 
 %-sr
 
-## Pit&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+## pit&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 **Tier** : Fodder
 
