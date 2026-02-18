@@ -51,7 +51,7 @@ html,body {
 h1 {
     border-top: thin solid hsla(0deg,100%,100%,15%);
     color: $viowhite;
-    backdrop-filter: hue-rotate(220deg);
+    //backdrop-filter: hue-rotate(220deg);
     letter-spacing: 0.3em;
     font-size: 2em;
     white-space: nowrap
@@ -60,13 +60,13 @@ h1 {
 
 .stats {
     letter-spacing: 0.3em;
-    backdrop-filter: hue-rotate(220deg);
+    //backdrop-filter: hue-rotate(220deg);
     margin: 0;
     line-height: 2.4em
 }
 
 .flavordesc {
-    backdrop-filter: hue-rotate(220deg)
+   // backdrop-filter: hue-rotate(220deg)
 }
 
 .section {
