@@ -56,7 +56,7 @@ Every resurrection past the first will have less and less health(50%, 33%, 25%, 
 
 %-se\[-\] **Abilities**
 
-pits are
+pits move rapidly and sporadically between different enemies. A pit is %%pa**Ignorant**++%
 
 \[-\] **Compendium Entry - "Antiprovidence"**
 
