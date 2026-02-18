@@ -24,7 +24,7 @@ A cherry will release their %%pa**Shadow**++% when they die, giving birth to cal
 
 %-se\[-\] **Visuals & lore**
 
-Cherries are long flowing creatures, resembling deep sea life. They are composed of a head, which is an abstract eye symbol held by a vague slight "head" of glossy translucent material. Like a jellyfish, from the head extends many tendrils. The tendrils vary in count and material, some appear like string lights, others appear like neon tubing, others like flowing cloth. The colors of every Cherry are vibrant of disperse, no tentacle is like another. The eyes also have many variation in how the symbol is formed. The move through the air in a way similar to eels.
+Cherries are long flowing creatures, resembling deep sea life. They are composed of a head, which is an abstract eye symbol held by a vague slight "head" of glossy translucent material. Like a jellyfish, from the head extends many tendrils. The tendrils vary in count and material, some appear like string lights, others appear like neon tubing, others like flowing cloth. The colors of every Cherry are vibrant and diverse, no tentacle is like another. The eyes also have many variation in how the symbol is formed. They move through the air in a way similar to eels.
 
 On death, a Cherry will appear to rapidly turn inside out into a black nothingness before dissipating. Alongside the shadow, a single light floats away. The shadow releases pits, which may cause rapid lines of blood to flind from them, and its miasma is a sparkling cloud of darkness.
 
