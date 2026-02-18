@@ -16,9 +16,10 @@ layout: wiki
 
 Cherries always come in flocks of two to five, and move together as such. They rapidly spread out if one takes too much damage.
 
-Cherries will %%db**Lull**++% actors around them, excluding other Cheries. **Lulled** beings are silenced, disarmed, can not jump or dash, and take 80% less damage. Anytime something **Lulled** takes damage, every Cherry a gains a stack of %%pa**Distress**++%.
+Cherries will %%db**Lull**++% actors around them, excluding other Cheries. **Lulled** beings are silenced, disarmed, can not jump or dash, and take 80% less damage.
 
-Anytime something dies, every Cherry will consume a stack of **Distress** to invade the closest target, quickly flying past with their flowing tendrils and marking them with a glowing %%db**Inhibition**++%. **Inhibition** is a stacking debuff that causes any damage dealt by the affected actor to cost health(A rate of 100 damage = 4% of current health as self damage. This self damage is light damage and can't damage you below 20% health). This self damage is siphoned to all Cherries, which will increase their max health. Stacks will be consumed for every 40% of max health as self damage taken, one at a time, which is the only way to get rid of **Inhibition** besides cleanses. Every stack beyond the first increases the current health as self damage by 2%.
+Anytime something dies, every Cherry will invade the closest target, quickly flying past with their flowing tendrils and marking them with a glowing %%db**Inhibition**++%. **Inhibition** is a stacking debuff that causes any damage dealt by the affected actor to cost health(A rate of 70 damage = 4% of current health as self damage. This self damage can't damage anything below 20% health). The elf damage is siphoned to all Cherries, which will increase their max health. Stacks will be consumed for every 40% of max health as self damage taken, one at a time. This is the only way to get rid of **Inhibition**. Every stack beyond the first increases the current health as self damage by 2%.
+
 
 
 \[-\] **Compendium Entry - "Angel Eyes"**
@@ -48,11 +49,11 @@ Pits take the form of barely real or coherent eyes, with a randomly colored flat
 >   
 > "I know you exist"  
 >   
-> What could be scarier than being seen? Animals plaster themselves in false eyes and elaborate eye patterns. For no other reason but to scare off predators, to make them feel watched.  
+> What could be scarier than being seen? Animals plaster themselves in false eyes and elaborate eye patterns for no other reason but to scare off predators, to make them feel watched.  
 >   
-> We aren't all that different. Staring is seen as disrespectful, Heaven forbid a stranger stare at you as if they know you. There's the mythological concepts of evil eyes and basilisks, they controlled entire civilizations. Yet because of our sapient fear, we see eyes as protection. The hamsa. The Eye of Providence, Horus, or those of Buddha.  
+> We aren't all that different. Staring is seen as disrespectful, Heaven forbid a stranger stare at you as if they know you. Then there's the mythological concepts of evil eyes and basilisks, they controlled entire civilizations. Yet because of our sapient fear, we see eyes as protection. The hamsa. The Eye of Providence, Horus, or those of Buddha.  
 >   
-> All god does anymore is watch.
+> Is it true that all god does anymore is watch?
 
 %-sr
 
@@ -177,7 +178,7 @@ Killed after Wail: *Distressing.*
 > Hello? Metal prevents flight, there are songs outside.\
 > Rot is stopped by taking care of myself every hour.\
 > Preening myself every hour to keep myself well.\
-> There are feathers outside, cleaning myself is unfair.
+> There are feathers outside, cleaning myself is unfair.\
 > Cleaning myself every hour.
 > 
 > Atrophy rots.
