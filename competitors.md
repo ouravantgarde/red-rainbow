@@ -14,13 +14,25 @@ layout: wiki
 
 %-se\[-\] **Abilities**
 
-Cherries always come in flocks of two to five, and move together as such. They rapidly spread out if one takes too much damage.
+Cherries always come in flocks of two to five, and move together as such. They move slowly between enemies, and rapidly spread out if one takes too much damage.
 
-Cherries will %%db**Lull**++% actors around them, excluding other Cheries. **Lulled** beings are silenced, disarmed, can not jump or dash, and take 80% less damage.
+It will %%db**Lull**++% actors around its eye, excluding other Cheries. **Lulled** beings are interrupted, silenced, disarmed, deitemed, can not jump or dash, and take 80% less damage. Avnlyla will uniquely recieve 5 HPS barrier healing when **lulled**.
 
-Anytime something dies, every Cherry will invade the closest target, quickly flying past with their flowing tendrils and marking them with a glowing %%db**Inhibition**++%. **Inhibition** is a stacking debuff that causes any damage dealt by the affected actor to cost health(A rate of 70 damage = 4% of current health as self damage. This self damage can't damage anything below 20% health). The elf damage is siphoned to all Cherries, which will increase their max health. Stacks will be consumed for every 40% of max health as self damage taken, one at a time. This is the only way to get rid of **Inhibition**. Every stack beyond the first increases the current health as self damage by 2%.
+Anytime something dies, every Cherry will invade the closest target, quickly flying past with their flowing lights and marking them with a glowing %%db**Inhibition**++%. **Inhibition** is a stacking debuff that causes any damage dealt by the affected actor to cost health(A rate of 70 damage = 4% of current health as self damage. This self damage can't damage anything below 20% health). The elf damage is siphoned to all Cherries, which will increase their max health. Stacks will be consumed for every 30% of max health as self damage taken, one at a time. This is the only way to get rid of **Inhibition**. Every stack beyond the first increases the current health as self damage by 2%.
 
+A cherry will release their %%pa**Shadow**++% when they die, giving birth to calamities. The **Shadow** will always manifest one pit, and will release an extra pit per every 150 max health gained above base. Anytime something **Lulled** takes damage from another actor(a cooldown of 3 seconds), the Cherry will gain a stack of **distress**. At one distress, every pit will spawn with a torrent of blood as a random firing of 16 projectiles, dealing 20 light damage. At two distress, the **Shadow** will %%at**Leak** black fluid onto the ground(see phosphenes/migraines). At three distress, it will release a blanketing miasma that applies a 30% slow, nearsights, and deals 10 light DPS. The miasma goes away after 10 seconds. At four distress, a random enemy will be ressurected at 50% health.
 
+%-se\[-\] **Visuals & lore**
+
+Cherries are long flowing creatures, resembling deep sea life. They are composed of a head, which is an abstract eye symbol held by a vague slight "head" of glossy translucent material. Like a jellyfish, from the head extends many tendrils. The tendrils vary in count and material, some appear like string lights, others appear like neon tubing, others like flowing cloth. The colors of every Cherry are vibrant of disperse, no tentacle is like another. The eyes also have many variation in how the symbol is formed. The move through the air in a way similar to eels.
+
+On death, a Cherry will appear to rapidly turn inside out into a black nothingness before dissipating. Alongside the shadow, a single light floats away. The shadow releases pits, which may cause rapid lines of blood to flind from them, and its miasma is a sparkling cloud of darkness.
+
+%-se\[-\] **Extras**
+
+A Cherry will instantly die if it reaches 600 bonus max health or 6 stacks of distress. Cherries do not count as enemies for arena completion, and thus do not need to be killed. Cherries above 2 distress will fly away, cherries below 2 distress will stay near Avnlyla until all barrier is restored, leaving afterwards or if another arena has begun.
+
+Every resurrection past the first will have less and less health.
 
 \[-\] **Compendium Entry - "Angel Eyes"**
 
@@ -111,7 +123,7 @@ Phosphenes wander around the arena, gravitating towards Avnlyla. As their swarm 
 
 They will %%pa**Rive**++% to create new Phosphenes every 6 to 12 seconds, causing them to quickly amass a swarm. Phosphenes will also %%at**Leak**++% fluid that covers the ground, which deals 20 normal DPS and lasts for 7 seconds.
 
-Phosphenes possess %%db**Viral Stability**++%. Touching them or the fluids they leave will rapidly decrease max health at a rate of 30% a second. This debuff lasts 4 seconds. If Avnlyla is brinking and touches Phosphenes, or brinks while under the effect of **Viral Stability**, she will instantly die regardless of any flesh health present.
+Phosphenes possess %%db**Viral Stability**++%. Touching them or the fluids they leave will rapidly scale and decrease max health at a rate of 20% a second. This debuff lasts 4 seconds. If Avnlyla is brinking and touches Phosphenes, or brinks while under the effect of **Viral Stability**, she will instantly die regardless of any flesh health present.
 
 %-se\[-\] **Visuals and Lore**
 
