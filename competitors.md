@@ -178,6 +178,7 @@ Killed after Wail: *Distressing.*
 > Rot is stopped by taking care of myself every hour.\
 > Preening myself every hour to keep myself well.\
 > There are feathers outside, cleaning myself is unfair.
+> Cleaning myself every hour.
 > 
 > Atrophy rots.
 >
@@ -186,7 +187,7 @@ Killed after Wail: *Distressing.*
 > Feathers leave my body, rotting myself every second to keep me unwell.\
 > Metal is rot, rot leaves my body, cleaning myself every second.
 >
-> Metal, atrophy, rot.
+> Atrophy rots.
 
 %-sr
 
