@@ -30,9 +30,9 @@ On death, a Cherry will appear to rapidly turn inside out into a black nothingne
 
 %-se\[-\] **Extras**
 
-A Cherry will instantly die if it reaches 600 bonus max health or 6 stacks of distress. Cherries do not count as enemies for arena completion, and thus do not need to be killed. Cherries above 2 distress will fly away, cherries below 2 distress will stay near Avnlyla until all barrier is restored, leaving afterwards or if another arena has begun.
+A Cherry will instantly die if it reaches 600 bonus max health or 6 stacks of distress. Cherries do not count as enemies for arena completion, and thus do not need to be killed. If a cherry has more than two stacks of distress, they will fly away. However if below two distress it will stay near Avnlyla until all her barrier is restored, leaving afterwards or if another arena has begun.
 
-Every resurrection past the first will have less and less health.
+Every resurrection past the first will have less and less health(50%, 33%, 25%, etc)
 
 \[-\] **Compendium Entry - "Angel Eyes"**
 
@@ -46,14 +46,17 @@ Every resurrection past the first will have less and less health.
 
 ## pit&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-**Tier** : Fodder
+%-st**Tier** : Fodder
 
-**Weight** : None
-**Health** : 1
+%-st**Weight** : None
 
-INCOMPLETE INCOMPLETE
+%-st**Health** : 1
 
-Pits take the form of barely real or coherent eyes, with a randomly colored flat glow surrounding them. Each one's model is given random shading and lighting, often not following the design rules of the game. They always face the player.
+%-fdpits are chaotic stains of negativity, imposing themselves on the environment.
+
+%-se\[-\] **Abilities**
+
+pits are
 
 \[-\] **Compendium Entry - "Antiprovidence"**
 
@@ -65,7 +68,7 @@ Pits take the form of barely real or coherent eyes, with a randomly colored flat
 >   
 > We aren't all that different. Staring is seen as disrespectful, Heaven forbid a stranger stare at you as if they know you. Then there's the mythological concepts of evil eyes and basilisks, they controlled entire civilizations. Yet because of our sapient fear, we see eyes as protection. The hamsa. The Eye of Providence, Horus, or those of Buddha.  
 >   
-> Is it true that all god does anymore is watch?
+> All god does anymore is watch.
 
 %-sr
 
@@ -401,7 +404,7 @@ Very rarely, a chance that increases as Avnlyla kills enemies, CH2O will crawl o
 
 %-se\[-\] **Visuals & Lore**
 
-CH2O is a slender, ghostly humanoid apparition composed of deep messes of reds and blacks, like a distorted impression of gore. On its head it wears a solid red mask, which has a half circle smile on the lower half, and no other details on the upper half. The mask leads into a notable crescent-esque shape that extends above the head, making the mask somewhat teardrop shaped. It has no concern for its orientation, and fades in and out as if it was going behind something, even when nothing is there to go behind. It has no weapons, and it simply manifests sharpness in the air using its hands. These create large crimson or pink slashes, which it often does with unnatural laughter.
+CH2O is a slender, ghostly humanoid apparition composed of deep messes of reds and blacks, like a distorted impression of gore. On its head it wears a solid bright red mask, which has a half circle smile on the lower half in the form of a darkened depression, and no other details on the upper half. The mask leads into a notable crescent-esque shape that extends above the head, making the mask somewhat teardrop shaped. It has no concern for its orientation, and fades in and out as if it was going behind something, even when nothing is there to go behind. It has no weapons, and it simply manifests sharpness in the air using its hands. These create large crimson or pink slashes, which it often does with unnatural laughter.
 
 When creating **Vice in Vanitas**, it will fade in with a large amount of void sludge, seemingly the same rapture byproduct that makes Phosphenes. Vice in Vanitas itself is seemingly a hypnotic, corrupting hallucination or object that floats in the air, cracking and bleeding into the sightlines and skybox around it. It is is not depicting flowers. Exposure to Death Fantasy causes the world to seem blurry and hall of mirrors, and time to pulsate. The blurriness also comes in the 5 seconds leading up to Death Fantasy consuming itself. A stack of Death Fantasy being gained turns the skybox solid red for a split second.
 
