@@ -9,7 +9,7 @@ $viowhite: hsla(345deg,100%,96%,100%);
 $manawhite: hsla(240deg,100%,94%,100%);
 
 @keyframes entrypulse {
-    16.66%   { 
+    0%   { 
         text-shadow: 
             2.5px -2px 3px hsla(0deg,100%,50%,50%),
             -2.5px 2px 3px hsla(180deg,100%,50%,50%),
@@ -17,7 +17,7 @@ $manawhite: hsla(240deg,100%,94%,100%);
             2.5px 2px 3px hsla(60deg,100%,50%,50%)
     }
 
-    33.33%   { 
+    20%   { 
         text-shadow: 
             2px -2.5px 2.5px hsla(0deg,100%,50%,50%),
             -2px 2.5px 2.5px hsla(180deg,100%,50%,50%),
@@ -25,7 +25,7 @@ $manawhite: hsla(240deg,100%,94%,100%);
             2px 2.5px 2.5px hsla(60deg,100%,50%,50%)
     }
 
-    50%   { 
+    40%   { 
         text-shadow: 
             -2px -2px 2px hsla(0deg,100%,50%,50%),
             2px 2px 2px hsla(180deg,100%,50%,50%),
@@ -33,7 +33,7 @@ $manawhite: hsla(240deg,100%,94%,100%);
             -2px 2px 2px hsla(60deg,100%,50%,50%)
     }
 
-    66.66%   { 
+    60%   { 
         text-shadow: 
             2px 2px 2px hsla(0deg,100%,50%,50%),
             -2px -2px 2px hsla(180deg,100%,50%,50%),
@@ -41,7 +41,7 @@ $manawhite: hsla(240deg,100%,94%,100%);
             2px -2px 2px hsla(60deg,100%,50%,50%)
     }
 
-    83.33%   { 
+    80%   { 
         text-shadow: 
             -2px 2.5px 2.5px hsla(0deg,100%,50%,50%),
             2px -2.5px 2.5px hsla(180deg,100%,50%,50%),
@@ -102,7 +102,6 @@ h1 {
     letter-spacing: 0.3em;
     font-size: 2em;
     white-space: nowrap;
-    text-shadow: 2.5px -2px 3px hsla(0deg,100%,50%,50%),-2.5px 2px 3px hsla(180deg,100%,50%,50%),-2.5px -2px 3px hsla(300deg,100%,50%,50%),2.5px 2px 3px hsla(60deg,100%,50%,50%);
     animation: entrypulse 3s infinite linear alternate
 }
     h1::selection {background: transparent}
