@@ -9,24 +9,7 @@ $viowhite: hsla(345deg,100%,96%,100%);
 $manawhite: hsla(240deg,100%,94%,100%);
 
 @keyframes entrypulse {
-
-    8.33%   { 
-        text-shadow: 
-            4px 4px 6px hsla(0deg,100%,50%,50%),
-            -4px -4px 6px hsla(180deg,100%,50%,50%),
-            -4px 4px 6px hsla(300deg,100%,50%,50%),
-            4px -4px 6px hsla(60deg,100%,50%,50%)
-    }
-    
-    16.66%   { 
-        text-shadow: 
-            5px 3.5px 5px hsla(0deg,100%,50%,50%),
-            -5px -3.5px 5px hsla(180deg,100%,50%,50%),
-            -5px 3.5px 5px hsla(300deg,100%,50%,50%),
-            5px -3.5px 5px hsla(60deg,100%,50%,50%)
-    }
-
-    25%   { 
+    12.5%   { 
         text-shadow: 
             4px 2px 4px hsla(0deg,100%,50%,50%),
             -4px -2px 4px hsla(180deg,100%,50%,50%),
@@ -34,7 +17,7 @@ $manawhite: hsla(240deg,100%,94%,100%);
             4px -2px 4px hsla(60deg,100%,50%,50%)
     }
 
-    33.33%   { 
+    25%   { 
         text-shadow: 
             2.5px -2px 3px hsla(0deg,100%,50%,50%),
             -2.5px 2px 3px hsla(180deg,100%,50%,50%),
@@ -42,7 +25,7 @@ $manawhite: hsla(240deg,100%,94%,100%);
             2.5px 2px 3px hsla(60deg,100%,50%,50%)
     }
 
-    41.66%   { 
+    37.5%   { 
         text-shadow: 
             2px -2.5px 2.5px hsla(0deg,100%,50%,50%),
             -2px 2.5px 2.5px hsla(180deg,100%,50%,50%),
@@ -58,7 +41,7 @@ $manawhite: hsla(240deg,100%,94%,100%);
             -2px 2px 2px hsla(60deg,100%,50%,50%)
     }
 
-    58.33%   { 
+    62.5%   { 
         text-shadow: 
             2px 2px 2px hsla(0deg,100%,50%,50%),
             -2px -2px 2px hsla(180deg,100%,50%,50%),
@@ -66,7 +49,7 @@ $manawhite: hsla(240deg,100%,94%,100%);
             2px -2px 2px hsla(60deg,100%,50%,50%)
     }
 
-    66.66%   { 
+    75%   { 
         text-shadow: 
             -2px 2.5px 2.5px hsla(0deg,100%,50%,50%),
             2px -2.5px 2.5px hsla(180deg,100%,50%,50%),
@@ -74,7 +57,7 @@ $manawhite: hsla(240deg,100%,94%,100%);
             -2px -2.5px 2.5px hsla(60deg,100%,50%,50%)
     }
 
-    75%   { 
+    87.5%   { 
         text-shadow: 
             -2.5px 2px 3px hsla(0deg,100%,50%,50%),
             2.5px -2px 3px hsla(180deg,100%,50%,50%),
@@ -82,28 +65,12 @@ $manawhite: hsla(240deg,100%,94%,100%);
             -2.5px -2px 3px hsla(60deg,100%,50%,50%)
     }
 
-    83.33%   { 
+    100%   { 
         text-shadow: 
             -4px -2px 4px hsla(0deg,100%,50%,50%),
             4px 2px 4px hsla(180deg,100%,50%,50%),
             4px -2px 4px hsla(300deg,100%,50%,50%),
             -4px 2px 4px hsla(60deg,100%,50%,50%)
-    }
-
-    91.66%   { 
-        text-shadow: 
-            -5px -3.5px 5px hsla(0deg,100%,50%,50%),
-            5px 3.5px 5px hsla(180deg,100%,50%,50%),
-            5px -3.5px 5px hsla(300deg,100%,50%,50%),
-            -5px 3.5px 5px hsla(60deg,100%,50%,50%)
-    }
-
-    100%   { 
-        text-shadow: 
-            -4px -4px 6px hsla(0deg,100%,50%,50%),
-            4px 4px 6px hsla(180deg,100%,50%,50%),
-            4px -4px 6px hsla(300deg,100%,50%,50%),
-            -4px 4px 6px hsla(60deg,100%,50%,50%)
     }
 }
 
@@ -138,10 +105,7 @@ html,body {
     padding: 4em 2em;
     overflow-wrap: break-word
 }
-
-::selection {
-    background: darkred
-}
+    ::selection {background: darkred}
 
 
 /* Wiki Style, in entry's order */
@@ -154,7 +118,8 @@ h1 {
     letter-spacing: 0.3em;
     font-size: 2em;
     white-space: nowrap;
-    animation: entrypulse 2s infinite linear alternate
+    text-shadow: 4px 2px 4px hsla(0deg,100%,50%,50%),-4px -2px 4px hsla(180deg,100%,50%,50%),-4px 2px 4px hsla(300deg,100%,50%,50%),4px -2px 4px hsla(60deg,100%,50%,50%);
+    animation: entrypulse 3s infinite linear alternate
 }
     h1::selection {background: transparent}
 
