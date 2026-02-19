@@ -390,7 +390,7 @@ Baers are named after bears, teddy bears, but also a pun on Buer, a demon from P
 
 If a death occurs when Sew is active: *Avnlyla was kept close.*
 
-All other deaths by Baer: Unfortunately, she can not be sewn back together.
+All other deaths by Baer: *Unfortunately, she can not be sewn back together.*
 
 %-se\[-\] **Extras**
 
