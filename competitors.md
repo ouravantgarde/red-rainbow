@@ -4,7 +4,7 @@ layout: wiki
 
 # Cherry&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-%-st**Tier** : Fodder
+%-st**Tier** : Normal
 
 %-st**Weight** : None
 
@@ -14,17 +14,17 @@ layout: wiki
 
 %-se\[-\] **Abilities**
 
-Cherries always come in flocks of two to five, and move together as such. They move slowly between enemies, and rapidly spread out if one takes too much damage.
+Cherries always come in flocks of two to (rarely)five, and move together as such. They move slowly between enemies, and rapidly spread out if one takes too much damage.
 
 It will %%db**Lull**++% actors around its eye, excluding other Cheries. **Lulled** beings are interrupted, silenced, disarmed, deitemed, can not jump or dash, and take 80% less damage. Avnlyla will uniquely recieve 5 HPS barrier healing when **lulled**.
 
 Anytime something dies, every Cherry will invade the closest target, quickly flying past with their flowing lights and marking them with a glowing %%db**Inhibition**++%. **Inhibition** is a stacking debuff that causes any damage dealt by the affected actor to cost health(A rate of 70 damage = 4% of current health as self damage. This self damage can't damage anything below 20% health). The elf damage is siphoned to all Cherries, which will increase their max health. Stacks will be consumed for every 30% of max health as self damage taken, one at a time. This is the only way to get rid of **Inhibition**. Every stack beyond the first increases the current health as self damage by 2%.
 
-A cherry will release their %%pa**Shadow**++% when they die, giving birth to calamities. The **Shadow** will always manifest one pit, and will release an extra pit per every 150 max health gained above base. Anytime something **Lulled** takes damage from another actor(a cooldown of 3 seconds), the Cherry will gain a stack of **distress**. At one distress, every pit will spawn with a torrent of blood as a random firing of 16 projectiles, dealing 20 light damage. At two distress, the **Shadow** will %%at**Leak**++% black fluid onto the ground(see phosphenes/migraines). At three distress, it will release a blanketing miasma that applies a 30% slow, nearsights, and deals 10 light DPS. The miasma goes away after 10 seconds. At four distress, a random enemy will be ressurected at 50% health.
+A cherry will release their %%pa**Shadow**++% when they die, giving birth to calamities. The **Shadow** will always manifest one pit, and will release an extra pit per every 200 max health gained above base. Anytime something **Lulled** takes damage from another actor(a cooldown of 3 seconds), the Cherry will gain a stack of **distress**. At one distress, every pit will spawn with a torrent of blood as a random firing of 16 projectiles, dealing 20 light damage. At two distress, the **Shadow** will %%at**Leak**++% black fluid onto the ground(see phosphenes/migraines). At three distress, it will release a blanketing miasma that applies a 30% slow, nearsights, and deals 10 light DPS. The miasma goes away after 10 seconds. At four distress, a random enemy will be ressurected at 50% health.
 
 %-se\[-\] **Visuals & lore**
 
-Cherries are long flowing creatures, resembling deep sea life. They are composed of a head, which is an abstract eye symbol held by a vague slight "head" of glossy translucent material. Like a jellyfish, from the head extends many tendrils. The tendrils vary in count and material, some appear like string lights, others appear like neon tubing, others like flowing cloth. The colors of every Cherry are vibrant and diverse, no tentacle is like another. The eyes also have many variation in how the symbol is formed. They move through the air in a way similar to eels.
+Cherries are long flowing creatures, resembling deep sea life. They are composed of a head, which is an abstract eye symbol held by a vague slight "head" of glossy nearly transparent material. Like a jellyfish, from the head extends many tendrils. The tendrils vary in count and material, some appear like string lights, others appear like neon tubing, others like flowing cloth. The colors of every Cherry are vibrant and diverse, no tentacle is like another. The eyes also have many variation in how the symbol is formed. They move through the air in a way similar to eels.
 
 On death, a Cherry will appear to rapidly turn inside out into a black nothingness before dissipating. Alongside the shadow, a single light floats away. The shadow releases pits, which may cause rapid lines of blood to flind from them, and its miasma is a sparkling cloud of darkness.
 
@@ -32,7 +32,7 @@ On death, a Cherry will appear to rapidly turn inside out into a black nothingne
 
 A Cherry will instantly die if it reaches 600 bonus max health or 6 stacks of distress. Cherries do not count as enemies for arena completion, and thus do not need to be killed. If a cherry has more than two stacks of distress, they will fly away. However if below two distress it will stay near Avnlyla until all her barrier is restored, leaving afterwards or if another arena has begun.
 
-Every resurrection past the first will have less and less health(50%, 33%, 25%, etc)
+Every resurrection past the first will have less and less health(50%, 33%, 25%, etc).
 
 \[-\] **Compendium Entry - "Angel Eyes"**
 
@@ -44,7 +44,7 @@ Every resurrection past the first will have less and less health(50%, 33%, 25%, 
 
 %-sr
 
-## pit&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+#  pit&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 %-st**Tier** : Fodder
 
@@ -52,13 +52,33 @@ Every resurrection past the first will have less and less health(50%, 33%, 25%, 
 
 %-st**Health** : 1
 
-%-fdpits are chaotic stains of negativity, imposing themselves on the environment.
+%-fd pits are chaotic stains of negativity, imposing themselves with an uneasy presence and staring.
+
+%-fd pits rarely spawn on their own, but are mostly offspring from Cherries.
 
 %-se\[-\] **Abilities**
 
-pits move rapidly and sporadically between different enemies. A pit is %%pa**Ignorant**++%
+ pits move extremely quickly between different enemies with inconsistent lingering, and are unpredictable.
 
-\[-\] **Compendium Entry - "Antiprovidence"**
+A  pit is %%pa**Ignorant**++%, and is unable to take damage as long as it has any status effect. They have an aura around them makes all actors take 20% more damage from all sources, and an additional 20% from debuffs. They are unaffected by debuffs, and any debuffs they have will instead be applied anything in the aura.  pits will gain a stack of %%db**Spur**++% for any actor in their radius, including other  pits. Each **Spur** lasts ten seconds, but spurs will not count as a status effect unless near an enemy.
+
+When a  pit moves to an enemy, it will immediately %%at**Stare**++% at Avnlyla, manifesting white projectiles around itself for every **Spur** it has, each dealing 20 normal damage. Once finished, it will cast each projectile consecutively at Avnlyla, teleporting to a new position around the enemy every time it fires.
+
+If two  pits meet at the same enemy, they will %%at**Cry**++% for five seconds, arranging themselves next to each other above the enemy while looking at Avnlyla. When **Crying**, any projectile that enters their radius is absorbed and added to a circular ring forming above them. This ring projectile fires at Avnlyla with great speed and weakly homes in on her, passing through geometry and enemies and constantly attempting to fling back at her if it misses. The projectile explodes on impact, dealing normal damage that grows the longer the projectile exists. The minimum damage is 30, and it gains 5 damage for every second it exists. Its lifetime is a diminishing sum of every projectile absorbed, a minimum of 3 seconds, up to a maximum of 10.
+
+If three  pits meet, they will %%at**Spasm**++%, moving close together in a triangle as their black tendrils merge. They will then continually move to whatever enemy is closest to Avnlyla. Only when near an enemy do they begin **Spasming**; For every **Spur** they have, one of their tendrils will rapidly grow outwards in great distance to attempt to consecutively slash at whatever is near by, each dealing 8 normal damage. **Spasming** pits are unkillable due to **Ignorance**, and instead will dissapear into bright light after 10 seconds.
+
+If four  pits meet, they will metamorphose into a single Cherry. This Cherry is unkillable, and can not gain **distress** nor apply %%db**Inhibition**++%.
+
+%-se\[-\] **Visuals & Lore**
+
+ pits are surreal eyes held by pitch black void with dark tendrils flowing behind them, and are much smaller and shorter than Cherries. The eyes are random and varied, with each  pit having random shading and lighting.  pits often do not follow the artstyle or rendering of Red Rainbow, and vary between abstraction and photorealism. When doing any attack, or permamently when **spasming**, the tendrils spread out 
+
+%-se\[-\] **Extras**
+
+%-se\[-\] **Death Messages**
+
+%-se\[-\] **Compendium Entry - "Antiprovidence"**
 
 > In the semiosphere\[sic\], eyes are the universal symbol of danger.  
 >   
@@ -66,7 +86,7 @@ pits move rapidly and sporadically between different enemies. A pit is %%pa**Ign
 >   
 > What could be scarier than being seen? Animals plaster themselves in false eyes and elaborate eye patterns for no other reason but to scare off predators, to make them feel watched.  
 >   
-> We aren't all that different. Staring is seen as disrespectful, Heaven forbid a stranger stare at you as if they know you. Then there's the mythological concepts of evil eyes and basilisks, they controlled entire civilizations. Yet because of our sapient fear, we see eyes as protection. The hamsa. The Eye of Providence, Horus, or those of Buddha.  
+> We aren't all that different. Staring is seen as disrespectful, Heaven forbid a stranger stare at you as if they know you. Then there's the mythological concepts of evil eyes and basilisks, ideas that controlled entire civilizations. Yet because of our sapient fear, we see eyes as protection. The hamsa. The Eye of Providence, Horus, or those of Buddha.  
 >   
 > All god does anymore is watch.
 
