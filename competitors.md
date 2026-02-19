@@ -10,7 +10,7 @@ layout: wiki
 
 %-st**Health** : 600
 
-%-fdCherries are ambient and beautiful things that migrate between the facets in flocks. They seem to quell the violence and mania around them.
+%-fdCherries are ambient and beautiful things that migrate between the facets in flocks, seeming to quell the violence and mania around them.
 
 %-se\[-\] **Abilities**
 
