@@ -10,27 +10,27 @@ layout: wiki
 
 %-st**Health** : 600
 
-%-fdCherries are ambient and beautiful things that migrate between the facets in flocks, seeming to quell the violence and mania around them.
+%-fdCherries are ambient and beautiful things that migrate between the facets, seeming to quell the violence and mania around them.
 
 %-se\[-\] **Abilities**
 
-Cherries always come in flocks of two to (rarely)five, and move together as such. They move slowly between enemies, and rapidly spread out if one takes too much damage.
+Cherries always come in flocks of two to, more rarely, five. They each move slowly between different enemies, and rapidly spread out if one takes too much damage.
 
-It will %%db**Lull**++% actors around its eye, excluding other Cheries. **Lulled** beings are interrupted, silenced, disarmed, deitemed, can not jump or dash, and take 80% less damage. Avnlyla will uniquely recieve 5 HPS barrier healing when **lulled**.
+It will %%db**Lull**++% actors around itself, excluding other Cherries. **Lulled** beings are interrupted, silenced, disarmed, deitemed, can not jump or dash, and take 80% less damage. Avnlyla will uniquely recieve 5 HPS barrier healing when **lulled**.
 
-Anytime something dies, every Cherry will invade the closest target, quickly flying past with their flowing lights and marking them with a glowing %%db**Inhibition**++%. **Inhibition** is a stacking debuff that causes any damage dealt by the affected actor to cost health(A rate of 70 damage = 4% of current health as self damage. This self damage can't damage anything below 20% health). The elf damage is siphoned to all Cherries, which will increase their max health. Stacks will be consumed for every 30% of max health as self damage taken, one at a time. This is the only way to get rid of **Inhibition**. Every stack beyond the first increases the current health as self damage by 2%.
+Anytime something dies, every Cherry will invade the closest target, quickly flying past with their flowing lights and marking them with a glowing %%db**Inhibition**++%. **Inhibition** is a stacking debuff that causes any damage dealt by the affected actor to cost health(A rate of 70 damage = 4% of current health as self damage. This self damage can't damage anything below 20% health). The self damage is siphoned to all Cherries, which will increase their max health. Stacks will be consumed for every 30% of max health as self damage taken, one at a time. This is the only way to get rid of **Inhibition**. Every stack beyond the first increases the current health as self damage by +2%.
 
-A cherry will release their %%pa**Shadow**++% when they die, giving birth to calamities. The **Shadow** will always manifest one pit, and will release an extra pit per every 200 max health gained above base. Anytime something **Lulled** takes damage from another actor(a cooldown of 3 seconds), the Cherry will gain a stack of **distress**. At one distress, every pit will spawn with a torrent of blood as a random firing of 16 projectiles, dealing 20 light damage. At two distress, the **Shadow** will %%at**Leak**++% black fluid onto the ground(see phosphenes/migraines). At three distress, it will release a blanketing miasma that applies a 30% slow, nearsights, and deals 10 light DPS. The miasma goes away after 10 seconds. At four distress, a random enemy will be ressurected at 50% health.
+A cherry will release their %%pa**Shadow**++% when they die, giving birth to calamities. The **Shadow** will always manifest one pit, and will release an extra pit per every 200 max health it gained above base. Anytime something **Lulled** takes damage from another actor(a cooldown of 3 seconds), the Cherry will gain a stack of **distress**. At one distress, every pit will spawn with a torrent of blood as a random firing of 16 projectiles, dealing 20 light damage. At two distress, the **Shadow** will %%at**Leak**++% black fluid onto the ground(see phosphenes/migraines). At three distress, it will release a blanketing miasma that applies a 30% slow, nearsights, and deals 10 light DPS. The miasma goes away after 10 seconds. At four distress, a random enemy will be ressurected at 50% health.
 
 %-se\[-\] **Visuals & lore**
 
-Cherries are long flowing creatures, resembling deep sea life. They are composed of a head, which is an abstract eye symbol held by a vague slight "head" of glossy nearly transparent material. Like a jellyfish, from the head extends many tendrils. The tendrils vary in count and material, some appear like string lights, others appear like neon tubing, others like flowing cloth. The colors of every Cherry are vibrant and diverse, no tentacle is like another. The eyes also have many variation in how the symbol is formed. They move through the air in a way similar to eels.
+Cherries are long flowing creatures, resembling deep sea life. They are composed of a head, which is an abstract eye symbol held by a vague slight "head" of glossy nearly transparent material. Like a jellyfish, from the head extends many tendrils. The tendrils vary in count and material, some appear like string lights, others appear like neon tubing, others like flowing cloth. The colors of every Cherry are vibrant and diverse, no tentacle like another. The eye symbols also have many variation in shape and depiction. They move through the air in a way similar to eels.
 
-On death, a Cherry will appear to rapidly turn inside out into a black nothingness before dissipating. Alongside the shadow, a single light floats away. The shadow releases pits, which may cause rapid lines of blood to flind from them, and its miasma is a sparkling cloud of darkness.
+On death, a Cherry will appear to rapidly turn inside out into darkness before dissipating. Alongside the shadow. The shadow releases pits, which may cause rapid lines of blood to fling from them, and its miasma is a sparkling cloud of darkness.
 
 %-se\[-\] **Extras**
 
-A Cherry will instantly die if it reaches 600 bonus max health or 6 stacks of distress. Cherries do not count as enemies for arena completion, and thus do not need to be killed. If a cherry has more than two stacks of distress, they will fly away. However if below two distress it will stay near Avnlyla until all her barrier is restored, leaving afterwards or if another arena has begun.
+A Cherry will instantly die if it reaches 600 bonus max health or 6 stacks of distress. Cherries do not count as enemies for arena completion, and thus do not need to be killed. During arena completion, if a cherry has more than two stacks of distress, they will fly away. However if it is below two distress it will stay near Avnlyla until all her barrier is restored, leaving afterwards or if another arena has begun.
 
 Every resurrection past the first will have less and less health(50%, 33%, 25%, etc).
 
@@ -44,7 +44,7 @@ Every resurrection past the first will have less and less health(50%, 33%, 25%, 
 
 %-sr
 
-#  pit&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+#  &nbsp;pit&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 %-st**Tier** : Fodder
 
@@ -52,37 +52,39 @@ Every resurrection past the first will have less and less health(50%, 33%, 25%, 
 
 %-st**Health** : 1
 
-%-fd pits are chaotic stains of negativity, imposing themselves with an uneasy presence and staring.
+%-fd &nbsp;pits are chaotic stains of negativity, imposing themselves with an uneasy presence and staring.
 
-%-fd pits rarely spawn on their own, but are mostly offspring from Cherries.
+%-fd &nbsp;pits rarely spawn on their own, but are mostly offspring from Cherries.
 
 %-se\[-\] **Abilities**
 
- pits move extremely quickly between different enemies with inconsistent lingering, and are unpredictable.
+&nbsp;pits move swiftly between different enemies with inconsistent lingering, and are unpredictable.
 
-A  pit is %%pa**Ignorant**++%, and is unable to take damage as long as it has any status effect. They have an aura around them makes all actors take 20% more damage from all sources, and an additional 20% from debuffs. They are unaffected by debuffs, and any debuffs they have will instead be applied anything in the aura.  pits will gain a stack of %%db**Spur**++% for any actor in their radius, including other  pits. Each **Spur** lasts ten seconds, but spurs will not count as a status effect unless they have been near an enemy in the last second.
+A &nbsp;pit is %%pa**Ignorant**++%, and is unable to take damage as long as it has any status effect. They have an aura around them makes all actors take 20% more damage from all sources, and an additional 20% from debuffs. They are unaffected by debuffs, and any debuffs they have will instead be applied anything in the aura. &nbsp;pits will gain a stack of %%db**Spur**++% for any actor in their radius, including other &nbsp;pits. Each **Spur** lasts ten seconds, but spurs will not count as a status effect unless they have been near an enemy in the last second.
 
-When a  pit moves to an enemy, it will immediately %%at**Stare**++% at Avnlyla, manifesting white projectiles around itself for every **Spur** it has, each dealing 20 normal damage. Once finished, it will cast each projectile consecutively at Avnlyla, teleporting to a new position around the enemy every time it fires.
+When a &nbsp;pit moves to an enemy, it will immediately %%at**Stare**++% at Avnlyla, manifesting white projectiles around itself for every **Spur** it has, each dealing 20 normal damage. Once finished, it will cast each projectile consecutively at Avnlyla, teleporting to a new position around the enemy every time it fires.
 
-If two  pits meet at the same enemy, they will %%at**Cry**++% for five seconds, arranging themselves next to each other above the enemy while looking at Avnlyla. When **Crying**, any projectile that enters their radius is absorbed and added to a circular ring forming above them. This ring projectile fires at Avnlyla with great speed and weakly homes in on her, passing through geometry and enemies and constantly attempting to fling back at her if it misses. The projectile explodes on impact, dealing normal damage that grows the longer the projectile exists. The minimum damage is 30, and it gains 5 damage for every second it exists. Its lifetime is a diminishing sum of every projectile absorbed, a minimum of 3 seconds, up to a maximum of 10.
+If two &nbsp;pits meet at the same enemy, they will %%at**Cry**++% for five seconds, arranging themselves next to each other above the enemy while looking at Avnlyla. When **Crying**, any projectile that enters their radius is absorbed and added to a circular ring forming above them. This ring projectile fires at Avnlyla with great speed and weakly homes in on her, passing through geometry and enemies and constantly attempting to fling back at her if it misses. The projectile explodes on impact, dealing normal damage that grows the longer the projectile exists. The minimum damage is 30, and it gains 5 damage for every second it exists. Its lifetime is a diminishing sum of every projectile absorbed, a minimum of 3 seconds, up to a maximum of 10.
 
-If three  pits meet, they will %%at**Spasm**++%, moving close together in a triangle as their black tendrils merge. They will then continually move to whatever enemy is closest to Avnlyla. Only when near an enemy do they begin **Spasming**; For every **Spur** they have, one of their tendrils will rapidly grow outwards in great distance to attempt to consecutively slash at whatever is near by, each dealing 8 normal damage and applying a second of nearsight. **Spasming** pits are unkillable due to **Ignorance**, and instead will dissapear into bright light after 10 seconds.
+If three &nbsp;pits meet, they will %%at**Spasm**++%, moving close together in a triangle as their black tendrils merge. They will then continually move to whatever enemy is closest to Avnlyla. Only when near an enemy do they begin **Spasming**; For every **Spur** they have, one of their tendrils will rapidly grow outwards in great distance to attempt to consecutively slash at whatever is near by, each dealing 8 normal damage and applying a second of nearsight. **Spasming** &nbsp;pits are unkillable due to **Ignorance**, and instead will dissapear into bright light after 10 seconds.
 
-If four  pits meet, they will metamorphose into a single Cherry. This Cherry is unkillable, and can not gain **distress** nor apply %%db**Inhibition**++%.
+If four &nbsp;pits meet, they will metamorphose into a single Cherry. This Cherry is unkillable, and can not gain **distress** nor apply %%db**Inhibition**++%.
 
 %-se\[-\] **Visuals & Lore**
 
- pits are surreal eyes held by pitch black void with dark tendrils flowing behind them, and are much smaller and shorter than Cherries. The eyes are random and varied, with each  pit having random shading and lighting.  pits often do not follow the artstyle or rendering of Red Rainbow, and vary between abstraction and approaching photorealism. When doing any attack, or permamently when **Spasming**,  pits will constantly face the player, appearing flat. Doing so, they will also spread their tendrils out to their sides in a manner similar to a sun in splendor, which continues when tendrils grow outwards. The tendrils turn whitewhen they do not have a status effect and are thus killable.
+&nbsp;pits are surreal eyes held by pitch black void with dark tendrils flowing behind them, and are much smaller and shorter than Cherries. The eyes are random and varied, with each &nbsp;pit having random shading and lighting. &nbsp;pits often do not follow the artstyle or rendering of Red Rainbow, and vary between abstraction and approaching photorealism. When doing any attack, or permamently when **Spasming**, &nbsp;pits will constantly face the camera, appearing flat. Doing so, they will also spread their tendrils out to their sides in a manner similar to a sun in splendor, a resemblance more pronounced in **Spasming** &nbsp;pits. The tendrils turn white when they do not have a status effect and are thus killable.
+
+Cherry and pit are based on the eye motif in weirdcore.
 
 %-se\[-\] **Extras**
 
- pits are exempt from all enemy interactions, and can not recieve any status effect besides from Avnlyla or **Spur**.
+&nbsp;pits are exempt from all enemy interactions, and can not recieve any status effect besides from Avnlyla or via **Spur**.
 
- pits will die if lulled by a Cherry. They will also will die if there are no other enemies, not counting Cherries.
+&nbsp;pits will die if lulled by a Cherry. They will also will die if there are no other enemies, not counting Cherries.
 
 %-se\[-\] **Death Messages**
 
-Killed by **Spasm**: *You've gone blind forever now.*
+Killed by **Spasm**: *She's gone blind forever now.*
 
 Killed elsewise: *Evil eyes cast misfortune gaze.*
 
@@ -112,25 +114,31 @@ Killed elsewise: *Evil eyes cast misfortune gaze.*
 
 %-se\[-\] **Abilities**
 
-Yawns will stay put where they spawn, only moving slightly in a small area. They target their three different sides in three 120° radii surrounding them, and do not normally change orientation when moving.
+Yawns will stay put in a small area where they spawn. They have three sides, which affect three 120° radii surrounding them. They normally do not rotate or otherwise orientation when moving.
 
-Yawns will %%pa**Consume**++% any remnants nearby them into its upper opening, depriving Avnlyla of mana. These remnants are released upon death.
+Yawns will %%pa**Consume**++% any remnants nearby into its upper opening, depriving Avnlyla of resources. These remnants are released upon death.
 
-Yawns' %%at**Maddening**++% side constantly spews out patterns of slow projectiles that deal 40 normal damage each. These projectiles slowly accelerate over time.
+Yawns' %%at**Maddening**++% side constantly spews out patterns of slow projectiles when Avnlyla is in its radius, dealing 35 normal damage each. These projectiles slowly accelerate over time.
 
-Its %%at**Gnawing**++% side will frequently create maws of energy near Avnlyla when in it's radius, which will dash and bite after 0.7 seconds, dealing 50 normal damage before dissipating.
+Its %%at**Gnawing**++% side will frequently create maws of energy near Avnlyla when she is in its radius, which will dash and bite after a short, dealing 50 normal damage before dissipating.
 
-Its %%at**Grimacing**++% side will build up a masses of teeth and gore around enemies in its radius, growing a tooth for a random enemy every 4 seconds. Each tooth grants +5 damage to all attacks and +20 health every second, up to a maximum of 6 stacks.
+Its %%at**Grimacing**++% side will build up a masses of teeth and gore around enemies in its radius, growing a tooth for a random enemy every 4 seconds. Each tooth grants +5 damage to all attacks and +20 HPS, up to a maximum of 6 stacks. The teeth can be shattered via any break or heavy impact.
 
-If Avnlyla is in above Yawns, it will %%at**Purge**++% a large beam of energy at her via its top opening, dealing 60 normal damage and applying a heavy snare that grounds and prevents jumping for 3 seconds.
+If Avnlyla is in a radius above Yawns, it will %%at**Purge**++% a large beam of energy at her via its top opening, dealing 60 normal damage and applying a heavy snare that grounds and prevents jumping for 3 seconds.
 
 Every 33% of max health lost, Yawns will begin %%pa**Screaming**++% an unending monstrous howl as it rapidly spins upon its base, allowing it to use **Maddening**, **Gnawing**, and **Grimacing** in a 360° radius around it. It will also rapidly crawl around the arena. The Screaming will last for 7 seconds before it settles down in a new location.
 
 %-se\[-\] **Visuals & Lore**
 
-Yawns are large fleshy totems, connected to a swivel joint base of meaty bone as well as three spider-like legs equidistantly orbiting its center to crawl. The flesh appears deeply red although somewhat grayed in streaks, with a sticky appearance. The main body itself has 3 relatively flat sides, which increases in width towards the top(while tapering down into the boney base at the bottom). Each side has its own vestigial "mouth" that takes up the entire side, however there is no "inside" to speak of; Right behind its outer teeth is a useless fleshy film. The top of Yawns is a crater lined with teeth, which is uses to consume remnant. It may also expel a bloody beam, angling itself the best it can to aim.
+Yawns are large fleshy totems, connected to a swivel joint base of meaty bone as well as three spider-like legs equidistantly orbiting its center which is uses to crawl. The flesh appears deeply red although somewhat grayed in streaks, with a sticky appearance. The main body itself has three relatively flat sides, which increases in width towards the top, while tapering down into the boney base at the bottom. Each side has its own vestigial "mouth" that takes up the entire side, however there is no inside to speak of; Right behind its outer teeth is a useless fleshy film. The top of Yawns is a crater lined with teeth, which is uses to consume remnant. It may also expel a bloody beam, angling itself the best it can to aim.
 
-It's mouths each display different expressions upon its surface. Grimacing has a very lip defined, exaggerated and overstretched smiling and frowning based on you killing enemies. Maddening is stretched open across the surface, appearing to leak blood as it attacks. Gnawing has prominent sharp teeth which it grits and breaks upon itself, although new grow back very quickly.
+Its mouths each display different expressions upon its surface. Grimacing has a very lip defined, exaggerated and overstretched smile, which instead frowns when you kill enemies. Maddening is stretched open across the surface, appearing to leak blood as it attacks. Gnawing has prominent sharp teeth which it grits and breaks upon itself when it lands an attack, although new grow back very quickly.
+
+%-se\[-\] **Death Messages**
+
+Killed by Purge: *Consumed.*
+
+Killed elsewise: *Cacophany!*
 
 %-se\[-\] **Compendium Entry**
 
@@ -154,15 +162,35 @@ Phosphenes wander around the arena, gravitating towards Avnlyla. As their swarm 
 
 They will %%pa**Rive**++% to create new Phosphenes every 6 to 12 seconds, causing them to quickly amass a swarm. Phosphenes will also %%at**Leak**++% fluid that covers the ground, which deals 20 normal DPS and lasts for 7 seconds.
 
-Phosphenes possess %%db**Viral Stability**++%. Touching them or the fluids they leave will rapidly scale and decrease max health at a rate of 20% a second. This debuff lasts 4 seconds. If Avnlyla is brinking and touches Phosphenes, or brinks while under the effect of **Viral Stability**, she will instantly die regardless of any flesh health present.
+Phosphenes possess %%db**Viral Stability**++%. Touching them or the fluids they leave will rapidly scale and decrease max health at a rate of 20% a second. This debuff lasts 4 seconds. If Avnlyla is brinking and touches Phosphenes, or brinks while under the effect of **Viral Stability**, she will instantly start to die regardless of any flesh health present.
 
 %-se\[-\] **Visuals and Lore**
 
-Phosphenes are vaguely humanoid pitch black silhouettes, varying between 3 and 7 feet tall with no other change in body shape. Due to this, they are usually only able to be seen in contrast with a background, however dealing damage to them, or if their swarm gets big enough, causes their form to be stained with blurry pulses of fading colors and patterns.
+Phosphenes are vaguely humanoid pitch black silhouettes, varying between four and eight feet tall with no other change in body shape. Due to their color, they are usually only able to be seen in contrast with a background, however dealing damage to them, or if their swarm gets big enough, causes their form to be stained with blurry pulses of fading colors and patterns.
 
 They possess sporadic and broken animations and shift between properly walking, sliding, and warping randomly towards a destination.
 
 Phosphenes are named after the colors and patterns that appear when you rub your eyes.
+
+%-se\[-\] **Death Messages**
+
+Killed in any way: *She melted into one of them.*
+
+%-se\[-\] **Compendium Entry**
+
+> %-pePending...
+
+%-sr
+
+# Migraines&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+%-st**Tier** : Greater
+
+%-st**Weight** : Superheavy
+
+%-st**Health** : 4000
+
+INCOMPLETE INCOMPLETE
 
 %-se\[-\] **Compendium Entry**
 
@@ -184,29 +212,31 @@ Phosphenes are named after the colors and patterns that appear when you rub your
 
 Wall Art will attempt to follow the largest health enemy in the arena. If that enemy dies, it will seek a new companion.
 
-Dependent on %%pa**Empathy**++%, they will drain pain from a target enemy. 33% of damage dealt to the target enemy is prevented and stored, up to 100 + 10% of the tethered enemies max health. When the target enemy begins to release light, **Empathy**'s limit has been reached, and %%at**Throes**++% emanates red static pain around Empathy's target. While **Throes** is active, it will slowly drain **Empathy**'s stored damage at a rate of 60 DPS to create a large AoE of normal damage that expands until it runs out. During **Throes**, **Empathy**'s damage absorption is disabled entirely, and **Empathy**'s target experiences 20% higher animation speed. **Throes** is also released by Wall Art when it dies, lasting on its corpse for 6 seconds.
+Dependent on %%pa**Empathy**++%, it will drain pain from a target enemy. 33% of damage dealt to the target enemy is prevented and stored, up to 180 + 10% of the tethered enemy's max health. When the target enemy begins to release light, **Empathy**'s limit has been reached, and %%at**Throes**++% emanates red static pain around Empathy's target. While **Throes** is active, it will slowly drain **Empathy**'s stored damage at a rate of 60 DPS to create a large AoE of normal damage that expands until it runs out. During **Throes**, **Empathy**'s damage absorption is disabled entirely, and **Empathy**'s target experiences 20% higher animation speed. **Throes** is also released by Wall Art when it dies, lasting on its corpse for 6 seconds.
 
-While not under **Throes**, Wall Art may painfully %%at**Wail**++%, releasing a staticky shockwave that expands across the arena, dealing 10 normal damage + normal damage based on Avnlyla's current health equal to Wall Art's percentage of missing health.
+While not under **Throes**, Wall Art may painfully %%at**Wail**++%, releasing a staticky shockwave that expands across the arena, dealing normal damage based on Avnlyla's current health equal to Wall Art's percentage of missing health.
 
-Wall Art suffers all damage dealt to them in the form of %%pa**Atrophy**++%, causing them to take all damage over time. **Atrophy** bleeds out Wall Art at a maximum rate of 6.66% of max health per second, as such a Wall Art will always take at least 15 seconds to kill. **Atrophy** will spread to Avnlyla if she gets close, causing her to receive 10% of her max health as light DPS, for the amount of seconds spent in radius, plus two. As it loses health, it moves more unpredictably.
+Wall Art suffers in the form of %%pa**Atrophy**++%, causing it to take all damage over time. **Atrophy** bleeds out Wall Art at a maximum rate of 6.66% of max health per second, as such a Wall Art will always take at least 15 seconds to kill. **Atrophy** will spread to Avnlyla if she gets close, causing her to take a proportional amount of damage for the duration she spends near, plus two seconds lingering.
 
-Wall Arts will Experience %%pa**Mania**++% if they exist without pain, due to the stimulation of violence around them. Every second they are not bleeding, they give +2% damage and movement speed to the target of **Empathy**, maxing out at 30%.
+Wall Art will experience %%pa**Mania**++% if it exists without pain due to the stimulation of violence. Every second it is not bleeding, it gives +2% damage and movement speed to itself and the target of **Empathy**, maxing out at 30%.
 
-If a Wall Art goes 5 + _x_\*10 ( _x_ = current health / max health) seconds without **Atrophy**, **Mania** will be permanently active, which is considered an enrage. An enraged Wall Art will be reborn as a Joyous upon dying.
+If a Wall Art goes enough time without **Atrophy**, a timeframe that shortens greatly as Wall Art loses heath, **Mania** will be permanently active, which is considered an enrage. An enraged Wall Art will be reborn as a Joyous upon dying.
 
 %-se\[-\] **Visuals & Lore**
 
-Wall Art are pastel blue, lowly detailed slender humanoids, with a bull-like head. They are around 5 feet tall, and appear to be somewhat furred. Their limbs end in small rounded points, missing hands and feet. They have unusually long arms, with which they often use to walk quadrupedally like an animal, although also sometimes walking bipedally.
+Wall Art are pastel blue, lowly detailed slender humanoids, with a bull-like head. They are around five feet tall, and appear to be somewhat furred. Their limbs end in small rounded points, missing hands and feet. They have unusually long arms, with which they often use to walk quadrupedally like an animal, although also sometimes walking bipedally.
 
-As it loses health, it gains bright pink horizontally oriented cuts on it's body via **Atrophy**. It will also move and behave more erratically and distressed as it loses health. It will stumble on its poor limbs, trying more and more different ways to walk, drifting left and right to pick at itself while trying to keep up with its target. At 10% health, the cuts clutter most of its body. These cuts release a light red staticky miasma of arcing energy, seen also in **Throes** and **Wail**. As it dies, the cuts on its body will expand about an inch while it trembles on the ground, releasing its blood and more miasma. If it dies while manic, a Joyous will burst and crawl of its back while it trembles, and the Wall Art is left behind like a suit.
+As a Wall Art loses health, it gains bright pink horizontally oriented cuts on it's body via **Atrophy**. It will also move and behave more erratically and distressed as it loses health. It will stumble on its poor limbs, trying different ways to walk, and often picking at itself while trying to keep up with the target. At 10% health, the cuts clutter most of its body. These cuts release light red arcing energy, akin to static, a presence that also surrounds **Throes** and **Wail**. As it dies, the cuts on its body will expand about an inch as it falls to the ground, releasing blood and static. If it dies while manic, a Joyous will burst out its wings and crawl out of its back, leaving the Wall Art behind like a suit.
 
-Wall Art is thematically about suffering. They are dependent beings that rely on the other demons, and if exposed to enough violence without suffering themselves, may unfortunately break in enabling ways.
+%-se\[-\] **Extras**
+
+A Wall Art will never enrage when %%db**Lulled**++% by a Cherry, however it is relevant to note that **Atrophy** takes all damage as true damage, unaffected by any resistences.
 
 %-se\[-\] **Death Messages**
 
-Killed by Atrophy: *Could you not bear its burden?*
+Killed by Atrophy: *Could she not bear the burden?*
 
-Killed after Wail: *Distressing.*
+Killed elsewise: *Distressing.*
 
 %-se\[-\] **Compendium Entry - "The Parrot"**
 > Hello? There are songs outside, which is unfair.
@@ -241,45 +271,41 @@ Killed after Wail: *Distressing.*
 
 %-st**Weight** : Light
 
-%-st**Health** : 4000
+%-st**Health** : 3500
 
-%-fdJoyous are feral winged humanoids. Sparing no thought but gore and bloodlust, they sport a great range of extremely deadly attacks. Joyous spawn rarely on their own, or if the player neglects a Wall Art.
+%-fdJoyous is a animalistic winged humanoid. Hosting both intelligence and bloodlust, it is an apex predator that sports an overwhelming range of attacks. Joyous spawn rarely on their own, or as the consequence for neglecting a Wall Art.
 
 %-se\[-\] **Abilities**
 
-Joyous will circle and stalk the player from a distance.
+Joyous will poke and stalk the player from a distance, acting more aggressive if it is offscreen. All its abilities can be used while it moves with no impact on movespeed.
 
-Joyous are driven by their unique %%pa**Prey Drive**++%, determining how they attack you. Every time they hit you, they apply a stacking debuff %%db**NAMAGUSAPLʔΕŊMALANSÁZANKHAXUÈXĪNG (???)**++%, which determines their aggression, which goes up with every stack.
+Joyous has an intense %%pa**Prey Drive**++% which lets it heal for twice the damage it deals. Every attack it lands marks Avnlyla with a stacking debuff %%db**NAMAGUSAPLʔΕŊMALANSÁZANKHAXUÈXĪNG (???)**++% which determines its agression against her, and Avnlyla automatically gains 2 temporary stacks if she is below half health. **(???)** can not be cleansed.
 
-At no aggression, it will %%at**Spit**++% blood projectiles at the player for 30 normal damage.
+Without any stacks of **???**, it will often %%at**Spit Blood**++% projectiles at Avnlyla for 30 normal damage. If she gets close, it can sprint to kite her and position how it wishes; It may also open the %%at**Ventricle**++% of any of its external hearts to boil out blood and steam with significant reach. The **venting** lasts for 3 seconds dealing 30 light DPS, but more dangerously easily stains Avnlyla with **???** with only 0.75 seconds of immunity frames. If Avnlyla is ever too far, it can %%at**Gutsling**++% its internals, bending slightly to send out a reeling line of its intestines, dealing 40 normal damage and pulling her a distance towards it.
 
-Joyous will become a deadly threat the second they land an attack. At level one aggression, they will move faster and gain the ability to %%pa**Dash**++%, boosting in any strafe direction. All their abilities can be used while moving. They may frequently use %%at**Gutsling**++%, bending over backwards slightly to open their abdomen to predictively fire out their guts in a reeling line for 40 normal damage. Getting hit by this heals Joyous for 500 health and pulls you towards it a bit. They can also vent %%at**Steam**++% via one of their external hearts, creating a constant stream of 50 light DPS boiling blood for a few seconds in-front of it for 3 seconds, applying a stack of **???** for every second exposed.
+With two stacks of **???**, it will start diving Avnlyla, attempting to circle and keep closer and occasionally diving in for close combat. Up close it will %%at**Viscously Tear**++%, attempting multiple 15 normal damage slashes upon Avnlyla. To stay on her, Joyous may %%at**Grapple**++% and boost into the air, dragging her up with its claws for 30 normal damage and applying a light snare that greatly reduces air control.From any distance it can suddenly %%at**Pounce**++%, immediately leaping horizontally through the air to consistently land on her with a 30 normal damage AoE while entering a melee attack; Or it may swiftly spread its wings and %%pa**Feint Glide**++%, gliding a direction away from Avnlyla to bait out her actions, and then using a ranged attack from above. 
 
-With four stacks of **???**, Joyous will begin diving Avnlyla, still attempting ranged circling attacks but also frequently and relentlessly chasing her. It will occasionally %%pa**Leap**++% directly towards the player, or %%pa**Glide**++% to extend any dash or leap. It now uses special melee attacks, such as %%at**Slash**++%, quickly and consecutively dealing 30 normal damage while trying to stay close. It can also %%at**Grapple**++%, boosting into the air and pulling you upwards with it for 20 normal damage, applying a light air control reducing snare and immediately attempting to enter another attack.
+At 5 stacks of **???**, Joyous will use its most violent attacks, It will occasionally %%pa**Chase**++%, matching Avnlyla's dashes and movement abilities with a burst of speed. **Chase** and **Pounce** can be immediately followed up by %%at**Spine Throttle**++%, a deadly bite dealing 30 heavy damage and applying a 0.75 second stun that enables its combos. Via %%at**Cardiac Arrest**++%, Joyous can use the thrill of combat to its advantage. As Joyous takes damage, its external hearts beat faster and louder. With 700 damage taken, the hearts are in **Cardiac Arrest** and can used as for attacks, causing a 30 normal damage explosion. It may punch it into Avnlyla, or drag it back through its internals and send the heart as a payload for **Gutsling**, exploding at the perpindicular even if it misses a direct hit. New hearts will grow after 10 seconds.
 
-At 8 stacks of **???**, it will become even faster in its attacks, and unlock %%at**Spine Throttle**++%, where it will attempt to bite Avnlyla after using Grapple or Glide, or if Avnlyla is below 30 health. It does 40 heavy damage and applies a light stun snare.
-
-Joyous are also dangerously %%pa**Masochistic**++%, and react intensely to being damaged. They dive more frequently at lower health. Their 2 external hearts will also beat faster as they take damage, start beating rapidly at 700 damage taken, and will regenerate every 15 seconds or if they land Gutsling. Once you hear them beating fast, it can use %%at**Cardiac Arrest**++% to buff its attacks with a 40 normal damage explosion. Up close, it may rip off one of it's external hearts and hit you with it. From afar, one of its hearts may be dragged inside through its viscera and sent as a payload for Gutsling, exploding on impact or being dropped and exploding after a second if Gutsling misses.
-
-Furthermore, breaks have no affect on Joyous besides causing them to stand still to adjust themselves. Breaking any limbs or any massive impacts will instead cause Joyous to immediately enter Cardiac Arrest and use %%at**Pain Beam**++%, a deadly laser slash originating from it's right (lack-of)eye that attempts to slightly follow the player. Pain Beam deals 70 heavy DPS and applies the %%db**Mindbreak**++% debuff, disabling Avnlyla's spells and attacking for it's duration.
+Joyous will enrage if Avnlyla is above ten stacks of **???**, instantly entering **Cardiac Arrest** and gaining 33% faster animations.
 
 %-se\[-\] **Visuals & Lore**
 
-Joyous are humanoids composed of surreal meat, in a way similar to produce. They have standout wings of well marbled meat, similar in shape to a butterfly's. From the top of the wings, tendons hold external hearts which hang from the wings, which are also held by tendons and veins to the shoulder blades. It is somewhat short, however despite its human anatomy, only ever stands on two legs to dash, leap, or attack, and otherwise crawls rapidly. It has nothing resembling hair, but has 2 ears of cured meat similar to that of a Labrador. Its left eye is dark with reds and greens, while its other eye is completely missing, with a large slash helping to reveal the brain visible in its eye socket. It has a large mouth, however the meaty skin cover's most of it while its closed, giving an otherwise normal head shape, albeit somewhat canid. Its torso has notable intermuscular fat patterns, with notable ribs. Its arms and legs have very distinct and separate lean muscles, lacking most of the fascia, skin, and fat that would hide a skinned body's movements, although their joints are still connected and covered. Their hands are very sharp, with light fleshy palms, and curved bones jut out from their inhuman feet as if to make talons. The area between the hip and abdomen has a cut from hip to hip creating an opening, leaking blood and revealing the upper hip bones if it stands up. It may often bend over backwards slightly while standing bipedally, revealing pristine organs and hanging intestines with some twists similar to sausage links, and they may often launch this outwards, their whole bodily shuffling to move its many hearts and other organs.
+Joyous is a monsterous humanoid composed of surreal meat, in a way similar to produce. It can can easily sprint quadrupedally despite humanoid legs. It otherwise stands on its legs to enable its attacks. It has standout wings of well marbled meat, similar in shape to a butterfly's. From the top of the wings, meaty tendons hold two external hearts which hang from the wings on each side, connected by veins to the an opening near shoulder blades. It has nothing resembling hair, but has 2 ears of cured meat similar to that of a Labrador. Its left eye is dark with reds and greens, while its other eye is completely missing, with a large slash helping to reveal the brain visible in its eye socket. It has a large mouth, however the meaty skin cover's most of it while its closed, giving an otherwise "normal" head shape, albeit  canid. Joyous is slim, and its torso has notable intermuscular fat patterns with notable ribs. Its arms and legs have very distinct and separate lean muscles, lacking most of the fascia, skin, and fat that would hide a skinned body's movements, although their joints are still connected and covered. Their hands are very sharp, with light fleshy palms, and large clawed feet. The area between the hip and abdomen has a cut from hip to hip creating an opening, leaking blood and revealing pristine organs. It is kind of cute but in an unexplainable way.
 
-Joyous are inspired by the niche internet aesthetic "meatcore", but overall represent violence, pain, and pleasure, especially in contrast to Wall Art. We treat violence as something abnormal, however we have built our civilization on meat. Such is used for pleasure by almost everyone, and livestock is important industry. Joyous is pure carnal desire. It exists to consume, and it couldn't be happier.
+Joyous are inspired by the niche internet aesthetic "meatcore", but overall represent violence, pain, and pleasure, especially in contrast to Wall Art. We treat violence as something abnormal, however we have built our civilization on meat. Such is used for pleasure by almost everyone, and livestock is important industry.
 
 %-se\[-\] **Death Messages**
 
-Killed at 5 or less ???: The hunter has become the hunted.
+Killed at 5 or less **???**: *The hunter has become the hunted.*
 
-Killed above 5 ???: Licked off the bone!
+Killed above 5 **???**: *Licked off the bone!*
 
-Killed by Spine Throttle: Your neck was crushed in its maw.
+Killed by Spine Throttle: *Her neck was crushed in its maw.*
 
 %-se\[-\] **Extras**
 
-The ??? debuff randomly cycles between words in different languages for similar words for "the smell of meat", of which there is no English word for. Often times, the words chosen from these languages are more specific variants.
+The **???** debuff randomly cycles between words in different languages for similar words for "the smell of meat", of which there is no English word for. Often times, the words chosen from these languages are more specific variants.
 
 Japanese: **Namagusa** - The smell of meat/fish/blood, also "Corrupt priest"
 
@@ -289,7 +315,7 @@ Tagalog: **Malansá** - Smell of raw meat/fish
 
 Mandarin: **Xuèxīng** - Smell of gore
 
-Jahai: **Plʔεŋ** \- Smell of meat that attracts tigers
+Jahai: **Plʔεŋ** - Smell of meat that attracts tigers
 
 %-se\[-\] **Compendium Entry - "Adrenaline"**
 > Wake to adrenaline\
@@ -298,13 +324,13 @@ Jahai: **Plʔεŋ** \- Smell of meat that attracts tigers
 > Your love makes me bleed
 >
 > Your eyes and heart, set upon my beautiful gore\
-> Your addiction for pain\
+> Your masochisms and addictions\
 > Splay and fill me\
 > Pop my bones, pull my tendons, peel my silver skin! Poke, and prod, and
 >   
 > pain
 >   
-> For every moment of pain and pleasure that brought me to your epoch\
+> For every moment of pain and pleasure that brought me here\
 > I bring gluttony and lust
 >
 > I am meat\
@@ -312,6 +338,22 @@ Jahai: **Plʔεŋ** \- Smell of meat that attracts tigers
 > I am your violence\
 > I am your toy\
 > I am you
+
+%-sr
+
+# Chromatic Aberration&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+%-st**Tier** : Greater
+
+%-st**Weight** : Normal
+
+%-st**Health** : 3000
+
+INCOMPLETE INCOMPLETE
+
+%-se\[-\] **Compendium Entry**
+
+> %-pePending...
 
 %-sr
 
@@ -323,32 +365,33 @@ Jahai: **Plʔεŋ** \- Smell of meat that attracts tigers
 
 %-st**Health** : 6000
 
-%-fdBaers are large demented caretakers of Weirdcore Hell with a fluffy exterior. Using zoning and healing abilities, they serve to protect their kind from your harm.
+%-fdBaers are large demented caretakers of Noxipolis with a fluffy exterior. Using zoning and healing abilities, they serve to protect their kind from your harm.
 
 %-se\[-\] **Abilities**
 
 Baers will play around other enemies and move at a steady pace, with the goal of taking up space.
 
-For basic attacks, they can %%at**Rip**++% as their melee for 40 normal damage with great knockback, slashing at Avnlyla with a sawblade-adorned right paw at decent range. Baer can also %%at**Deseam**++%, reaching into their mouth with their left paw to pull out hypodermic needles and other sharp objects to throw in a spread at Avnlyla for 10x6 normal damage.
+For basic attacks, it can %%at**Rip**++% as its melee for 40 normal damage with great knockback, slashing at Avnlyla with a sawblade-adorned right paw at decent range. Baer can also %%at**Deseam**++%, reaching into its mouth with their left paw to pull out hypodermic needles and other sharp objects to throw in a spread at Avnlyla for 10x6 normal damage.
 
-Baers will also deploy obstacles. On spawn, they will immediately use %%at**Capture**++%, pulling a beartrap out of a gash in its belly, and throwing it nearby(or directly towards Avnlyla if she's nearby). Beartraps are destructible objects that will deal 50 normal damage on contact and apply a heavy snare which disables jumping and gives a decent slow. Capture is on a 10 second cooldown. A maximum of 2 times, %%at**Tangle**++% is sparsely used. Baers will drag a spool of razorwire out of their belly, unraveling out the last length with blood and cotton. The spool will be thrown onto the arena, exploding outwards into a line that slows and deals 20 light DPS on contact.
+Baers will also deploy obstacles. On spawn, they will immediately use %%at**Capture**++%, pulling a beartrap out of a gash in its belly, and throwing it nearby(or directly towards Avnlyla if she's nearby). Beartraps are destructible objects that will deal 50 normal damage on contact and apply a heavy snare which disables jumping and gives a decent slow. **Capture** is on a 10 second cooldown. A maximum of 2 times, %%at**Tangle**++% is sparsely used. Baers will drag a spool of razorwire out of their belly, unraveling out the last length with blood and cotton. The spool will be thrown onto the arena, exploding outwards into a line that slows and deals 20 light DPS on contact.
 
 Baers are full of %%at**Sharp Objects**++%, and deal 20 light contact damage as a result. Furthermore, every 15% health lost, a Splinter will crawl out of them. Splinters are razor-covered metal spiders that rapidly crawl and jump after Avnlyla to deal 30 light contact damage, and have 40 health.
 
-Baers are %%pa**Motherly**++% figures, and will enrage if any light or normal enemy near them is killed, causing them to use abilities more often for a bit. They can also %%pa**Patch**++% to save enemies you are about to kill, sending out string from their left paw to grip a light or normal weighted enemy to rapidly pull it close. Any enemy affected will be put behind Baer, be healed for 30% health, and gain the %%db**Imprinted**++% buff. Imprinted enemies gain a second point of interest in their AI centered on Baer, causing them to always stay closer. If an Imprinted enemy is killed, Baer will unlock %%at**Sew**++% to punish Avnlyla. With their left paw, Baers will occasionally attempt to fire stringed needles into Avnlyla's body to leash her towards them, gripping the string to prevent her from leaving their area. This light snare is special, as dashing to escape it will deal 30 light damage and apply the %%db**Hemorrhaging**++% debuff to Avnlyla, adding +5 light damage to any damage taken for 10 seconds.
+Baer is a %%pa**Motherly**++% figurs, and will enrage if any non-supreme enemy is killed, causing it to use abilities more often. It can also %%pa**Patch**++% to save any enemy being damaged too fast, with lower tolerance for low health enemies, sending out string from its left paw to grip any non-superheavy weighted enemy to rapidly pull it close. Any enemy saved will be put behind Baer, be healed for 40% missing health health, cleansed, and gain the %%db**Imprinted**++% buff. Imprinted enemies gain a second point of interest centered on Baer, causing them to always stay closer. If an Imprinted enemy is killed, Baer will unlock %%at**Sew**++% to punish Avnlyla. With its left paw, Baer will occasionally attempt to fire stringed needles into Avnlyla's body to leash her reel her close, gripping the string to prevent her from leaving the area. This heavy snare is special, as each dash to escape it will deal 20 light damage and apply the %%db**Hemorrhaging**++% debuff to Avnlyla, adding +5 light damage to any damage taken for 10 seconds. It is inescapable otherwise.
 
 On death, it will %%pa**Traumatize**++% enemies around it, revealing the strange amount of gore and metal inside of it. This will cause any enemies around it to lose 10% health and activate any enrages they have. If the enemy can not enrage, it will heal 30% of their health back over the course of 20 seconds.
 
 %-se\[-\] **Visuals & Lore**
 
-Baer, as the name implies, is at least a bit like a bear. They are greatly tall and bipedal, and greatly hulking stocky body with a notable belly that gives them a slight weighted appearance (as would to be physically expected should it be made of soft material). They are fluffy, mostly purple in color, with a long canid-like tail which follows the theoretical spine and flows downward. They have 2 large bear ears and the snout you'd expect of a such, although the head itself lacks some structure. Their "eyes" are stained black, and they lack the lower part of what would be their mouth. They instead have a gaping opening that goes from their lower head to their "neck", which doesn't really exist as the head does not taper from the body at all. Their belly has a gash going under it, from which blood leaks. Their arms are proportionally long, with slightly shorter legs. Their right paw also leaks blood and has a sawblade in it, extending slightly down into the wrist their left shoulder is ripped with cotton spilling out. Metal and stains poke out occasionally elsewhere on their body, but otherwise look like a pristine plush wherever there isn't tears.
+Baer, as the name implies, is at least a bit like a bear. They are greatly tall and bipedal, and have stocky body with a notable belly that gives them a hulking and slightly weighted appearance, as would to be physically expected of soft material. They are fluffy, mostly purple in color, with a long canid-like tail which follows the theoretical spine and flows downward. They have 2 large bear ears and the snout you'd expect of a such, although the head itself lacks some structure. Their "eyes" are stained black, and they lack the lower part of what would be their mouth. They instead have a gaping opening that goes from their lower head to their lack-of-neck, as the head does not taper from the body at all. Their arms are proportionally long, with slightly shorter legs. Their right paw leaks blood and has a sawblade in it, extending slightly down into the wrist. They have a few tears around their body, most notably a large gash under their belly. Metal and stains poke out occasionally elsewhere on their body, but they otherwise look like normal plush wherever there isn't tears.
 
 Baers are named after bears, teddy bears, but also a pun on Buer, a demon from Pseudomonarchia Daemonum, who brings healing and familiars. They are thematically about attachment, and a juxtaposition between a comfort item such as a plushie, and less comfortable objects such as blades and needle syringes. They also carry "parental" themes, which also ties back into bears.
 
 %-se\[-\] **Death Messages**
 
-If a death occurs when Sew is active: Avnlyla was kept close.
-All other deaths by Baer: Unfortunately, you can not be sewn back together.
+If a death occurs when Sew is active: *Avnlyla was kept close.*
+
+All other deaths by Baer: Unfortunately, she can not be sewn back together.
 
 %-se\[-\] **Extras**
 
@@ -356,7 +399,25 @@ Saponificare will nuzzle a Baer if patched, generating many bubbles, removing st
 
 Wall Arts that imprint will never be considered neglected as long as their Baer is alive and they will choose to always follow said Baer. However, a traumatized Wall Art will always glow no matter what, and thus should probably be killed first.
 
-Phosphenes and Joyous will never imprint, and Baer will not care if they die.
+A cherry that imprints will be cleansed of distress and siphoned health.
+
+Phosphenes, &nbsp;pits, and Joyous will never imprint, and Baer will not care if they die.
+
+%-se\[-\] **Compendium Entry**
+
+> %-pePending...
+
+%-sr
+
+# Mauled by Concrete&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+%-st**Tier** : Supreme
+
+%-st**Weight** : Heavy
+
+%-st**Health** : 4000
+
+INCOMPLETE INCOMPLETE
 
 %-se\[-\] **Compendium Entry**
 
@@ -444,8 +505,63 @@ Killed by sharp attacks: It reaches the bones...
 
 Killed by Veinspasm: Suffer.
 
-Killed by Death Fantasy: Slowly, slowly, our desires are one.
+Killed by Death Fantasy: Join me.
 
 %-se\[-\] **Compendium Entry**
+
+> %-pePending...
+
+%-sr
+
+# 89&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+%-st**Tier** : Greater
+
+%-st**Weight** : Superheavy
+
+%-st**Health** : 5000
+
+INCOMPLETE INCOMPLETE
+
+%-se\[-\] **Compendium Entry**
+
+> %-pePending...
+
+%-sr
+
+# Corpse Angel&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+%-st**Tier** : Arena Boss
+
+%-st**Weight** : None
+
+%-st**Health** : 6000
+
+INCOMPLETE INCOMPLETE
+
+%-se\[-\] **Compendium Entry**
+
+> %-pePending...
+
+%-sr
+
+# Heralds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+%-st**Tier** : Arena Boss
+
+%-st**Weight** : None
+
+%-st**Health** : 12000
+
+INCOMPLETE INCOMPLETE
+
+%-se\[-\] **Compendium Entry**
+
+> %-pePending...
+
+%-sr
+
+
+
 
 > %-pePending...
