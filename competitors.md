@@ -320,18 +320,17 @@ Jahai: **Plʔεŋ** - Smell of meat that attracts tigers
 %-se\[-\] **Compendium Entry - "Adrenaline"**
 > Wake to adrenaline\
 > Wake to your desires\
-> Buy me. Cut me. Eat me. Consume me.
+> Buy me. Cut me. Eat me. Consume me.\
 > Your love makes me bleed
 >
 > Your eyes and heart, set upon my beautiful gore\
 > Your masochisms and addictions\
 > Splay and fill me\
-> Pop my bones, pull my tendons, peel my silver skin! Poke, and prod, and
->   
+> Pop my bones, pull my tendons, peel my silver skin!\
+> Poke, and prod, and\
 > pain
 >   
-> For every moment of pain and pleasure that brought me here\
-> I bring gluttony and lust
+> For every moment of pain and pleasure that brought me here, I bring gluttony and lust
 >
 > I am meat\
 > I am the enabling flesh\
