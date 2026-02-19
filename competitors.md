@@ -60,23 +60,31 @@ Every resurrection past the first will have less and less health(50%, 33%, 25%, 
 
  pits move extremely quickly between different enemies with inconsistent lingering, and are unpredictable.
 
-A  pit is %%pa**Ignorant**++%, and is unable to take damage as long as it has any status effect. They have an aura around them makes all actors take 20% more damage from all sources, and an additional 20% from debuffs. They are unaffected by debuffs, and any debuffs they have will instead be applied anything in the aura.  pits will gain a stack of %%db**Spur**++% for any actor in their radius, including other  pits. Each **Spur** lasts ten seconds, but spurs will not count as a status effect unless near an enemy.
+A  pit is %%pa**Ignorant**++%, and is unable to take damage as long as it has any status effect. They have an aura around them makes all actors take 20% more damage from all sources, and an additional 20% from debuffs. They are unaffected by debuffs, and any debuffs they have will instead be applied anything in the aura.  pits will gain a stack of %%db**Spur**++% for any actor in their radius, including other  pits. Each **Spur** lasts ten seconds, but spurs will not count as a status effect unless they have been near an enemy in the last second.
 
 When a  pit moves to an enemy, it will immediately %%at**Stare**++% at Avnlyla, manifesting white projectiles around itself for every **Spur** it has, each dealing 20 normal damage. Once finished, it will cast each projectile consecutively at Avnlyla, teleporting to a new position around the enemy every time it fires.
 
 If two  pits meet at the same enemy, they will %%at**Cry**++% for five seconds, arranging themselves next to each other above the enemy while looking at Avnlyla. When **Crying**, any projectile that enters their radius is absorbed and added to a circular ring forming above them. This ring projectile fires at Avnlyla with great speed and weakly homes in on her, passing through geometry and enemies and constantly attempting to fling back at her if it misses. The projectile explodes on impact, dealing normal damage that grows the longer the projectile exists. The minimum damage is 30, and it gains 5 damage for every second it exists. Its lifetime is a diminishing sum of every projectile absorbed, a minimum of 3 seconds, up to a maximum of 10.
 
-If three  pits meet, they will %%at**Spasm**++%, moving close together in a triangle as their black tendrils merge. They will then continually move to whatever enemy is closest to Avnlyla. Only when near an enemy do they begin **Spasming**; For every **Spur** they have, one of their tendrils will rapidly grow outwards in great distance to attempt to consecutively slash at whatever is near by, each dealing 8 normal damage. **Spasming** pits are unkillable due to **Ignorance**, and instead will dissapear into bright light after 10 seconds.
+If three  pits meet, they will %%at**Spasm**++%, moving close together in a triangle as their black tendrils merge. They will then continually move to whatever enemy is closest to Avnlyla. Only when near an enemy do they begin **Spasming**; For every **Spur** they have, one of their tendrils will rapidly grow outwards in great distance to attempt to consecutively slash at whatever is near by, each dealing 8 normal damage and applying a second of nearsight. **Spasming** pits are unkillable due to **Ignorance**, and instead will dissapear into bright light after 10 seconds.
 
 If four  pits meet, they will metamorphose into a single Cherry. This Cherry is unkillable, and can not gain **distress** nor apply %%db**Inhibition**++%.
 
 %-se\[-\] **Visuals & Lore**
 
- pits are surreal eyes held by pitch black void with dark tendrils flowing behind them, and are much smaller and shorter than Cherries. The eyes are random and varied, with each  pit having random shading and lighting.  pits often do not follow the artstyle or rendering of Red Rainbow, and vary between abstraction and photorealism. When doing any attack, or permamently when **spasming**, the tendrils spread out 
+ pits are surreal eyes held by pitch black void with dark tendrils flowing behind them, and are much smaller and shorter than Cherries. The eyes are random and varied, with each  pit having random shading and lighting.  pits often do not follow the artstyle or rendering of Red Rainbow, and vary between abstraction and approaching photorealism. When doing any attack, or permamently when **Spasming**,  pits will constantly face the player, appearing flat. Doing so, they will also spread their tendrils out to their sides in a manner similar to a sun in splendor, which continues when tendrils grow outwards. The tendrils turn whitewhen they do not have a status effect and are thus killable.
 
 %-se\[-\] **Extras**
 
+ pits are exempt from all enemy interactions, and can not recieve any status effect besides from Avnlyla or **Spur**.
+
+ pits will die if lulled by a Cherry. They will also will die if there are no other enemies, not counting Cherries.
+
 %-se\[-\] **Death Messages**
+
+Killed by **Spasm**: *You've gone blind forever now.*
+
+Killed elsewise: *Evil eyes cast misfortune gaze.*
 
 %-se\[-\] **Compendium Entry - "Antiprovidence"**
 
