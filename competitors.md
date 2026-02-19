@@ -34,7 +34,7 @@ A Cherry will instantly die if it reaches 600 bonus max health or 6 stacks of di
 
 Every resurrection past the first will have less and less health(50%, 33%, 25%, etc).
 
-\[-\] **Compendium Entry - "Angel Eyes"**
+%-se\[-\] **Compendium Entry - "Angel Eyes"**
 
 > Please don't look away.  
 >   
