@@ -186,8 +186,10 @@
             {% capture jekyll_toc %}<{{ listModifier }}{{ rootAttributes }}>{{ nodes | shift | join: '>' }}>{% endcapture %}
         {% endif %}
     {% endif %}
-{% endcapture %}{% assign tocWorkspace = '' %}{{ deprecation_warnings }}{{ jekyll_toc -}}
 
-                <!-- MY MODIFICATION -->
+                                <!-- MY MODIFICATION -->
 
 {% replace '<li class="1">, '<li class="toc1">' | replace '<li class="2">', '<li class="toc2">' | replace '<li class="3">', '<li class="toc3">' %}
+
+{% endcapture %}{% assign tocWorkspace = '' %}{{ deprecation_warnings }}{{ jekyll_toc -}}
+
