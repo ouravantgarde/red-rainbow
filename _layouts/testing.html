@@ -15,11 +15,11 @@
     <div id="testing">
             <div class="toc">
                 
-                {% include toc.html html=content flat_toc = true item_class='%level%' %}
+                {% include toc.html html=content flat_toc = true item_class='%level%' | replace '<li class="1">, '<li class="toc1">' | replace '<li class="2">', '<li class="toc2">' | replace '<li class="3">', '<li class="toc3">' %}
                 
             </div>
 
-        {{ content | replace: 'abbr title=', 'abbr data-title=' | replace '<li class="1">, '<li class="toc1">' | replace '<li class="2">', '<li class="toc2">' | replace '<li class="3">', '<li class="toc3">' }}
+        {{ content | replace: 'abbr title=', 'abbr data-title=' }}
     
     </div>
 
