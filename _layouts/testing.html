@@ -19,7 +19,7 @@
                 
             </div>
 
-        {{ content | replace: 'abbr title=', 'abbr data-title=' }}
+        {{ content | replace: 'abbr title=', 'abbr data-title=' | replace '<li class="1">, '<li class="toc1">' | replace '<li class="2">', '<li class="toc2">' | replace '<li class="3">', '<li class="toc3">' }}
     
     </div>
 
