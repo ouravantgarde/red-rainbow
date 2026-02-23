@@ -2,7 +2,7 @@
 layout: wiki
 ---
 
-#3 Cherry&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+## Cherry&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 %-st**Tier** : Normal
 
@@ -34,7 +34,7 @@ A Cherry will instantly die if it reaches 600 bonus max health or 6 stacks of di
 
 Every resurrection past the first will have less and less health(50%, 33%, 25%, etc).
 
-%-se\[-\] **Compendium Entry - "Angel Eyes"**
+%-se\[-\] **Compendium Entry - %%enAngel Eyes++%**
 
 > Please don't look away.  
 >   
@@ -88,7 +88,7 @@ Killed by **Spasm**: *She's gone blind forever now.*
 
 Killed elsewise: *Evil eyes cast misfortune gaze.*
 
-%-se\[-\] **Compendium Entry - "Antiprovidence"**
+%-se\[-\] **Compendium Entry - %%enAntiprovidence++%**
 
 > In the semiosphere\[sic\], eyes are the universal symbol of danger.  
 >   
@@ -238,7 +238,7 @@ Killed by Atrophy: *Could she not bear the burden?*
 
 Killed elsewise: *Distressing.*
 
-%-se\[-\] **Compendium Entry - "The Parrot"**
+%-se\[-\] **Compendium Entry - %%enThe Parrot++%**
 > Hello? There are songs outside, which is unfair.
 >
 > Metal prevents flight, feathers leave my body.\
@@ -317,7 +317,7 @@ Mandarin: **Xuèxīng** - Smell of gore
 
 Jahai: **Plʔεŋ** - Smell of meat that attracts tigers
 
-%-se\[-\] **Compendium Entry - "Adrenaline"**
+%-se\[-\] **Compendium Entry - %%enAdrenaline++%**
 > Wake to adrenaline\
 > Wake to your desires\
 > Buy me. Cut me. Eat me. Consume me.\
