@@ -102,7 +102,6 @@ h1,h2 {
     letter-spacing: 0.3em;
     font-size: 2em;
     white-space: nowrap;
-    animation: entrypulse 4s infinite linear alternate
 }
     h1::selection {background: transparent}
 
@@ -114,7 +113,9 @@ h1,h2 {
 }
 
 .flavordesc {
-   // backdrop-filter: hue-rotate(220deg)
+    color: slategray;
+    font-style: oblique
+   
 }
 
 .section {
@@ -137,6 +138,10 @@ p:not(.stats, .section, .flavordesc, blockquote p) {
 
 .debuff {
     color: hsla(50,100%,60%,100%)
+}
+
+.entry {
+    animation: entrypulse 4s infinite linear alternate
 }
 
 blockquote {
