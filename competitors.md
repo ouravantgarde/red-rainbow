@@ -376,7 +376,7 @@ Baers will also deploy obstacles. On spawn, they will immediately use %%at**Capt
 
 Baers are full of %%at**Sharp Objects**++%, and deal 20 light contact damage as a result. Furthermore, every 15% health lost, a Splinter will crawl out of them. Splinters are razor-covered metal spiders that rapidly crawl and jump after Avnlyla to deal 30 light contact damage, and have 40 health.
 
-Baer is a %%pa**Motherly**++% figurs, and will enrage if any non-supreme enemy is killed, causing it to use abilities more often. It can also %%pa**Patch**++% to save any enemy being damaged too fast, with lower tolerance for low health enemies, sending out string from its left paw to grip any non-superheavy weighted enemy to rapidly pull it close. Any enemy saved will be put behind Baer, be healed for 40% missing health health, cleansed, and gain the %%db**Imprinted**++% buff. Imprinted enemies gain a second point of interest centered on Baer, causing them to always stay closer. If an Imprinted enemy is killed, Baer will unlock %%at**Sew**++% to punish Avnlyla. With its left paw, Baer will occasionally attempt to fire stringed needles into Avnlyla's body to leash her reel her close, gripping the string to prevent her from leaving the area. This heavy snare is special, as each dash to escape it will deal 20 light damage and apply the %%db**Hemorrhaging**++% debuff to Avnlyla, adding +5 light damage to any damage taken for 10 seconds. It is inescapable otherwise.
+Baer is a %%pa**Motherly**++% figure, and will temporarily enrage whenever any enemy smaller than it  is killed, causing it to use abilities more often. It can also %%pa**Patch**++% to save any enemy being damaged too fast, with lower tolerance for low health enemies, sending out string from its left paw to grip any non-superheavy weighted enemy to rapidly pull it close. Any enemy saved will be put behind Baer, be healed for 40% missing health health, cleansed, and gain the %%db**Imprinted**++% buff. Imprinted enemies gain a second point of interest centered on Baer, causing them to always stay closer. If an Imprinted enemy is killed, Baer will unlock %%at**Sew**++% to punish Avnlyla. With its left paw, Baer will occasionally attempt to fire stringed needles into Avnlyla's body to leash her reel her close, gripping the string to prevent her from leaving the area. This heavy snare is special, as each dash to escape it will deal 20 light damage and apply the %%db**Hemorrhaging**++% debuff to Avnlyla, adding +5 light damage to any damage taken for 10 seconds. It is inescapable otherwise.
 
 On death, it will %%pa**Traumatize**++% enemies around it, revealing the strange amount of gore and metal inside of it. This will cause any enemies around it to lose 10% health and activate any enrages they have. If the enemy can not enrage, it will heal 30% of their health back over the course of 20 seconds.
 
@@ -393,8 +393,6 @@ If a death occurs when Sew is active: *Avnlyla was kept close.*
 All other deaths by Baer: *Unfortunately, she can not be sewn back together.*
 
 %-se\[-\] **Extras**
-
-Saponificare will nuzzle a Baer if patched, generating many bubbles, removing stains from the Baer, and healing it for 30% health.
 
 Wall Arts that imprint will never be considered neglected as long as their Baer is alive and they will choose to always follow said Baer. However, a traumatized Wall Art will always glow no matter what, and thus should probably be killed first.
 
@@ -428,21 +426,23 @@ INCOMPLETE INCOMPLETE
 
 %-st**Tier** : Greater
 
-%-st**Weight** : Normal
+%-st**Weight** : Heavy
 
 %-st**Health** : 4000
 
-%-fdSaponificare are colorful beings that help keep the artificial expanses of Noxipolis clean, and it knows the place needs it with you around.
+%-fdSaponificare are colorful beings that help keep the artificial expanses of Noxipolis clean, and it knows the place really needs it.
 
 %-se\[-\] **Abilities**
 
-Saponificare use soap to create obstacles. Passively, they release %%pa**Bubbles**++% around them, at a rate of 2 bubbles a second. Any corpses near them will be visited and melted into 5 bubbles. These bubbles deal 10 light damage. Any bubbles it creates pop immediately if it is snared, or can be popped with any weapon. Saponificare may also %%at**Wiggle**++% to rapidly generate bubbles, at a rate of 10 a second.
+Saponificare wander around the action, and each of it's heads will choose one of threes attack every 4 seconds.
 
-Saponificare's main ability is %%pa**Clean**++%. It will steady and stop moving, producing 3 bubbles a second, and becoming immune to falters and most snares. All bubbles in the arena will then begin sparkling, indicating they now deal 30 normal damage and can not be popped. The bubbles are now in Saponificare's full control.
+It may %%at**Rinse**++% for 2 seconds, spraying a ranged beam of water that applies a stacking 1 light DoT every third-second exposed. Any amount of this debuff causes Avnlyla to heal all enemies around her for 5x the damage she takes, and lasts 5 seconds
 
-When **Clean** is used, bubbles automatically coordinate into patterns, floating swiftly into their desired position before assuming the defined speed, including those newly created. The patterns are infinite, and simply use as many bubbles as available. 
+%%at**Squeak**++% instead sees a head chirp, causing a colorful projectile to appear above its head which is fired with random deviation after a second and detonating if it hits or passes Avnlyla, dealing 40 normal damage as a small AoE. It will then detonate a larger AoE in the same place 4 more times over 4 seconds.
 
-%%at**Spray**++% - All bubbles stand still for a second before rapidly firing at Avnlyla's position. If they miss, will stop moving after a bit of travel.
+%%at**Bubble++% will see a mouth release three bubbles. Bubbles float around ambiently, and can be popped with damage. 
+
+It will occasionally begin %%pa**Cleaning**++%, lowering its body to the ground to sit for ten seconds. When **Clean** is used, it will generate 3 bubbles every second, and all bubbles start sparkling. Sparkling bubbles can't be popped and deal 30 normal damage. It will then send any bubbles present into any of the following patterns:
 
 %%at**Swirl**++% - The bubbles organize in concentric rings around Saponificare that revolve around it quickly. Each ring has an amount of bubbles equal to their order in the Fibonacci sequence, starting with the first ring of 3 bubbles, before a fair distance starting a ring of 5, and so forth.
 
