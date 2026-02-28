@@ -414,7 +414,15 @@ Phosphenes, &nbsp;pits, and Joyous will never imprint, and Baer will not care if
 
 %-st**Health** : 4000
 
-INCOMPLETE INCOMPLETE
+%-fdMauled by Concrete is bellicose duelist, a being given purpose and transformed into a puppet of violence seeking the thrill of combat.
+
+%-se\[-\] **Abilities**
+
+Mauled by Concrete will only enter the arena when Avnlyla has killed over half the enemies present, after which it will relentlessly keep pace with her.
+
+Mauled by Concrete is two entities, the **Brutalized** and its possessor **Blood Sport**. **Blood Sport** can not take damage, but can not live without **Brutalized**. **Blood Sport** can exit **Brutalized** at any time in order to assist it in combat, and is able to walk and stand in the air and phase through geometry. Breaking impacts will forcibly eject **Blood Sport** from its puppet.
+
+Mauled by Concrete weilds a larg
 
 %-se\[-\] **Compendium Entry**
 
@@ -442,7 +450,7 @@ It may %%at**Rinse**++% for 2 seconds, spraying a ranged beam of water that appl
 
 %%at**Bubble++% will see a mouth release three bubbles. Bubbles float around ambiently, and can be popped with damage. 
 
-It will occasionally begin %%pa**Cleaning**++%, lowering its body to the ground to sit for ten seconds. When **Clean** is used, it will generate 3 bubbles every second, and all bubbles start sparkling. Sparkling bubbles can't be popped and deal 30 normal damage. It will then send any bubbles present into any of the following patterns:
+It will occasionally begin %%pa**Cleaning**++%, lowering its body to the ground to sit for ten seconds. When **Clean** is used, the heads will generate 3 bubbles every second, and all bubbles start sparkling. Sparkling bubbles can't be popped and deal 30 normal damage. It will then send any bubbles present into any of the following patterns:
 
 %%at**Swirl**++% - The bubbles organize in concentric rings around Saponificare that revolve around it quickly. Each ring has an amount of bubbles equal to their order in the Fibonacci sequence, starting with the first ring of 3 bubbles, before a fair distance starting a ring of 5, and so forth.
 
