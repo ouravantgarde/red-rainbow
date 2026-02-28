@@ -456,7 +456,9 @@ It will occasionally begin %%pa**Cleaning**++%, lowering its body to the ground 
 
 %-se\[-\] **Visuals & Lore**
 
-TBD colorful centaur thing with colorful chambers in its torso
+Saponificare is a large giraffe like creature made of plastic and metal, entirely in vibrant, often primary, colors. It posesses three heads like a hydra, which are flexible and long extending far from the body. Each head is a colorful angular maw, featuring no teeth or tongue, nor does the head have any features other than being a maw in a sense similar to a snake. They do however emit color light from the back of the "throat", and are capable of releasing its attacks. The necks are ribbed flexible plastic tubing, each a color, which lead to a irridescent part of the torso where the "shoulders" would be, increasing in size similar to a giraffe, with metal parts providing stability. The torso is composed of segmented plastic plating in a facsimile of patterned fur. The upper visible torsod down to the underbelly is translucent plastic, revealing it is filled with glittering liquid. Short rainbow fur accents some areas where joints are, aswell as along the back, leading into a short scut tail similar to a deer. It walks on articulated and telescopic decorated legs, akin to that of a robotic quadruped, which allows it to tower above the ground; The height of the legs and neck are 6x that of the torso.
+
+Saponificare is based on cleancore and kidcore images.
 
 %-se\[-\] **Death Messages**
 
