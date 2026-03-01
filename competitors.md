@@ -317,7 +317,7 @@ Mandarin: **Xuèxīng** - Smell of gore
 
 Jahai: **Plʔεŋ** - Smell of meat that attracts tigers
 
-%-se\[-\] **Compendium Entry - %%enAdrenaline++%**
+%-se\[-\] **Compendium Entry - %%enCarnal++%**
 > Wake to adrenaline\
 > Wake to your desires\
 > Buy me. Cut me. Eat me. Consume me.\
@@ -414,15 +414,23 @@ Phosphenes, &nbsp;pits, and Joyous will never imprint, and Baer will not care if
 
 %-st**Health** : 4000
 
-%-fdMauled by Concrete is bellicose duelist, a being given purpose and transformed into a puppet of violence seeking the thrill of combat.
+%-fdMauled by Concrete is a bellicose duelist, beings given purpose and transformed into a puppet of violence. It seeks the thrill of combat.
 
 %-se\[-\] **Abilities**
 
 Mauled by Concrete will only enter the arena when Avnlyla has killed over half the enemies present, after which it will relentlessly keep pace with her.
 
-Mauled by Concrete is two entities, the **Brutalized** and its possessor **Blood Sport**. **Blood Sport** can not take damage, but can not live without **Brutalized**. **Blood Sport** can exit **Brutalized** at any time in order to assist it in combat, and is able to walk and stand in the air and phase through geometry. Breaking impacts will forcibly eject **Blood Sport** from its puppet.
+Mauled by Concrete exists either **Possessed** or **Seperate**, consisting of two entities, the **Brutalized** and its possessor **Blood Sport**. **Blood Sport** can not take damage, but can not live without **Brutalized**. **Blood Sport** can exit **Brutalized** at any time in order to assist it in combat, and is able to walk mid-air and phase through geometry. Breaking impacts will forcibly eject Blood Sport from its vessel for 5 seconds.
 
-Mauled by Concrete weilds a larg
+Mauled by Concrete will attempt to stance itself. Brutalized can omnidirectionally dash to avoid attacks, and may sometimes dash into a %%at**Heavy Swing**++%% at Avnlyla, dealing 40 normal damage. It can also %%at**Spinning Throw**++% the axe like a boomerang, dealing 30 normal damage on both send and return. If she gets too close, Mauled by Concrete will %%at**Uppercut**++%, spinning and reversing the axe before swinging upwards at Avnlyla's head, dealing 40 normal damage and applying a second long stun with heavy knockback.
+
+When **Possessed**, Mauled by Concrete can also %%pa**Spite Parry**++% attacks, blocking all damage with its axe in a defensive stance, causing it to move slowly and face Avnlyla. **Spite Parry's** defensive stance allows the axe to act as a barrier with 700 + 20% of Mauled by Concrete's max health. The barrier regenerates with *any* damage Avnlyla takes. If Avnlyla deals over 20% of the barrier's health in less than a second, it will immediately counter with %%at**Frenzied Cleaves**++%, gaining movespeed and rapidly closing distance while consecutively cutting three differently angled electric projectiles into the air, each dealing 30 normal damage. After which, Blood Sport will always leave the body. 
+
+At any time, Mauled by Concrete may **Seperate**, even in the middle of attacks. Blood Sport is connected to Brutalized by strings of arcing energy, which deals 20 light damage, however the energy will take a second to re-attach if Blood Sport teleports. Blood Sport can cast %%at**Shocking Rays**++% from its hands, making a large sweeping beam that grounds Avnlyla, applying a jump-disabling light snare and dealing 30 normal damage. 
+
+Blood Sport can %%at**Double Down** on attacks; During a **Heavy Swing** Blood Sport It can catch the **Spinning Throw** at its peak and redirect it with greater speed at Avnlyla
+
+INCOMPLETE INCOMPLETE
 
 %-se\[-\] **Compendium Entry**
 
