@@ -15,3 +15,5 @@
 %-se - This is a section title 
 
 %-pe - Style for "Pending"
+
+%%en - Entry
