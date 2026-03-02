@@ -2,6 +2,14 @@
 layout: wiki
 ---
 
+# Competitors
+
+While Noxipolis is notable for having enemies from all realms, across its facets dwell apparitions and creations distilled from the most intense thoughtmass. Competitors are supernatural art formed with the conception of Noxipolis, yet just as often are unintentional mistakes and consequences that lurk and spy. Like all of Noxipolis, they reflect both what was and wasn't meant to be seen.
+
+Competitors have horrific, surreal, and depressive themes, drawing inspiration from esoteric ideas and subcultures in contrast to more grounded or shared theming among other enemies. They also push the design space of combat design, pushing and showing the limits of what the game was designed to tolerate. Competitors are endgame enemies with intentionally obtuse and demanding kits that often require Avnlyla to deal with them on *their* terms. Luckily, even in Noxipolis, Competitors are the rarest enemies in the game, making up only 15% of enemies in arenas. An arena very rarely has more than two rolls for Competitors.
+
+%-sr
+
 ## Cherry&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 %-st**Tier** : Normal
