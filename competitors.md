@@ -363,9 +363,11 @@ Jahai: **Plʔεŋ** - Smell of meat that attracts tigers
 
 Chromatic Aberration rapidly crawls around the arena, prefering to usually never have its body in complete line of sight by staying and moving behind enemies or structures relative to Avnlyla.
 
-Chromatic Aberration can give Avnlyla %%pa**Proxy Gamuts**++%, afflicting her with dangerous extrasensory perceptions. It can slip its geometry into the subject of any **Proxy Gamut**, and then manipulate those subject's.
+Chromatic Aberration can give Avnlyla %%pa**Proxy Gamuts**++%, afflicting her with dangerous extrasensory perceptions. It can slip its geometry into the subject of any **Proxy Gamut** being sensed, and then manipulate those subjects.
 
-%%db**Extromission**++% warps Avnlyla's visual umwelt for ten seconds. The *crosshair itself can now also take damage*. A radius around the crosshair gains negative colors, and will be "hit" with any attack it covers if it is not too far away, such as mousing over a enemy projectile or looking at the hitbox of a melee attack, damaging Avnlyla for 75% of that damage as light damage and otherwise triggering any effects that would occur if the attack landed on her body, such as a projectile dissipating. This applies to enemies with contact damage. If Avnlyla is experiencing the **Extramission Gamut**, Chromatic Aberration can hide its body into thin air behind projectiles in her FoV and freeze those projectiles in place, before slowly moving them in a direction around her. It will briefly do this before exiting the projectiles and allowing the projectiles to move in the vector they were before.
+%%db**Extromission**++% warps Avnlyla's visual umwelt for ten seconds. The *crosshair itself can now take damage*. A radius around the crosshair gains negative colors, and will be "hit" with any attack it covers if it is not too far away, such as mousing over a enemy projectile or looking at the hitbox of a melee attack, damaging Avnlyla for 75% of that damage as light damage and otherwise triggering any effects that would occur if the attack landed on her body, such as a projectile dissipating. This applies to enemies with contact damage. If Avnlyla is experiencing the **Extramission Gamut**, Chromatic Aberration can hide its body into thin air behind projectiles in her FoV and freeze those projectiles in place, before slowly moving them in a direction around her. It will briefly do this before exiting the projectiles and allowing the projectiles to move in the vector they were before.
+
+%%db**Retrosense**++% instills the sense of past 
 
 %-se\[-\] **Compendium Entry**
 
