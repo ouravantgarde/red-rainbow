@@ -186,7 +186,31 @@ Then, we use empty entities to fill the rest of the "button's" length. Anywhere 
         direction: ltr //The direction is set back so all our text is normal! 
         }; //Also, usually for something like this, you would use a Flexbox. But as the ToC is generated as a <ul>, it already organizes everything how we want it and flexbox/grid does nothing
 
-    li.toc1 {
+    li { 
+        margin: 30px 0px 0px 0px;
+        padding-left: 1rem;
+        background: hsla(0deg,0%,100%,10%);
+        font-family: "VGA New", serif;
+        font-size: 20px;
+        letter-spacing: 3px;
+        line-height: 2.5;
+        white-space: nowrap;
+        transition: background 0.2s,line-height 0.2s
+        };
+    
+    li:hover {
+        background: hsla(0deg,0%,100%,80%);
+        line-height: 3; 
+        box-shadow: 0px 2px hsla(180deg,100%,50%,50%),0px -2px hsla(0deg,100%,50%,50%);
+        transition: background 0.15s,box-shadow 0.15s
+        };
+
+    li:hover:active {
+        background: black;
+        box-shadow: 12px 6px hsla(0deg,100%,50%,90%),-12px -6px hsla(180deg,100%,50%,90%)
+        };
+    
+    li.toc1 { // .toc1 refers to heading 1, which is treated seperately as to allow for the ToC to have sections by making a h1. By extension however, I use h2 for every main entry and only h1 if a page needs more categorization. 
         margin: 30px 0px 0px 0px;
         padding-left: 1rem;
         background: hsla(0deg,0%,100%,10%);
@@ -213,30 +237,6 @@ Then, we use empty entities to fill the rest of the "button's" length. Anywhere 
     .toc1 a {
         display:inline-block;
         color: hsla(325deg,25%,50%,100%)
-        };
-    
-    li { // .toc1 refers to heading 1, which is treated seperately as to allow for the ToC to have sections by making a h1. By extension however, I use h2 for every main entry and only h1 if a page needs more categorization. 
-        margin: 30px 0px 0px 0px;
-        padding-left: 1rem;
-        background: hsla(0deg,0%,100%,10%);
-        font-family: "VGA New", serif;
-        font-size: 20px;
-        letter-spacing: 3px;
-        line-height: 2.5;
-        white-space: nowrap;
-        transition: background 0.2s,line-height 0.2s
-        };
-    
-    li:hover {
-        background: hsla(0deg,0%,100%,80%);
-        line-height: 3; 
-        box-shadow: 0px 2px hsla(180deg,100%,50%,50%),0px -2px hsla(0deg,100%,50%,50%);
-        transition: background 0.15s,box-shadow 0.15s
-        };
-
-    li:hover:active {
-        background: black;
-        box-shadow: 12px 6px hsla(0deg,100%,50%,90%),-12px -6px hsla(180deg,100%,50%,90%)
         };
     
     ::selection {
