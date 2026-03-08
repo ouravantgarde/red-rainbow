@@ -288,7 +288,7 @@ Killed elsewise: *Distressing.*
 
 Joyous will poke and stalk the player from a distance, acting more aggressive if it is offscreen. All its abilities can be used while it moves with no impact on movespeed.
 
-Joyous has an intense %%pa**Prey Drive**++% which lets it heal for twice the damage it deals. Every attack it lands refund a second of it's cooldowns and marks Avnlyla with a stacking debuff %%db**NAMAGUSAPLʔΕŊMALANSÁZANKHAXUÈXĪNG (???)**++% which determines its aggression against her, and Avnlyla automatically gains 2 temporary stacks if she is below half health. **(???)** can not be cleansed.
+Joyous has an intense %%pa**Prey Drive**++% which lets it heal for twice the damage it deals. Every attack it lands refunds a second of its cooldowns and marks Avnlyla with a stacking debuff %%db**NAMAGUSAPLʔΕŊMALANSÁZANKHAXUÈXĪNG (???)**++% which determines its aggression against her, and Avnlyla automatically gains 2 temporary stacks if she is below half health. **(???)** can not be cleansed.
 
 Without any stacks of **???**, it will often %%at**Spit Blood**++% projectiles at Avnlyla for 30 normal damage. If she gets close, it can sprint to kite her and position how it wishes; It may also open the %%at**Ventricle**++% of any of its external hearts to boil out blood and steam with significant reach. The venting lasts for 3 seconds dealing 30 light DPS, but more dangerously easily stains Avnlyla with **???** with only 0.75 seconds of immunity frames. If Avnlyla is ever too far, it can %%at**Gutsling**++% its internals, bending slightly to send out a reeling line of its intestines, dealing 40 normal damage and pulling her a distance towards it.
 
