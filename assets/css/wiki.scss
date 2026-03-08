@@ -215,7 +215,7 @@ Then, we use empty entities to fill the rest of the "button's" length. Anywhere 
     color: hsla(325deg,25%,50%,100%)
 }
     
-    li {
+    li { // .toc1 refers to heading 1, which is treated seperately as to allow for the ToC to have sections by making a h1. By extension however, I use h2 for every main entry and only h1 if a page needs more categorization. 
         margin: 30px 0px 0px 0px;
         padding-left: 1rem;
         background: hsla(0deg,0%,100%,10%);
