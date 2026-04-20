@@ -357,7 +357,7 @@ Jahai: **Plʔεŋ** - Smell of meat that attracts tigers
 
 %-st**Health** : 3000
 
-%-dfChromatic Aberrations are non-euclidian animals that seek and feed on sensory experience, using their spacial magic and unique umwelts to be predatory parasites.
+%-fdChromatic Aberrations are non-euclidian animals that seek and feed on sensory experience, using their spacial magic and unique umwelts to be predatory parasites.
 
 %-se\[-\] **Abilities**
 
@@ -367,7 +367,7 @@ Chromatic Aberration can give Avnlyla %%pa**Proxy Gamuts**++%, afflicting her wi
 
 %%db**Extromission**++% warps Avnlyla's visual umwelt for ten seconds. The *crosshair itself can now take damage*. A radius around the crosshair gains negative colors, and will be "hit" with any attack it covers if it is not too far away, such as mousing over a enemy projectile or looking at the hitbox of a melee attack, damaging Avnlyla for 75% of that damage as light damage and otherwise triggering any effects that would occur if the attack landed on her body, such as a projectile dissipating. This applies to enemies with contact damage. If Avnlyla is experiencing the **Extramission Gamut**, Chromatic Aberration can hide its body into thin air behind projectiles in her FoV and freeze those projectiles in place, before slowly moving them in a direction around her. It will briefly do this before exiting the projectiles and allowing the projectiles to move in the vector they were before.
 
-%%db**Retrosense**++% instills the sense of past 
+%%db**Retrosense**++% instills the exact sense of past actions, creating afterimages. When under the **Retrosense Gamut**, Chromatic Abberation will *always* slip into the line of Avnyla's past locations, gaining 50% damage resistance and rapid movement, albeit one-dimensional along the line. The line deals 20 light contact damage. Special afterimages exist along this line, which Chromatic Abberation can select and activate to cause them to aim and use whatever action was recorded after a brief delay, aiming it at present Avnlyla. Dashing into the afterimage while it is being cast will instead immediately use that action as present Avnlyla; Her past actions will be taken regardless of if Avnlyla has the resources to do so, and no actions besides movement and aiming can be taken until the past action was fulfilled. 
 
 %-se\[-\] **Compendium Entry**
 
