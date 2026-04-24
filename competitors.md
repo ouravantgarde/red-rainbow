@@ -207,7 +207,7 @@ Migraines are stationary until provoked, usually found settling in corners or da
 
 Migraines %%pa**Skulk**++%, remaining formless and untargetable. While **Skulking**, they will %%at**Stain**++% the ground with growing fissures of darkness. These puddles spread throughout the arena and can be fallen into, dealing 20 heavy DPS and applying a slowing snare, requiring Avnlyla to jump out of the fluid.
 
-If Avnlyla gets close, it will stop **Staining** the arena and enrage, leaving its **Skulking** state.
+If Avnlyla gets close, it will stop **Staining** the arena and enrage, leaving its **Skulking** state, which allows it to be damaged. Migraines will gain form and immediately start rapidly moving and chasing Avnlyla, although they lack turning control or precise movement due to their size.
 
 %-se\[-\] **Compendium Entry**
 
