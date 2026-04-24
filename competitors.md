@@ -171,7 +171,7 @@ Phosphenes wander around the arena, gravitating towards Avnlyla. As their swarm 
 
 They will %%pa**Rive**++% to create new Phosphenes every 6 to 12 seconds, causing them to quickly amass a swarm. Phosphenes will also %%at**Leak**++% fluid that covers the ground, which deals 20 normal DPS and lasts for 7 seconds.
 
-Phosphenes possess %%db**Viral Stability**++%. Touching them or the fluids they leave will rapidly scale and decrease max health at a rate of 20% a second. This debuff lasts 4 seconds. If Avnlyla is brinking and touches Phosphenes, or brinks while under the effect of **Viral Stability**, she will instantly start to die regardless of any flesh health present.
+Phosphenes possess %%db**Viral Stability**++%. Touching them or the fluids they leave will rapidly scale and decrease max health at a rate of 15% a second. This debuff lasts 4 seconds. If Avnlyla is brinking and touches Phosphenes, or brinks while under the effect of **Viral Stability**, she will instantly start to die regardless of any flesh health present.
 
 %-se\[-\] **Visuals and Lore**
 
@@ -199,7 +199,15 @@ Killed in any way: *She melted into one of them.*
 
 %-st**Health** : 4000
 
-INCOMPLETE INCOMPLETE
+%-fdMigraines are amalgamations of rapture tar, left unhindered to simmer and develop into something terrible.
+
+%-se\[-\] **Abilities**
+
+Migraines are stationary until provoked, usually found settling in corners or dark areas.
+
+Migraines %%pa**Skulk**++%, remaining formless and untargetable. While **Skulking**, they will %%at**Stain**++% the ground with growing fissures of darkness. These puddles spread throughout the arena and can be fallen into, dealing 20 heavy DPS and applying a slowing snare, requiring Avnlyla to jump out of the fluid.
+
+If Avnlyla gets close, it will stop **Staining** the arena and enrage, leaving its **Skulking** state.
 
 %-se\[-\] **Compendium Entry**
 
@@ -367,7 +375,7 @@ Chromatic Aberration can give Avnlyla %%pa**Proxy Gamuts**++%, afflicting her wi
 
 %%db**Extromission**++% warps Avnlyla's visual umwelt for ten seconds. The *crosshair itself can now take damage*. A radius around the crosshair gains negative colors, and will be "hit" with any attack it covers if it is not too far away, such as mousing over a enemy projectile or looking at the hitbox of a melee attack, damaging Avnlyla for 75% of that damage as light damage and otherwise triggering any effects that would occur if the attack landed on her body, such as a projectile dissipating. This applies to enemies with contact damage. If Avnlyla is experiencing the **Extramission Gamut**, Chromatic Aberration can hide its body into thin air behind projectiles in her FoV and freeze those projectiles in place, before slowly moving them in a direction around her. It will briefly do this before exiting the projectiles and allowing the projectiles to move in the vector they were before.
 
-%%db**Retrosense**++% instills the exact sense of past actions, creating afterimages. When under the **Retrosense Gamut**, Chromatic Abberation will *always* slip into the line of Avnyla's past locations, gaining 50% damage resistance and rapid movement, albeit one-dimensional along the line. The line deals 20 light contact damage. Special afterimages exist along this line, which Chromatic Abberation can select and activate to cause them to aim and use whatever action was recorded after a brief delay, aiming it at present Avnlyla. Dashing into the afterimage while it is being cast will instead immediately use that action as present Avnlyla; Her past actions will be taken regardless of if Avnlyla has the resources to do so, and no actions besides movement and aiming can be taken until the past action was fulfilled. 
+%%db**Retrosense**++% instills the exact sense of past actions, creating afterimages. When under the **Retrosense Gamut**, Chromatic Abberation will *always* slip into the line of Avnyla's past locations, gaining 50% damage resistance and rapid movement, albeit one-dimensional along the line. The line deals 20 light contact damage. Special afterimages exist along this line, which Chromatic Abberation can select and activate to cause them to aim and use whatever action was recorded after a brief delay, aiming it at present Avnlyla. Dashing into the afterimage while it is being cast will instead immediately use that action as present Avnlyla; Her past actions will be taken regardless of if Avnlyla has the resources to do so, and no actions besides movement and aiming can be taken until the past action was fulfilled.
 
 %-se\[-\] **Compendium Entry**
 
@@ -543,13 +551,13 @@ When spaced away from Avnlyla, it may %%at**Serrate**++%, dashing to the either 
 
 If Avnlyla has more than 3 buffs, CH2O will occasionally attempt to %%at**Contemn**++% her with a dark pink slash. This will apply a special debuff that removes a buff Avnlyla has every second, each time healing CH2O for 5% of its max health, while removing 10% of Avnlyla's current health, which lasts 7 seconds. All of its cutting attacks cause %%db**Veinspasm**++%, removing a stamina charge for 5 seconds and causing any damage taken to cause a 7 normal DPS DoT effect for 5 seconds.
 
-Very rarely, a chance that increases as Avnlyla kills enemies, CH2O will crawl out of its pocket dimension, bringing with it sludge that leaks out to the floor and applies %%db**Viral Stability**++%(see Phosphenes/Migraines). It will quickly throw a red light into the air before immediately leaving the arena. This will bloom into %%at**Vice in Vanitas**++%, a hypnotic symbol that floats in the air. Looking at **Vice in Vanitas** will expose you to its desire, and if it has been visible in *any* way for more than 3 seconds total since spawning in Avnlyla will will be considered fully exposed. Afterwards, **Vice in Vanitas** will apply one stack of the debuff %%db**Death Fantasy**++%. A stack is gained whenever it is observed, with a half second of immunity. **Death Fantasy** builds up over course of 15 seconds to consume one stack, which deals 30 heavy damage + 5% of Avnlyla's missing health as damage. This affect causes time to slow down before rapidly speeding up, then going back down to normal over the course of 3 seconds. This will continue to happen every 20 seconds until all **Death Fantasy** stacks have been used, however in practice it will happen every 15 seconds due to the gamespeed.
+Very rarely, a chance that increases as Avnlyla kills enemies, CH2O will crawl out of its pocket dimension, bringing with it sludge that leaks out to the floor and applies %%db**Viral Stability**++%(see Phosphenes/Migraines). It will quickly throw a red light into the air before immediately leaving the arena. This will bloom into %%at**Vice in Vanitas**++%, a hypnotic symbol that floats in the air. Looking at **Vice in Vanitas** will expose you to its desire, and if it has been visible in *any* way for more than 3 seconds total since spawning in Avnlyla will will be considered fully exposed. Afterwards, **Vice in Vanitas** will apply one stack of the debuff %%db**Death Wish**++%. A stack is gained whenever it is observed, with a half second of immunity. **Death Wish** builds up over course of 15 seconds to consume one stack, which deals 30 heavy damage + 5% of Avnlyla's missing health as damage. This affect causes time to slow down before rapidly speeding up, then going back down to normal over the course of 3 seconds. This will continue to happen every 20 seconds until all **Death Wish** stacks have been used, however in practice it will happen every 15 seconds due to the gamespeed.
 
 %-se\[-\] **Visuals & Lore**
 
 CH2O is a slender, ghostly humanoid apparition composed of deep messes of reds and blacks, like a distorted impression of gore. On its head it wears a solid bright red mask, which has a half circle smile on the lower half in the form of a darkened depression, and no other details on the upper half. The mask leads into a notable crescent-esque shape that extends above the head, making the mask somewhat teardrop shaped. It has no concern for its orientation, and fades in and out as if it was going behind something, even when nothing is there to go behind. It has no weapons, and it simply manifests sharpness in the air using its hands. These create large crimson or pink slashes, which it often does with unnatural laughter.
 
-When creating **Vice in Vanitas**, it will fade in with a large amount of void sludge, seemingly the same rapture byproduct that makes Phosphenes. Vice in Vanitas itself is seemingly a hypnotic, corrupting hallucination or object that floats in the air, cracking and bleeding into the sightlines and skybox around it. It is is not depicting flowers. Exposure to Death Fantasy causes the world to seem blurry and hall of mirrors, and time to pulsate. The blurriness also comes in the 5 seconds leading up to Death Fantasy consuming itself. A stack of Death Fantasy being gained turns the skybox solid red for a split second.
+When creating **Vice in Vanitas**, it will fade in with a large amount of void sludge, seemingly the same rapture byproduct that makes Phosphenes. Vice in Vanitas itself is seemingly a hypnotic, corrupting hallucination or object that floats in the air, cracking and bleeding into the sightlines and skybox around it. It is is not depicting flowers. Exposure to Death Fantasy causes the world to seem blurry and hall of mirrors, and time to pulsate. The blurriness also comes in the 5 seconds leading up to Death Wish consuming itself. A stack of Death Wish being gained turns the skybox solid red for a split second.
 
 CH2O's are like servants to Caroline, and are likely intended apparitions from her dominion over the noosphere. When not sleeping or acting out Caroline's will, they seem to enjoy suffering and death in the things around them. Vice in Vanitas is these desires turned into a visual form imposed upon reality. The word vanitas refers to art that depicts the transience of life and the futility of pleasure outside of faith, vice here implies a corruption of this.
 
@@ -559,7 +567,7 @@ Killed by sharp attacks: It reaches the bones...
 
 Killed by Veinspasm: Suffer.
 
-Killed by Death Fantasy: Join in our indulgence.
+Killed by Death Wish: 
 
 %-se\[-\] **Compendium Entry**
 
