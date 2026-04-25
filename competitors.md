@@ -171,7 +171,7 @@ Phosphenes wander around the arena, gravitating towards Avnlyla. As their swarm 
 
 They will %%pa**Rive**++% to create new Phosphenes every 6 to 12 seconds, causing them to quickly amass a swarm. Phosphenes will also %%at**Leak**++% fluid that covers the ground, which deals 20 normal DPS and lasts for 7 seconds.
 
-Phosphenes possess %%db**Viral Stability**++%. Touching them or the fluids they leave will rapidly scale and decrease max health at a rate of 15% a second. This debuff lasts 4 seconds. If Avnlyla is brinking and touches Phosphenes, or brinks while under the effect of **Viral Stability**, she will instantly start to die regardless of any flesh health present.
+Phosphenes possess %%db**Viral Stability**++%. Touching them or the fluids they leave will rapidly scale and decrease max health at a rate of 10% a second. This debuff lasts 4 seconds. If Avnlyla is brinking and touches Phosphenes, or brinks while under the effect of **Viral Stability**, she will instantly start to die regardless of any flesh health present.
 
 %-se\[-\] **Visuals and Lore**
 
@@ -203,11 +203,13 @@ Killed in any way: *She melted into one of them.*
 
 %-se\[-\] **Abilities**
 
-Migraines are stationary until provoked, usually found settling in corners or dark areas.
+Migraines are stationary until provoked, usually found hidden in corners or dark areas.
 
-Migraines %%pa**Skulk**++%, remaining formless and untargetable. While **Skulking**, they will %%at**Stain**++% the ground with growing fissures of darkness. These puddles spread throughout the arena and can be fallen into, dealing 20 heavy DPS and applying a slowing snare, requiring Avnlyla to jump out of the fluid.
+Migraines %%pa**Skulk**++%, remaining formless and untargetable. While **Skulking**, they will stain the ground with growing fissures of darkness. These puddles spread throughout the arena and can be fallen into dealing 20 heavy DPS and applying a slowing snare, requiring Avnlyla to jump out of the fluid. If Avnlyla gets close, it will stop **Skulking** and permanently enrage, immediately entering an attack. It will gain form and immediately start rapidly moving and chasing Avnlyla, however it lacks turning control due to its size.
 
-If Avnlyla gets close, it will stop **Staining** the arena and enrage, leaving its **Skulking** state, which allows it to be damaged. Migraines will gain form and immediately start rapidly moving and chasing Avnlyla, although they lack turning control or precise movement due to their size.
+It can %%at**Snap and Scream**++%, speeding up while extending a maw proper to bite at Avnlyla for 40 normal damage. If this misses, it will loudly scream and inflict %%db**Dizzying**++%, slowing Avnlyla's aim and animations for 4 seconds. Migraines will periodically manifest a %%at**Thousand Eyes** within itself and in **Stains** it created along the ground, growing their numbers over three seconds before all eyes sequentially aim and fire a beam at Avnlyla, dealing 15 light damage.
+
+Migraines deal 20 light contact damage. Migraines may stop moving to %%at
 
 %-se\[-\] **Compendium Entry**
 
