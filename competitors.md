@@ -27,9 +27,9 @@ Cherries always come in flocks of two to, more rarely, five. They each move slow
 
 It will %%db**Lull**++% actors around itself, excluding other Cherries. **Lulled** beings are interrupted, silenced, disarmed, deitemed, can not jump or dash, and take 80% less damage. Avnlyla will uniquely recieve 5 HPS barrier healing when **lulled**.
 
-Anytime something dies, every Cherry will invade the closest target, quickly flying past with their flowing lights and marking them with a glowing %%db**Inhibition**++%. **Inhibition** is a stacking debuff that causes any damage dealt by the affected actor to cost health(A rate of 70 damage = 4% of current health as self damage. This self damage can't damage anything below 20% health). The self damage is siphoned to all Cherries, which will increase their max health. Stacks will be consumed for every 30% of max health as self damage taken, one at a time. This is the only way to get rid of **Inhibition**. Every stack beyond the first increases the current health as self damage by +2%.
+Anytime something dies, every Cherry will invade the closest target, quickly flying past with their flowing lights and marking them with a glowing %%db**Inhibition**++%. **Inhibition** is a stacking debuff that causes any damage dealt by the affected actor to cost health(A rate of 100 damage = 3% of current health as self damage. This self damage can't damage anything below 20% health). The self damage is siphoned to all Cherries, which will increase their max health. Stacks will be consumed for every 30% of max health as self damage taken, one at a time. This is the only way to get rid of **Inhibition**. Every stack beyond the first increases the current health as self damage by +2%.
 
-A cherry will release their %%pa**Shadow**++% when they die, giving birth to calamities. The **Shadow** will always manifest one pit, and will release an extra pit per every 200 max health it gained above base. Anytime something **Lulled** takes damage from another actor(a cooldown of 3 seconds), the Cherry will gain a stack of **distress**. <br>At one distress, every pit will spawn with a torrent of blood as a random firing of 16 projectiles, dealing 20 light damage. <br>At two distress, the **Shadow** will %%at**Leak**++% black fluid onto the ground(see phosphenes/migraines). <br>At three distress, it will release a blanketing miasma that applies a 30% slow, nearsights, and deals 10 light DPS. The miasma goes away after 10 seconds. <br>At four distress, a random enemy will be ressurected at 50% health.
+A cherry will release their %%pa**Shadow**++% when they die, giving birth to calamities. The **Shadow** will always manifest one pit, and will release an extra pit per every 200 max health it gained above base. Anytime something **Lulled** takes damage from another actor(a cooldown of 3 seconds), the Cherry will gain a stack of **distress**. <br>At one distress, every pit will spawn with a torrent of blood as a random firing of 16 projectiles, dealing 20 light damage. <br>At two distress, the **Shadow** will **Leak** black fluid onto the ground(see Phosphenes/Migraines). <br>At three distress, it will release a blanketing miasma that applies a 30% slow, nearsights, and deals 10 light DPS. The miasma goes away after 10 seconds. <br>At four distress, a random enemy will be ressurected at 50% health.
 
 %-se\[-\] **Visuals & lore**
 
@@ -37,11 +37,13 @@ Cherries are long flowing creatures, resembling deep sea life. They are composed
 
 On death, a Cherry will appear to rapidly turn inside out into darkness before dissipating. Alongside the shadow. The shadow releases pits, which may cause rapid lines of blood to fling from them, and its miasma is a sparkling cloud of darkness.
 
-%-se\[-\] **Extras**
+%-se\[-\] **Extras & Tips**
 
 A Cherry will instantly die if it reaches 600 bonus max health or 6 stacks of distress. Cherries do not count as enemies for arena completion, and thus do not need to be killed. During arena completion, if a cherry has more than two stacks of distress, they will fly away. However if it is below two distress it will stay near Avnlyla until all her barrier is restored, leaving afterwards or if another arena has begun.
 
 Every resurrection past the first will have less and less health(50%, 33%, 25%, etc).
+
+The faster Avnlyla can kill things, the less an issue Cherries will become, as this will diminish both Inhibition and Shadow's distress stacks from building. Cherries are more vulnurable to knockback due to their movement, which can be used to get them off an enemy
 
 %-se\[-\] **Compendium Entry - %%enAngel Eyes++%**
 
@@ -61,7 +63,7 @@ Every resurrection past the first will have less and less health(50%, 33%, 25%, 
 
 %-st**Health** : 1
 
-%-fd &nbsp;pits are chaotic stains of negativity, imposing themselves with an uneasy presence and staring.
+%-fd &nbsp;pits are chaotic beings of negativity, imposing themselves with uneasy presence and staring.
 
 %-fd &nbsp;pits rarely spawn on their own, but are mostly offspring from Cherries.
 
@@ -69,7 +71,7 @@ Every resurrection past the first will have less and less health(50%, 33%, 25%, 
 
 &nbsp;pits move swiftly between different enemies with inconsistent lingering, and are unpredictable.
 
-A &nbsp;pit is %%pa**Ignorant**++%, and is unable to take damage as long as it has any status effect. They have an aura around them makes all actors take 20% more damage from all sources, and an additional 20% from debuffs. They are unaffected by debuffs, and any debuffs they have will instead be applied anything in the aura. &nbsp;pits will gain a stack of %%db**Spur**++% for any actor in their radius, including other &nbsp;pits. Each **Spur** lasts ten seconds, but spurs will not count as a status effect unless they have been near an enemy in the last second.
+A &nbsp;pit is %%pa**Ignorant**++%, and is unable to take damage as long as it has any status effect. They have an aura around them makes all actors take 20% more damage from all sources, and an additional 20% from debuffs. They are unaffected by debuffs, and any debuffs they have will instead be applied to anything in the aura. &nbsp;pits will gain a stack of %%db**Spur**++% for any actor in their radius, including other &nbsp;pits. Each **Spur** lasts ten seconds, but spurs will not count as a status effect unless they have been near an enemy in the last second.
 
 When a &nbsp;pit moves to an enemy, it will immediately %%at**Stare**++% at Avnlyla, manifesting white projectiles around itself for every **Spur** it has, each dealing 20 normal damage. Once finished, it will cast each projectile consecutively at Avnlyla, teleporting to a new position around the enemy every time it fires.
 
@@ -85,11 +87,13 @@ If four &nbsp;pits meet, they will metamorphose into a single Cherry. This Cherr
 
 Cherry and pit are based on the eye motif in weirdcore.
 
-%-se\[-\] **Extras**
+%-se\[-\] **Extras & Tips**
 
 &nbsp;pits are exempt from all enemy interactions, and can not recieve any status effect besides from Avnlyla or via **Spur**.
 
 &nbsp;pits will die if lulled by a Cherry. They will also will die if there are no other enemies, not counting Cherries.
+
+While they come in swarms and can be untargetable, most &nbsp;pits will usually end up dying on their own. They can quickly compound chaos however, and require at least some attention.
 
 %-se\[-\] **Death Messages**
 
@@ -135,13 +139,17 @@ Its %%at**Grimacing**++% side will build up a masses of teeth and gore around en
 
 If Avnlyla is in a radius above Yawns, it will %%at**Purge**++% a large beam of energy at her via its top opening, dealing 60 normal damage and applying a heavy snare that grounds and prevents jumping for 3 seconds.
 
-Every 33% of max health lost, Yawns will begin %%pa**Screaming**++% an unending monstrous howl as it rapidly spins upon its base, allowing it to use **Maddening**, **Gnawing**, and **Grimacing** in a 360° radius around it. It will also rapidly crawl around the arena. The Screaming will last for 7 seconds before it settles down in a new location.
+Every 33% of max health lost, Yawns will begin %%pa**Screaming**++% an unending monstrous howl as it rapidly spins upon its base, allowing it to use **Maddening**, **Gnawing**, and **Grimacing** in a 360° radius around it at slightly reduced rates. It will also rapidly crawl around the arena. The Screaming will last for 5 seconds before it settles down in a new location and then stops rotating.
 
 %-se\[-\] **Visuals & Lore**
 
 Yawns are large fleshy totems, connected to a swivel joint base of meaty bone as well as three spider-like legs equidistantly orbiting its center which is uses to crawl. The flesh appears deeply red although somewhat grayed in streaks, with a sticky appearance. The main body itself has three relatively flat sides, which increases in width towards the top, while tapering down into the boney base at the bottom. Each side has its own vestigial "mouth" that takes up the entire side, however there is no inside to speak of; Right behind its outer teeth is a useless fleshy film. The top of Yawns is a crater lined with teeth, which is uses to consume remnant. It may also expel a bloody beam, angling itself the best it can to aim.
 
 Its mouths each display different expressions upon its surface. Grimacing has a very lip defined, exaggerated and overstretched smile, which instead frowns when you kill enemies. Maddening is stretched open across the surface, appearing to leak blood as it attacks. Gnawing has prominent sharp teeth which it grits and breaks upon itself when it lands an attack, although new grow back very quickly.
+
+%-se\[-\] **Extras & Tips**
+
+Yawns acts more as an arena-wide obstacle, it is important to not forget what radii Avnlyla is in.
 
 %-se\[-\] **Death Messages**
 
@@ -169,7 +177,7 @@ Killed elsewise: *Cacophany!*
 
 Phosphenes wander around the arena, gravitating towards Avnlyla. As their swarm increases, they move faster and may occasionally warp forward a small distance.
 
-They will %%pa**Rive**++% to create new Phosphenes every 6 to 12 seconds, causing them to quickly amass a swarm. Phosphenes will also %%at**Leak**++% fluid that covers the ground, which deals 20 normal DPS and lasts for 7 seconds.
+They will %%pa**Rive**++% to create new Phosphenes every 3 to 9 seconds, causing them to quickly amass a swarm. Phosphenes will also %%at**Leak**++% fluid that covers the ground, which deals 20 normal DPS and lasts for 7 seconds.
 
 Phosphenes possess %%db**Viral Stability**++%. Touching them or the fluids they leave will rapidly scale and decrease max health at a rate of 10% a second. This debuff lasts 4 seconds. If Avnlyla is brinking and touches Phosphenes, or brinks while under the effect of **Viral Stability**, she will instantly start to die regardless of any flesh health present.
 
@@ -181,9 +189,13 @@ They possess sporadic and broken animations and shift between properly walking, 
 
 Phosphenes are named after the colors and patterns that appear when you rub your eyes.
 
+%-se\[-\] **Extras & Tips**
+
+Pay attention. If you thought you saw a Phosphene, you probably did.
+
 %-se\[-\] **Death Messages**
 
-Killed in any way: *She melted into one of them.*
+Killed in any way: *Avnlyla was dissolved.*
 
 %-se\[-\] **Compendium Entry**
 
@@ -205,11 +217,33 @@ Killed in any way: *She melted into one of them.*
 
 Migraines are stationary until provoked, usually found hidden in corners or dark areas.
 
-Migraines %%pa**Skulk**++%, remaining formless and untargetable. While **Skulking**, they will stain the ground with growing fissures of darkness. These puddles spread throughout the arena and can be fallen into dealing 20 heavy DPS and applying a slowing snare, requiring Avnlyla to jump out of the fluid. If Avnlyla gets close, it will stop **Skulking** and permanently enrage, immediately entering an attack. It will gain form and immediately start rapidly moving and chasing Avnlyla, however it lacks turning control due to its size.
+Migraines %%pa**Skulk**++%, remaining formless and untargetable. While **Skulking**, they will stain the ground with growing fissures of darkness. These puddles spread throughout the arena and can be fallen into dealing 20 normal DPS and applying a slowing snare, requiring Avnlyla to jump out of the fluid. If Avnlyla gets close, it will stop **Skulking** and permanently enrage, immediately entering an attack. It will gain form and begin chasing Avnlyla, however it lacks turning control due to its size.
 
-It can %%at**Snap and Scream**++%, speeding up while extending a maw proper to bite at Avnlyla for 40 normal damage. If this misses, it will loudly scream and inflict %%db**Dizzying**++%, slowing Avnlyla's aim and animations for 4 seconds. Migraines will periodically manifest a %%at**Thousand Eyes** within itself and in **Stains** it created along the ground, growing their numbers over three seconds before all eyes sequentially aim and fire a beam at Avnlyla, dealing 15 light damage.
+It can %%at**Snap and Scream**++%, speeding up while extending a maw proper to bite at Avnlyla for 40 normal damage. If this misses, it will loudly scream in distress and inflict %%db**Dizzying**++%, slowing Avnlyla's aim and animations for 4 seconds. Migraines will periodically manifest a %%at**Thousand Eyes**++% within itself and in fissures it created along the ground, slowing down while growing their numbers over three seconds before all eyes sequentially aim and fire a beam at Avnlyla if in line of sight, dealing 10 light damage.
 
-Migraines deal 20 light contact damage. Migraines may stop moving to %%at
+Migraines deal 20 light contact damage. Migraines may slow for just a bit to ready an %%at**Overrun**++%. They will rapidly stampede forward, becoming immune to snares while homing in on Avnlyla, ceasing after 4 seconds. In this state, it can even leap should Avnlyla try and stay above it. Contact will deal 30 normal damage plus its usual contact damage, and apply a slowing heavy snare. If out of Avnlyla's field of view for too long, it can %%pa**Shift Away**++%, dissapearing before rematerializing *anywhere* in the arena and refreshing any cooldowns. It creates a oozing blast upon manifesting which deals 20% of Avnlyla's current health as normal damage, and will often try and form right beneath Avnlyla. 
+
+Similar to Phosphenes, Migraines possess **Viral Stability** in all attacks except **Thousand Eyes**, and apply it on contact.
+
+%-se\[-\] **Visuals & Lore**
+
+Migraines are massive with barely a coherent form, but are generally wide. They are visually identical to Phosphenes, and are pitch black, only a silhouette against whatever corner they lurk in. They send out root like tendrils and pour out dark liquid that grows into fissures in the arena, and it too is pitch black.
+
+When approached, they rapidly grow to their massive size and become stained with colors and lighting, far more than any Phosphenes, which constantly shifts and strobes and pulses. They also reveal more features, including rapidly growing many rows of constrastingly white teeth and occasionally bright red eyes, and amass at least a dozen legs before they begin their chaotic running.
+
+When damaged, the pitch black can temporarily gain a grey, fleshy appearance, and remove colors from the surrounding darkness. When **Shifting Away**, they seem to dissolve into amorphous liquid.
+
+%-se\[-\] **Extras & Tips**
+
+**Thousand Eyes** will also manifest within any Phosphenes in the arena. Migraines also consume Phosphenes on contact, gaining 300 health each.
+
+Migraines greatly punish backtracking and loitering, and are not an enemy Avnlyla can hold ground against. Constantly moving will minimize damage. It can potentially be too fast for her to run away from, however strafing and dashing can force it to deaccelerate in order to turn.
+
+%-se\[-\] **Death Messages**
+
+Killed by Overrun: *Avnlyla was trampled.*
+
+Killed elsewise: *Pure terror.*
 
 %-se\[-\] **Compendium Entry**
 
@@ -223,7 +257,7 @@ Migraines deal 20 light contact damage. Migraines may stop moving to %%at
 
 %-st**Weight** : Normal
 
-%-st**Health** : 2000
+%-st**Health** : 2500
 
 %-fdWall Arts are pitiful vessels, absorbing the pain around them. You should make sure they suffer.
 
@@ -231,11 +265,11 @@ Migraines deal 20 light contact damage. Migraines may stop moving to %%at
 
 Wall Art will attempt to follow the largest health enemy in the arena. If that enemy dies, it will seek a new companion.
 
-Dependent on %%pa**Empathy**++%, it will drain pain from a target enemy. 33% of damage dealt to the target enemy is prevented and stored, up to 180 + 10% of the tethered enemy's max health. When the target enemy begins to release light, **Empathy**'s limit has been reached, and %%at**Throes**++% emanates red static pain around Empathy's target. While **Throes** is active, it will slowly drain **Empathy**'s stored damage at a rate of 60 DPS to create a large AoE of normal damage that expands until it runs out. During **Throes**, **Empathy**'s damage absorption is disabled entirely, and **Empathy**'s target experiences 20% higher animation speed. **Throes** is also released by Wall Art when it dies, lasting on its corpse for 6 seconds.
+Dependent on %%pa**Empathy**++%, it will drain pain from a target enemy. 33% of damage dealt to the target enemy is prevented and stored, up to 180 + 10% of the tethered enemy's max health. When the target enemy begins to release light, **Empathy**'s limit has been reached, and %%at**Throes**++% emanates red static pain around Empathy's target. While **Throes** is active, it will slowly drain **Empathy**'s stored damage at a rate of 50 DPS to create a large AoE of normal damage that expands until it runs out. During **Throes**, **Empathy**'s damage absorption is disabled entirely, and **Empathy**'s target experiences 20% higher animation speed. **Throes** is also released by Wall Art when it dies, lasting on its corpse for 6 seconds.
 
 While not under **Throes**, Wall Art may painfully %%at**Wail**++%, releasing a staticky shockwave that expands across the arena, dealing normal damage based on Avnlyla's current health equal to Wall Art's percentage of missing health.
 
-Wall Art suffers in the form of %%pa**Atrophy**++%, causing it to take all damage over time. **Atrophy** bleeds out Wall Art at a maximum rate of 6.66% of max health per second, as such a Wall Art will always take at least 15 seconds to kill. **Atrophy** will spread to Avnlyla if she gets close, causing her to take a proportional amount of damage for the duration she spends near, plus two seconds lingering.
+Wall Art suffers in the form of %%pa**Atrophy**++%, causing it to take all damage over time. **Atrophy** bleeds out Wall Art at a maximum rate of 6.66% of max health per second, as such a Wall Art will always take at least 15 seconds to kill, however **Atrophy** will cleanse all damage after 5 seconds of nonstop bleeding. **Atrophy** will spread to Avnlyla if she gets close, causing her to take a proportional amount of damage for the duration she spends near, plus two seconds lingering.
 
 Wall Art will experience %%pa**Mania**++% if it exists without pain due to the stimulation of violence. Every second it is not bleeding, it gives +2% damage and movement speed to itself and the target of **Empathy**, maxing out at 30%.
 
@@ -247,9 +281,11 @@ Wall Art are pastel blue, lowly detailed slender humanoids, with a bull-like hea
 
 As a Wall Art loses health, it gains bright pink horizontally oriented cuts on it's body via **Atrophy**. It will also move and behave more erratically and distressed as it loses health. It will stumble on its poor limbs, trying different ways to walk, and often picking at itself while trying to keep up with the target. At 10% health, the cuts clutter most of its body. These cuts release light red arcing energy, akin to static, a presence that also surrounds **Throes** and **Wail**. As it dies, the cuts on its body will expand about an inch as it falls to the ground, releasing blood and static. If it dies while manic, a Joyous will burst out its wings and crawl out of its back, leaving the Wall Art behind like a suit.
 
-%-se\[-\] **Extras**
+%-se\[-\] **Extras & Tips**
 
 A Wall Art will never enrage when %%db**Lulled**++% by a Cherry, however it is relevant to note that **Atrophy** takes all damage as true damage, unaffected by any resistences.
+
+Wall Art is a threat if not played around, rushing in with damage requires more careful decision making regarding it and the enemy it is attatched to. Make sure it takes damage frequently, and keep distance if it or Avnlyla is low; Wail and Atrophy can cause sudden deaths.
 
 %-se\[-\] **Death Messages**
 
@@ -310,19 +346,9 @@ Joyous will enrage if Avnlyla is above ten stacks of **???**, instantly entering
 
 %-se\[-\] **Visuals & Lore**
 
-Joyous is a monsterous humanoid composed of surreal meat, in a way similar to produce. It can can easily sprint quadrupedally despite humanoid legs. It otherwise stands on its legs to enable its attacks. It has standout wings of well marbled meat, similar in shape to a butterfly's. From the top of the wings, meaty tendons hold two external hearts which hang from the wings on each side, connected by veins to the an opening near shoulder blades. It has nothing resembling hair, but has 2 ears of cured meat similar to that of a Labrador. Its left eye is dark with reds and greens, while its other eye is completely missing, with a large slash helping to reveal the brain visible in its eye socket. It has a large mouth, however the meaty skin cover's most of it while its closed, giving an otherwise "normal" head shape, albeit  canid. Joyous is slim, and its torso has notable intermuscular fat patterns with notable ribs. Its arms and legs have very distinct and separate lean muscles, lacking most of the fascia, skin, and fat that would hide a skinned body's movements, although their joints are still connected and covered. Their hands are very sharp, with light fleshy palms, and large clawed feet. The area between the hip and abdomen has a cut from hip to hip creating an opening, leaking blood and revealing pristine organs. It is kind of cute but in an unexplainable way.
+Joyous is a monsterous humanoid composed of surreal meat, in a way similar to produce. It can can easily sprint quadrupedally despite humanoid legs. It otherwise stands on its legs to enable its attacks. It has standout wings of well marbled meat, similar in shape to a butterfly's. From the top of the wings, meaty tendons hold two external hearts which hang from the wings on each side, connected by veins to the an opening near shoulder blades. It has nothing resembling hair, but has 2 ears of cured meat similar to that of a Labrador. Its left eye is dark with reds and greens, while its other eye is completely missing, with a large slash helping to reveal the brain visible in its eye socket. It has a large mouth, however the meaty skin cover's most of it while its closed, giving an otherwise "normal" head shape, albeit canid and almost avain in proportions and shapes. Joyous is slim, and its torso has notable intermuscular fat patterns with notable ribs. Its arms and legs have very distinct and separate lean muscles, lacking most of the fascia, skin, and fat that would hide a skinned body's movements, although their joints are still connected and covered. Their hands are very sharp, with light fleshy palms, and large clawed feet. The area between the hip and abdomen has a cut from hip to hip creating an opening, leaking blood and revealing pristine organs. It is kind of cute but in an unexplainable way.
 
-Joyous are inspired by the niche internet aesthetic "meatcore", but overall represent violence, pain, and pleasure, especially in contrast to Wall Art. We treat violence as something abnormal, however we have built our civilization on meat. Such is used for pleasure by almost everyone, and livestock is important industry.
-
-%-se\[-\] **Death Messages**
-
-Killed at 5 or less **???**: *The hunter has become the hunted.*
-
-Killed above 5 **???**: *Licked off the bone!*
-
-Killed by Spine Throttle: *Her neck was crushed in its maw.*
-
-%-se\[-\] **Extras**
+Joyous are inspired by the niche internet aesthetic "meatcore", but overall represent violence, pain, and pleasure, especially in contrast to Wall Art. We treat such pain and gore as thing abnormal, however we have built our civilization on meat. Such is used for pleasure by almost everyone, and livestock is important industry.
 
 The **???** debuff randomly cycles between words in different languages for similar words for "the smell of meat", of which there is no English word for. Often times, the words chosen from these languages are more specific variants.
 
@@ -335,6 +361,18 @@ Tagalog: **Malansá** - Smell of raw meat/fish
 Mandarin: **Xuèxīng** - Smell of gore
 
 Jahai: **Plʔεŋ** - Smell of meat that attracts tigers
+
+%-se\[-\] **Extras & Tips**
+
+Joyous is a priority threat, capable of snowballing while posessing the sustain to do so. It should not be met with split attention, as it will take advantage of this.
+
+%-se\[-\] **Death Messages**
+
+Killed at 5 or less **???**: *The hunter has become the hunted.*
+
+Killed above 5 **???**: *Licked off the bone!*
+
+Killed by Spine Throttle: *Her neck was crushed.*
 
 %-se\[-\] **Compendium Entry - %%enCarnal++%**
 > Wake to adrenaline\
@@ -403,11 +441,11 @@ For basic attacks, it can %%at**Rip**++% as its melee for 40 normal damage with 
 
 Baers will also deploy obstacles. On spawn, they will immediately use %%at**Capture**++%, pulling a beartrap out of a gash in its belly, and throwing it nearby(or directly towards Avnlyla if she's nearby). Beartraps are destructible objects that will deal 50 normal damage on contact and apply a heavy snare which disables jumping and gives a decent slow. **Capture** is on a 10 second cooldown. A maximum of 2 times, %%at**Tangle**++% is sparsely used. Baers will drag a spool of razorwire out of their belly, unraveling out the last length with blood and cotton. The spool will be thrown onto the arena, exploding outwards into a line that slows and deals 20 light DPS on contact.
 
-Baers are full of %%at**Sharp Objects**++%, and deal 20 light contact damage as a result. Furthermore, every 15% health lost, a Splinter will crawl out of them. Splinters are razor-covered metal spiders that rapidly crawl and jump after Avnlyla to deal 30 light contact damage, and have 40 health.
+Baers are full of %%at**Sharp Objects**++%, and deal 20 light contact damage as a result. Furthermore, every 15% health lost, a Splinter will crawl out of them. Splinters are razor-covered metal spiders that rapidly crawl and jump after Avnlyla to deal 20 light contact damage, and have 40 health.
 
-Baer is a %%pa**Motherly**++% figure, and will temporarily enrage whenever any enemy smaller than it  is killed, causing it to use abilities more often. It can also %%pa**Patch**++% to save any enemy being damaged too fast, with lower tolerance for low health enemies, sending out string from its left paw to grip any non-superheavy weighted enemy to rapidly pull it close. Any enemy saved will be put behind Baer, be healed for 40% missing health health, cleansed, and gain the %%db**Imprinted**++% buff. Imprinted enemies gain a second point of interest centered on Baer, causing them to always stay closer. If an Imprinted enemy is killed, Baer will unlock %%at**Sew**++% to punish Avnlyla. With its left paw, Baer will occasionally attempt to fire stringed needles into Avnlyla's body to leash her reel her close, gripping the string to prevent her from leaving the area. This heavy snare is special, as each dash to escape it will deal 20 light damage and apply the %%db**Hemorrhaging**++% debuff to Avnlyla, adding +5 light damage to any damage taken for 10 seconds. It is inescapable otherwise.
+Baer is a %%pa**Motherly**++% figure, and will temporarily enrage whenever any enemy smaller than it is killed, causing it to use abilities more often. It can also %%pa**Patch**++% to save any enemy being damaged too fast, with lower tolerance for low health enemies, sending out string from its left paw to grip any non-superheavy weighted enemy to rapidly pull it close. Any enemy saved will be put behind Baer, be healed for 40% missing health, cleansed, and gain the %%db**Imprinted**++% buff. Imprinted enemies gain a second point of interest centered on Baer, causing them to always stay closer. If an Imprinted enemy is killed, Baer will unlock %%at**Sew**++% to punish Avnlyla. With its left paw, Baer will occasionally attempt to fire stringed needles into Avnlyla's body to leash her reel her close, gripping the string to prevent her from leaving the area. This heavy snare is special, as each dash to escape it will deal 20 light damage and apply the %%db**Hemorrhaging**++% debuff to Avnlyla, adding +5 light damage to any damage taken for 10 seconds. It is inescapable otherwise.
 
-On death, it will %%pa**Traumatize**++% enemies around it, revealing the strange amount of gore and metal inside of it. This will cause any enemies around it to lose 10% health and activate any enrages they have. If the enemy can not enrage, it will heal 30% of their health back over the course of 20 seconds.
+On death, it will %%pa**Traumatize**++% enemies around it, revealing the strange amount of gore and metal inside of it. This will cause any enemies around it to lose 10% max health and activate any enrages they have. If the enemy can not enrage, it will heal 30% of their health back over the course of 20 seconds.
 
 %-se\[-\] **Visuals & Lore**
 
@@ -415,19 +453,21 @@ Baer, as the name implies, is at least a bit like a bear. They are greatly tall 
 
 Baers are named after bears, teddy bears, but also a pun on Buer, a demon from Pseudomonarchia Daemonum, who brings healing and familiars. They are thematically about attachment, and a juxtaposition between a comfort item such as a plushie, and less comfortable objects such as blades and needle syringes. They also carry "parental" themes, which also ties back into bears.
 
-%-se\[-\] **Death Messages**
-
-If a death occurs when Sew is active: *Avnlyla was kept close.*
-
-All other deaths by Baer: *Unfortunately, she can not be sewn back together.*
-
-%-se\[-\] **Extras**
+%-se\[-\] **Extras & Tips**
 
 Wall Arts that imprint will never be considered neglected as long as their Baer is alive and they will choose to always follow said Baer. However, a traumatized Wall Art will always glow no matter what, and thus should probably be killed first.
 
 A cherry that imprints will be cleansed of distress and siphoned health.
 
 Phosphenes, &nbsp;pits, and Joyous will never imprint, and Baer will not care if they die.
+
+Baer's goal is to take up space, and should be met with an opportunistic approach. It is important to keep in mind any enrage effects that can happen when Baer dies.
+
+%-se\[-\] **Death Messages**
+
+If a death occurs when Sew is active: *Avnlyla was kept close.*
+
+All other deaths by Baer: *Unfortunately, she can not be sewn back together.*
 
 %-se\[-\] **Compendium Entry**
 
@@ -451,13 +491,13 @@ Mauled by Concrete will only enter the arena when Avnlyla has killed over half t
 
 Mauled by Concrete exists %%pa**Possessed in Fight**++%, consisting of two entities, Brutalized and its possessor Blood Sport. Blood Sport can not take damage, but can not live without Brutalized. Blood Sport can exit Brutalized at any time in order to assist it in combat, and is able to walk mid-air and phase through geometry. Breaking impacts will forcibly eject Blood Sport from its vessel for 5 seconds.
 
-Mauled by Concrete will attempt to stance itself. Brutalized can omnidirectionally dash to avoid attacks, and may sometimes dash into a %%at**High Swing**++% at Avnlyla, dealing 30 normal damage. At range it will throw the axe like a boomerang in a %%at**Spinning Strike**++%, dealing 30 normal on both send and return; Or if she is trying to stay too close, Mauled by Concrete will start a %%at**Breaking Uppercut**++%, spinning and reversing the axe before swinging upwards at Avnlyla's head, dealing 30 normal damage and applying a small stun with heavy knockback. 
+Mauled by Concrete will attempt to stance itself. Brutalized can omnidirectionally dash to avoid attacks, and may sometimes dash into a %%at**Wide Swing**++% at Avnlyla, dealing 30 normal damage. At range it will throw the axe like a boomerang in a %%at**Spinning Strike**++%, dealing 30 normal on both send and return; Or if she is trying to stay too close, Mauled by Concrete will start a %%at**Breaking Uppercut**++%, spinning and reversing the axe before swinging upwards at Avnlyla's head, dealing 30 normal damage and applying a small stun with heavy knockback. 
 
-When one, Mauled by Concrete can also %%pa**Spite Parry**++% attacks, blocking all damage with its axe in a defensive stance, causing it to move slowly and face Avnlyla but become immune to snares. **Spite Parry's** defensive stance allows the axe to act as a barrier with 700 + 20% of Mauled by Concrete's max health. The barrier regenerates with *any* damage Avnlyla takes. If Avnlyla deals over 15% of the barrier's health in less than a second, it will immediately counter with %%at**Frenzied Cleaves**++%. It will gain movespeed and immunity to snares, while rapidly closing distance and consecutively casting out three differently angled electric slashes into the air, each dealing 30 normal damage. After which, Blood Sport will always leave the body. Blood Sport will detect any channeled actions or actions with significant cast times. If it is recognized as dangerous and in Avnlyla's FoV, it will immediately return to Brutalized to attempt to **Spite Parry** in time.
+When one, Mauled by Concrete can also %%pa**Spite Parry**++% attacks, blocking all damage with its axe in a defensive stance, causing it to move slowly and face Avnlyla but become immune to snares. **Spite Parry's** defensive stance allows the axe to act as a barrier with 700 + 20% of Mauled by Concrete's max health. The barrier regenerates with *any* damage Avnlyla takes. If Avnlyla deals over 15% of the barrier's health in less than a second, it will immediately counter with %%at**Frenzied Cleaves**++%. It will gain movespeed and immunity to snares, while rapidly closing distance and consecutively casting out three differently angled electric slashes into the air, each dealing 30 normal damage. After which, Blood Sport will always leave the body. Blood Sport will detect any channeled actions or actions with significant cast times. If it is recognized as dangerous and aimed upon, it will immediately return to Brutalized to attempt to **Spite Parry** in time.
 
-Outside of Brutalized, Blood Sport can also at range cast %%at**Shocking Rays**++% from its hands, making a large sweeping beam that deals 30 normal damage. Other times, it can %%at**Thrill Strike**++% Avnlyla, attempting to dash at her before entering an exploding punch that deals 30 normal damage as an AoE that grounds and applies a jump-disabling light snare.
+Outside of Brutalized, Blood Sport can also at range cast %%at**Shocking Rays**++% from its hands, making a large sweeping beam that deals 30 normal damage. Other times, it can %%at**Thrill Strike**++% Avnlyla, attempting to dash at her before entering an exploding punch that deals 30 normal damage as a large AoE that grounds and applies a jump-disabling light snare.
 
-Blood Sport wants to %%at**Double Down**++% on attacks, repeating Brutalized's damage with its own attack. After a **Heavy Swing**, Blood Sport manifests the axe to them before rapidly dashing at Avnlyla to swing at her. It can catch the **Spinning Strike** at its peak and redirect it with greater speed at Avnlyla. It will follow up on **Breaking Uppercut**, teleporting to where Avnlyla will land when the stun ends to attempt to kick her back in.
+Blood Sport wants to %%at**Double Down**++% on attacks, repeating Brutalized's damage with its own attack. After a **Wide Swing**, Blood Sport manifests the axe to them before rapidly dashing at Avnlyla to swing at her. It can catch the **Spinning Strike** at its peak and redirect it with greater speed at Avnlyla. It will follow up on **Breaking Uppercut**, teleporting to where Avnlyla will land when the stun ends to attempt to kick her back in.
 
 When the opportunity presents itself, Mauled by Concrete will attempt a %%at**Trophy Kill**++%. If Avnlyla takes three hits from it in four seconds, or a hit while under 30% health, Mauled by Concrete will enter a silenced state where Blood Sport returns to Brutalized and it regenerates 4% health per second, slowly moving while brandishing and readying the axe, which will last upwards of 5 seconds. At any time during this, it will suddenly teleport to Avnlyla before tracking and swinging to decapitate her, dealing 70 heavy damage. If Mauled by Concrete is ever below 10% health during this, it will not wait, and will instead attempt its killing blow as soon as possible with a more telegraphed teleport.
 
@@ -469,7 +509,11 @@ Brutalized is a slim humanoid made of rough concrete. It has ball joints, of whi
 
 Blood Sport is a rapidly shifting humanoid made of arcing electricity that bias vertically, an energy that surrounds **Double Down** and **Spite Parry**. All of Mauled by Concrete's attacks have distorted electric and thunderous sounds. When **Throphy Kill** is channeled, this manifests as blaring guitar-like humming while it is surrounded by electricity.
 
-Mauled by Concrete is inspired by early 2000s grunge and metal aesthetics. It is a combat doll formed via a... "mutualistic" relationship.
+Mauled by Concrete is inspired by early 2000s metal aesthetics. It is a combat doll formed via a... "mutualistic" relationship.
+
+%-se\[-\] **Extras & Tips**
+
+Mauled by Concrete requires quick reactions and decision making. Dashing away for Wide Swings, to the side for Breaking Uppercut, and using vertical movement for Spiinning Strike. Using AoE or homing attacks can help with it attempting to dodge. When Blood Sport is active, more attention should be given as attempting to simply kite is not worth the risk. Thrill Strike is best dodged via quicker movement abilities or dashing twice, as a lesser reaction time will not allow a single dash to be enough. Spite Parry can be fooled in order to land a heavier cast time ability by aiming or otherwise casting looking elsewhere and flicking at the last moment, as Blood Sport has both reaction and travel time in order to prevent damage. It is wise to try and save any stuns or falters to prevent a combo from building, as it does not stay still enough to shoot its attacks as easily. If Mauled by Concrete is attempting a Trophy Kill, all focus should be given in order to dash on cue.
 
 %-se\[-\] **Death Messages**
 
@@ -497,7 +541,7 @@ Killed by Trophy Kill: *Victory claimed as her body falls!*
 
 %-se\[-\] **Abilities**
 
-Saponificare wander around the action, and each of it's heads will choose one of threes attack every 4 seconds.
+Saponificare wander around the action, and each of it's heads will choose one of three attacks every 4 seconds.
 
 It may %%at**Rinse**++% for 2 seconds, spraying a ranged beam of water that applies a stacking 1 light DoT every third-second exposed. Any amount of this debuff causes Avnlyla to heal all enemies around her for 5x the damage she takes, and lasts 5 seconds
 
@@ -522,6 +566,10 @@ It will occasionally begin %%pa**Cleaning**++%, lowering its body to the ground 
 Saponificare is a large giraffe like creature made of plastic and metal, entirely in vibrant, often primary, colors. It posesses three heads like a hydra, which are flexible and long extending far from the body. Each head is a colorful angular maw, featuring no teeth or tongue, nor does the head have any features other than being a maw in a sense similar to a snake. They do however emit color light from the back of the "throat", and are capable of releasing its attacks. The necks are ribbed flexible plastic tubing, each a color, which lead to a irridescent part of the torso where the "shoulders" would be, increasing in size similar to a giraffe, with metal parts providing stability. The torso is composed of segmented plastic plating in a facsimile of patterned fur. The upper visible torsod down to the underbelly is translucent plastic, revealing it is filled with glittering liquid. Short rainbow fur accents some areas where joints are, aswell as along the back, leading into a short scut tail similar to a deer. It walks on articulated and telescopic decorated legs, akin to that of a robotic quadruped, which allows it to tower above the ground; The height of the legs and neck are 6x that of the torso.
 
 Saponificare is based on cleancore and kidcore.
+
+%-se\[-\] **Extras & Tips**
+
+Saponificare can turn the entire arena into a bullet hell, and punishing mindless running. It attacks every four seconds, which should be played around. It is vulnurable when cleaning as it no longer moves, and staying in the air makes most patterns easier to deal with.
 
 %-se\[-\] **Death Messages**
 
@@ -551,9 +599,9 @@ CH2O are %%pa**Sadistic**++%, and gain +10% more damage for every debuff Avnlyla
 
 When spaced away from Avnlyla, it may %%at**Serrate**++%, dashing to the either side of her and cutting a horizontal slash in her direction, dealing 50 normal damage. If Avnlyla is in the air, it will instead warp to her and %%at**Cleave**++%, making a vertical spike that grounds and deals 40 normal damage. If it has been out of view for more than 8 seconds, including due to **Fading**, it may with only the least generous cues %%at**Backstab**++%, slicing past her to deal 30 light damage, entering another attack or **Fading** just a second after. 
 
-If Avnlyla has more than 3 buffs, CH2O will occasionally attempt to %%at**Contemn**++% her with a dark pink slash. This will apply a special debuff that removes a buff Avnlyla has every second, each time healing CH2O for 5% of its max health, while removing 10% of Avnlyla's current health, which lasts 7 seconds. All of its cutting attacks cause %%db**Veinspasm**++%, removing a stamina charge for 5 seconds and causing any damage taken to cause a 7 normal DPS DoT effect for 5 seconds.
+If Avnlyla has more than 3 buffs, CH2O will occasionally attempt to %%at**Contemn**++% her with a dark pink slash. This will apply a special debuff that removes a buff Avnlyla has every second, each time healing CH2O for 5% of its max health, while removing 10% of Avnlyla's current health, which lasts 7 seconds. All of its cutting attacks cause %%db**Veinspasm**++%, removing a stamina charge for 5 seconds and causing any damage taken to cause a 7 normal DPS DoT effect for 3 seconds.
 
-Very rarely, a chance that increases as Avnlyla kills enemies, CH2O will crawl out of its pocket dimension, bringing with it sludge that leaks out to the floor and applies %%db**Viral Stability**++%(see Phosphenes/Migraines). It will quickly throw a red light into the air before immediately leaving the arena. This will bloom into %%at**Vice in Vanitas**++%, a hypnotic symbol that floats in the air. Looking at **Vice in Vanitas** will expose you to its desire, and if it has been visible in *any* way for more than 3 seconds total since spawning in Avnlyla will will be considered fully exposed. Afterwards, **Vice in Vanitas** will apply one stack of the debuff %%db**Death Wish**++%. A stack is gained whenever it is observed, with a half second of immunity. **Death Wish** builds up over course of 15 seconds to consume one stack, which deals 30 heavy damage + 5% of Avnlyla's missing health as damage. This affect causes time to slow down before rapidly speeding up, then going back down to normal over the course of 3 seconds. This will continue to happen every 20 seconds until all **Death Wish** stacks have been used, however in practice it will happen every 15 seconds due to the gamespeed.
+Very rarely, a chance that increases as Avnlyla kills enemies, CH2O will crawl out of its pocket dimension, bringing with it sludge that leaks out to the floor and applies %%db**Viral Stability**++%(see Phosphenes/Migraines). It will quickly throw a red light into the air before immediately leaving the arena. This will bloom into %%at**Vice in Vanitas**++%, a hypnotic symbol that floats in the air. Looking at **Vice in Vanitas** will expose you to its desire, and if it has been visible in *any* way for more than 2 seconds total since spawning in Avnlyla will be considered fully exposed. Afterwards, **Vice in Vanitas** will apply one stack of the debuff %%db**Death Wish**++%. A stack is gained whenever it is observed, with a half second of immunity between stacks. **Death Wish** builds up over course of 15 seconds to consume one stack, which deals 30 heavy damage + 5% of Avnlyla's missing health as damage. This effect causes time to slow down before rapidly speeding up, then going back down to normal over the course of 3 seconds. This will continue to happen every 20 seconds until all **Death Wish** stacks have been used, however in practice it will happen every 15 seconds due to the gamespeed. FIX THIS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 %-se\[-\] **Visuals & Lore**
 
@@ -562,6 +610,10 @@ CH2O is a slender, ghostly humanoid apparition composed of deep messes of reds a
 When creating **Vice in Vanitas**, it will fade in with a large amount of void sludge, seemingly the same rapture byproduct that makes Phosphenes. Vice in Vanitas itself is seemingly a hypnotic, corrupting hallucination or object that floats in the air, cracking and bleeding into the sightlines and skybox around it. It is is not depicting flowers. Exposure to Death Fantasy causes the world to seem blurry and hall of mirrors, and time to pulsate. The blurriness also comes in the 5 seconds leading up to Death Wish consuming itself. A stack of Death Wish being gained turns the skybox solid red for a split second.
 
 CH2O's are like servants to Caroline, and are likely intended apparitions from her dominion over the noosphere. When not sleeping or acting out Caroline's will, they seem to enjoy suffering and death in the things around them. Vice in Vanitas is these desires turned into a visual form imposed upon reality. The word vanitas refers to art that depicts the transience of life and the futility of pleasure outside of faith, vice here implies a corruption of this.
+
+%-se\[-\] **Extras & Tips**
+
+While none of CH2O's attacks have difficult cast times, it is entirely unpredictable and omnipresent, often appearing at the worst times to deal massive damage. Paying attention and preserving health can prevent Avnlyla's death. Vice in Vanitas can not be shrugged off, and effort should be taken to avoid it. Playing under it can allow you to look everywhere as long as you don't look up, otherwise playing in sheltered areas is safest. Death Wish can be cleansed.
 
 %-se\[-\] **Death Messages**
 
