@@ -397,32 +397,6 @@ Killed by Spine Throttle: *Her neck was crushed.*
 
 %-sr
 
-## Chromatic Aberration&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-%-st**Tier** : Greater
-
-%-st**Weight** : Normal
-
-%-st**Health** : 3000
-
-%-fdChromatic Aberrations are non-euclidian animals that seek and feed on sensory experience, using their spacial magic and unique umwelts to be predatory parasites.
-
-%-se\[-\] **Abilities**
-
-Chromatic Aberration rapidly crawls around the arena, prefering to usually never have its body in complete line of sight by staying and moving behind enemies or structures relative to Avnlyla.
-
-Chromatic Aberration can give Avnlyla %%pa**Proxy Gamuts**++%, afflicting her with dangerous extrasensory perceptions. It can slip its geometry into the subject of any **Proxy Gamut** being sensed, and then manipulate those subjects.
-
-%%db**Extromission**++% warps Avnlyla's visual umwelt for ten seconds. The *crosshair itself can now take damage*. A radius around the crosshair gains negative colors, and will be "hit" with any attack it covers if it is not too far away, such as mousing over a enemy projectile or looking at the hitbox of a melee attack, damaging Avnlyla for 75% of that damage as light damage and otherwise triggering any effects that would occur if the attack landed on her body, such as a projectile dissipating. This applies to enemies with contact damage. If Avnlyla is experiencing the **Extramission Gamut**, Chromatic Aberration can hide its body into thin air behind projectiles in her FoV and freeze those projectiles in place, before slowly moving them in a direction around her. It will briefly do this before exiting the projectiles and allowing the projectiles to move in the vector they were before.
-
-%%db**Retrosense**++% instills the exact sense of past actions, creating afterimages. When under the **Retrosense Gamut**, Chromatic Abberation will *always* slip into the line of Avnyla's past locations, gaining 50% damage resistance and rapid movement, albeit one-dimensional along the line. The line deals 20 light contact damage. Special afterimages exist along this line, which Chromatic Abberation can select and activate to cause them to aim and use whatever action was recorded after a brief delay, aiming it at present Avnlyla. Dashing into the afterimage while it is being cast will instead immediately use that action as present Avnlyla; Her past actions will be taken regardless of if Avnlyla has the resources to do so, and no actions besides movement and aiming can be taken until the past action was fulfilled.
-
-%-se\[-\] **Compendium Entry**
-
-> %-pePending...
-
-%-sr
-
 ## Baer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 %-st**Tier** : Supreme
@@ -513,7 +487,7 @@ Mauled by Concrete is inspired by early 2000s metal aesthetics. It is a combat d
 
 %-se\[-\] **Extras & Tips**
 
-Mauled by Concrete requires quick reactions and decision making. Dashing away for Wide Swings, to the side for Breaking Uppercut, and using vertical movement for Spiinning Strike. Using AoE or homing attacks can help with it attempting to dodge. When Blood Sport is active, more attention should be given as attempting to simply kite is not worth the risk. Thrill Strike is best dodged via quicker movement abilities or dashing twice, as a lesser reaction time will not allow a single dash to be enough. Spite Parry can be fooled in order to land a heavier cast time ability by aiming or otherwise casting looking elsewhere and flicking at the last moment, as Blood Sport has both reaction and travel time in order to prevent damage. It is wise to try and save any stuns or falters to prevent a combo from building, as it does not stay still enough to shoot its attacks as easily. If Mauled by Concrete is attempting a Trophy Kill, all focus should be given in order to dash on cue.
+Mauled by Concrete requires quick reactions and decision making. Dashing away for Wide Swings, to the side for Breaking Uppercut, and using vertical movement for Spinning Strike. Using AoE or homing attacks can help with it attempting to dodge. When Blood Sport is active, more attention should be given as attempting to simply kite is not worth the risk. Thrill Strike is best dodged via quicker movement abilities or dashing twice, as without immediate reaction the explosion will not be escaped. Spite Parry can be fooled in order to land a heavier cast time ability by aiming or otherwise looking elsewhere and flicking at the last moment, as Blood Sport has both reaction and travel time in order to prevent damage. It is wise to try and save any stuns or falters to prevent a combo from building, as it does not stay still enough to shoot and break its attacks easily. If Mauled by Concrete is attempting a Trophy Kill, all focus should be given in order to dash on cue.
 
 %-se\[-\] **Death Messages**
 
@@ -563,7 +537,7 @@ It will occasionally begin %%pa**Cleaning**++%, lowering its body to the ground 
 
 %-se\[-\] **Visuals & Lore**
 
-Saponificare is a large giraffe like creature made of plastic and metal, entirely in vibrant, often primary, colors. It posesses three heads like a hydra, which are flexible and long extending far from the body. Each head is a colorful angular maw, featuring no teeth or tongue, nor does the head have any features other than being a maw in a sense similar to a snake. They do however emit color light from the back of the "throat", and are capable of releasing its attacks. The necks are ribbed flexible plastic tubing, each a color, which lead to a irridescent part of the torso where the "shoulders" would be, increasing in size similar to a giraffe, with metal parts providing stability. The torso is composed of segmented plastic plating in a facsimile of patterned fur. The upper visible torsod down to the underbelly is translucent plastic, revealing it is filled with glittering liquid. Short rainbow fur accents some areas where joints are, aswell as along the back, leading into a short scut tail similar to a deer. It walks on articulated and telescopic decorated legs, akin to that of a robotic quadruped, which allows it to tower above the ground; The height of the legs and neck are 6x that of the torso.
+Saponificare is a large, giraffe-like creature made of plastic and metal, entirely in vibrant, usually primary, colors. It posesses three heads like a hydra, which are flexible and long extending far from the body. Each head is a colorful angular maw, featuring no teeth or tongue, nor does the head have any features other than being a maw in a sense similar to a snake. They do however emit color light from the back of the "throat", and are capable of releasing its attacks. The necks are ribbed flexible plastic tubing, each a color, which lead to a irridescent part of the torso where the "shoulders" would be, increasing in size similar to a giraffe, with metal parts providing stability. The torso is composed of segmented plastic plating in a facsimile of patterned fur. The upper visible torso down to the underbelly is translucent plastic, revealing it is filled with glittering liquid. Short rainbow fur accents some areas where joints are, aswell as along the back, leading into a short scut tail similar to a deer. It walks on articulated and telescopic decorated legs, akin to that of a robotic quadruped, which allows it to tower above the ground; The height of the fully extended legs and neck combined are 6x that of the torso.
 
 Saponificare is based on cleancore and kidcore.
 
@@ -583,11 +557,11 @@ Any death: All clean!
 
 ## CH2O&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-%-st**Tier** : Supreme
+%-st**Tier** : Greater
 
 %-st**Weight** : None
 
-%-st**Health** : 2000
+%-st**Health** : 1500
 
 %-fdCH2Os are sadistic apparitions that relish in mischief and suffering. They are few in numbers and exceedingly loyal to Caroline, but are sometimes enabled to do as they please.
 
@@ -631,13 +605,13 @@ Killed by Death Wish:
 
 ## 89&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-%-st**Tier** : Greater
+%-st**Tier** : Supreme
 
 %-st**Weight** : Superheavy
 
 %-st**Health** : 5000
 
-INCOMPLETE INCOMPLETE
+%-fdaaaa
 
 %-se\[-\] **Compendium Entry**
 
