@@ -43,7 +43,7 @@ A Cherry will instantly die if it reaches 600 bonus max health or 6 stacks of di
 
 Every resurrection past the first will have less and less health(50%, 33%, 25%, etc).
 
-The faster Avnlyla can kill things, the less an issue Cherries will become, as this will diminish both Inhibition and Shadow's distress stacks from building. Cherries are more vulnurable to knockback due to their movement, which can be used to get them off an enemy
+The faster Avnlyla can kill things, the less an issue Cherries will become, as this will diminish both Inhibition and Shadow's distress stacks from building. Cherries are more vulnurable to knockback due to their movement, which can be used to get them off an enemy. Cherries' Lull will interrupt abilities being cast or channeled, which is important to avoid.
 
 %-se\[-\] **Compendium Entry - %%enAngel Eyes++%**
 
@@ -73,11 +73,11 @@ The faster Avnlyla can kill things, the less an issue Cherries will become, as t
 
 A &nbsp;pit is %%pa**Ignorant**++%, and is unable to take damage as long as it has any status effect. They have an aura around them makes all actors take 20% more damage from all sources, and an additional 20% from debuffs. They are unaffected by debuffs, and any debuffs they have will instead be applied to anything in the aura. &nbsp;pits will gain a stack of %%db**Spur**++% for any actor in their radius, including other &nbsp;pits. Each **Spur** lasts ten seconds, but spurs will not count as a status effect unless they have been near an enemy in the last second.
 
-When a &nbsp;pit moves to an enemy, it will immediately %%at**Stare**++% at Avnlyla, manifesting white projectiles around itself for every **Spur** it has, each dealing 20 normal damage. Once finished, it will cast each projectile consecutively at Avnlyla, teleporting to a new position around the enemy every time it fires.
+When a &nbsp;pit moves to an enemy, it will immediately %%at**Stare**++% at Avnlyla, manifesting white projectiles around itself for every **Spur** it has, each dealing 20 normal damage and phasing through geometry. Once finished, it will cast each projectile consecutively at Avnlyla, teleporting to a new position around the enemy every time it fires.
 
 If two &nbsp;pits meet at the same enemy, they will %%at**Cry**++% for five seconds, arranging themselves next to each other above the enemy while looking at Avnlyla. When **Crying**, any projectile that enters their radius is absorbed and added to a circular ring forming above them. This ring projectile fires at Avnlyla with great speed and weakly homes in on her, passing through geometry and enemies and constantly attempting to fling back at her if it misses. The projectile explodes on impact, dealing normal damage that grows the longer the projectile exists. The minimum damage is 30, and it gains 5 damage for every second it exists. Its lifetime is a diminishing sum of every projectile absorbed, a minimum of 3 seconds, up to a maximum of 10.
 
-If three &nbsp;pits meet, they will %%at**Spasm**++%, moving close together in a triangle as their black tendrils merge. They will then continually move to whatever enemy is closest to Avnlyla. Only when near an enemy do they begin **Spasming**; For every **Spur** they have, one of their tendrils will rapidly grow outwards in great distance to attempt to consecutively slash at whatever is near by, each dealing 8 normal damage and applying a second of nearsight. **Spasming** &nbsp;pits are unkillable due to **Ignorance**, and instead will dissapear into bright light after 10 seconds.
+If three &nbsp;pits meet, they will %%at**Spasm**++%, moving close together in a triangle as their black tendrils merge. They will then continually move to whatever enemy is closest to Avnlyla. Only when near an enemy do they begin **Spasming**; For every **Spur** they have, one of their tendrils will grow outwards in great distance to attempt to consecutively slash at her, rapidly dealing 8 normal damage and applying a second of nearsight. **Spasming** &nbsp;pits are unkillable due to **Ignorance**, and instead will dissapear into bright light after 10 seconds.
 
 If four &nbsp;pits meet, they will metamorphose into a single Cherry. This Cherry is unkillable, and can not gain **distress** nor apply %%db**Inhibition**++%.
 
@@ -93,7 +93,7 @@ Cherry and pit are based on the eye motif in weirdcore.
 
 &nbsp;pits will die if lulled by a Cherry. They will also will die if there are no other enemies, not counting Cherries.
 
-While they come in swarms and can be untargetable, most &nbsp;pits will usually end up dying on their own. They can quickly compound chaos however, and require at least some attention.
+While they come in swarms and can be untargetable, most &nbsp;pits will usually end up dying on their own. However, due to unpredictable movement and their attacks phasing through walls, it is best not to ignore them and instead play in the action to insure awareness of what the &nbsp;pits are doing.
 
 %-se\[-\] **Death Messages**
 
@@ -332,15 +332,15 @@ Killed elsewise: *Distressing.*
 
 %-se\[-\] **Abilities**
 
-Joyous will poke and stalk the player from a distance, acting more aggressive if it is offscreen. All its abilities can be used while it moves with no impact on movespeed.
+Joyous will poke and stalk the player from a distance, acting more aggressive if it is offscreen. All its abilities can be used while it moves with no impact on movespeed, and it is immune to breaks and takes greatly reduced stuns.
 
-Joyous has an intense %%pa**Prey Drive**++% which lets it heal for twice the damage it deals. Every attack it lands refunds a second of its cooldowns and marks Avnlyla with a stacking debuff %%db**NAMAGUSAPLʔΕŊMALANSÁZANKHAXUÈXĪNG (???)**++% which determines its aggression against her, and Avnlyla automatically gains 2 temporary stacks if she is below half health. **(???)** can not be cleansed.
+Joyous has an intense %%pa**Prey Drive**++% which lets it heal for quadruple the damage it deals. Every attack it lands refunds a second of its cooldowns and marks Avnlyla with a stacking debuff %%db**NAMAGUSAPLʔΕŊMALANSÁZANKHAXUÈXĪNG (???)**++% which determines its aggression against her. Avnlyla automatically gains 2 temporary stacks if she is below half health. **(???)** can not be cleansed.
 
-Without any stacks of **???**, it will often %%at**Spit Blood**++% projectiles at Avnlyla for 30 normal damage. If she gets close, it can sprint to kite her and position how it wishes; It may also open the %%at**Ventricle**++% of any of its external hearts to boil out blood and steam with significant reach. The venting lasts for 3 seconds dealing 30 light DPS, but more dangerously easily stains Avnlyla with **???** with only 0.75 seconds of immunity frames. If Avnlyla is ever too far, it can %%at**Gutsling**++% its internals, bending slightly to send out a reeling line of its intestines, dealing 40 normal damage and pulling her a distance towards it.
+Without any stacks of **???**, it will often %%at**Spit Blood**++% projectiles at Avnlyla for 30 normal damage. If she gets close, it can sprint to kite her and position how it wishes; It may also open the %%at**Ventricle**++% of any of its external hearts to boil out blood and steam with significant reach. The venting lasts for 3 seconds dealing 20 light DPS, but more dangerously easily stains Avnlyla with **???** with only 0.75 seconds of immunity frames. If Avnlyla is ever too far, it can %%at**Gutsling**++% its internals, bending slightly to send out a reeling line of its intestines, dealing 40 normal damage and pulling her a distance towards it. It also has 33% damage reduction while below 2 stacks.
 
 With two stacks of **???**, it will start diving Avnlyla, attempting to circle and keep closer and occasionally diving in for close combat. Up close it will %%at**Viscously Tear**++%, attempting multiple 15 normal damage slashes upon Avnlyla. To stay on her, Joyous may %%at**Claw Grapple**++% and boost into the air, dragging her up with its claws for 30 normal damage and applying a light snare that greatly reduces air control. From any distance it can suddenly %%at**Pounce**++%, immediately leaping horizontally through the air to consistently land on her with a 30 normal damage AoE while entering a melee attack; Or it may swiftly spread its wings and %%pa**Feint Glide**++%, gliding a direction away from Avnlyla to bait out her actions, and then using a ranged attack from above. 
 
-At 5 stacks of **???**, Joyous will use its most violent attacks. It can enter a %%pa**Hunting Chase**++%, matching Avnlyla's dashes and movement abilities with an inescapable burst of speed. **Hunting Chase** and **Pounce** can be immediately followed up by %%at**Spine Throttle**++%, a deadly bite dealing 30 heavy damage and applying a 0.75 second stun that enables its combos. Via %%at**Cardiac Arrest**++%, Joyous can use its unconcerned masochism to its advantage. As Joyous takes damage, its external hearts beat faster and louder. With 700 damage taken, the hearts are in **Cardiac Arrest** and can used as for attacks, causing a 30 normal damage explosion. It may punch it into Avnlyla, or drag it back through its internals and send the heart as a payload for **Gutsling**, exploding at the perpindicular even if it misses a direct hit. New hearts will grow after 10 seconds.
+At 5 stacks of **???**, Joyous will use its most violent attacks. It can enter a %%pa**Hunting Chase**++%, matching Avnlyla's dashes and movement abilities with an inescapable burst of speed. **Hunting Chase** and **Pounce** can be immediately followed up by %%at**Spine Throttle**++%, a deadly bite dealing 30 heavy damage and applying a 0.5 second stun that enables its combos. Via %%at**Cardiac Arrest**++%, Joyous can use its unconcerned masochism to its advantage. As Joyous takes damage, its external hearts beat faster and louder. With 700 damage taken, the hearts are in **Cardiac Arrest** and can used as for attacks, causing a 30 normal damage explosion a top other attacks. It may punch it into Avnlyla when it **Viscously Tears**, or drag it back through its internals and send the heart as a payload for **Gutsling**, exploding at the perpindicular even if it misses a direct hit. New hearts will grow after 10 seconds.
 
 Joyous will enrage if Avnlyla is above ten stacks of **???**, instantly entering **Cardiac Arrest** and gaining 33% faster animations.
 
@@ -348,7 +348,7 @@ Joyous will enrage if Avnlyla is above ten stacks of **???**, instantly entering
 
 Joyous is a monsterous humanoid composed of surreal meat, in a way similar to produce. It can can easily sprint quadrupedally despite humanoid legs. It otherwise stands on its legs to enable its attacks. It has standout wings of well marbled meat, similar in shape to a butterfly's. From the top of the wings, meaty tendons hold two external hearts which hang from the wings on each side, connected by veins to the an opening near shoulder blades. It has nothing resembling hair, but has 2 ears of cured meat similar to that of a Labrador. Its left eye is dark with reds and greens, while its other eye is completely missing, with a large slash helping to reveal the brain visible in its eye socket. It has a large mouth, however the meaty skin cover's most of it while its closed, giving an otherwise "normal" head shape, albeit canid and almost avain in proportions and shapes. Joyous is slim, and its torso has notable intermuscular fat patterns with notable ribs. Its arms and legs have very distinct and separate lean muscles, lacking most of the fascia, skin, and fat that would hide a skinned body's movements, although their joints are still connected and covered. Their hands are very sharp, with light fleshy palms, and large clawed feet. The area between the hip and abdomen has a cut from hip to hip creating an opening, leaking blood and revealing pristine organs. It is kind of cute but in an unexplainable way.
 
-Joyous are inspired by the niche internet aesthetic "meatcore", but overall represent violence, pain, and pleasure, especially in contrast to Wall Art. We treat such pain and gore as thing abnormal, however we have built our civilization on meat. Such is used for pleasure by almost everyone, and livestock is important industry.
+Joyous are inspired by the niche internet aesthetic "meatcore", and its violence exists in contrast to Wall Art's suffering. We treat such pain and gore as thing abnormal, however we have built our civilization on meat. Such is used for pleasure by almost everyone, and livestock is important industry.
 
 The **???** debuff randomly cycles between words in different languages for similar words for "the smell of meat", of which there is no English word for. Often times, the words chosen from these languages are more specific variants.
 
@@ -364,7 +364,7 @@ Jahai: **Plʔεŋ** - Smell of meat that attracts tigers
 
 %-se\[-\] **Extras & Tips**
 
-Joyous is a priority threat, capable of snowballing while posessing the sustain to do so. It should not be met with split attention, as it will take advantage of this.
+Joyous is a priority threat, capable of snowballing and sustain. It should not be met with split attention, as it will take advantage of this. Mobility is key, as insuring you can always get out of melee range is the primary counter. While tanky, it does not have a large health pool
 
 %-se\[-\] **Death Messages**
 
