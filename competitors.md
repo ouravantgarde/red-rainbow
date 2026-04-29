@@ -611,7 +611,7 @@ Killed by Death Wish:
 
 %-st**Health** : 5000
 
-%-fdaaaa
+%-fda
 
 %-se\[-\] **Compendium Entry**
 
