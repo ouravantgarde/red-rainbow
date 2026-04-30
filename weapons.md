@@ -8,17 +8,17 @@ layout: wiki
 
 %-se\[-\] **Primary Fire**
 
-%-wst **Damage** : 100
+%-wst**Damage** : 100
 
-%-wst **Fire Rate (Per Second)** : 2
+%-wst**Fire Rate (Per Second)** : 2
 
-%-wst **Proc Rate** : 1.25
+%-wst**Proc Rate** : 1.25
 
-%-wst **Proc Intensity** : 1
+%-wst**Proc Intensity** : 1
 
-%-wst **Ammo Size** : Infinite
+%-wst**Ammo Size** : Infinite
 
-%-wst **Refresh Time** : 3
+%-wst**Refresh Time** : 3
 
 
 
@@ -26,17 +26,17 @@ Fires a high velocity bolt. Every projectile shot past four will slow Avnlyla do
 
 %-se\[-\] **Alternative Fire**
 
-%-wst **Damage** : 25
+%-wst**Damage** : 25
 
-%-wst **Fire Rate (Per Second)** : 1.5
+%-wst**Fire Rate (Per Second)** : 1.5
 
-%-wst **Proc Rate** : 0.25
+%-wst**Proc Rate** : 0.25
 
-%-wst **Proc Intensity** : 1
+%-wst**Proc Intensity** : 1
 
-%-wst **Ammo Size** : Infinite
+%-wst**Ammo Size** : Infinite
 
-%-wst **Refresh Time** : 8
+%-wst**Refresh Time** : 8
 
 
 
