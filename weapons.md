@@ -10,11 +10,11 @@ layout: wiki
 
 %-se\[-\] **Primary Fire**
 
-%-wst**Damage** : 100
+%-wst**Damage** : 175
 
 %-wst**Fire Rate (Per Second)** : 2
 
-%-wst**Proc Rate** : 1.25
+%-wst**Proc Rate** : 1.33
 
 %-wst**Proc Intensity** : 1
 
@@ -24,7 +24,7 @@ layout: wiki
 
 
 
-Fires a high velocity bolt. Every projectile shot past four will slow Avnlyla down by 25%, becoming **Immobilized** after 8 shots. 
+Fires a high velocity bolt, which makes a small AoE. Every projectile shot past four will slow Avnlyla down by 25%, becoming **Immobilized** after 8 shots. 
 
 This goes away when holstered and the build-up resets when the weapon refreshes.
 
