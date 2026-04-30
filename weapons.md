@@ -100,6 +100,6 @@ This movespeed fades over 5 seconds unless another stack is gained, and only app
 
 Charges up to release a large bolt of energy, **Immobilizing** very briefly once it fires.
 
-The projectile's base damage and velocity are all scaled by Avnlyla's final movespeed. If this would result in over 2000 base damage, Avnlyla is stunned for 1.5 seconds.
+The projectile's base damage and velocity are all scaled by Avnlyla's final movespeed. If this would result in over 2000 base damage, Avnlyla is **Stunned** for 1.5 seconds.
 
 %-sr
