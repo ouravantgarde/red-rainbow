@@ -4,7 +4,9 @@ layout: wiki
 
 ## NAME NEEDED 1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-> A gun that contains a powerful form of rotational energy, shooting out chaotic bolts that deal good damage with decent proc rates. While the rotational force it contains warrants practically anchoring oneself to the ground, it can be used to create a theoretically infinite feedback loop.
+> A gun that contains a powerful form of rotational energy, shooting out chaotic bolts that deal good damage with decent proc rates. 
+> 
+> While the rotational force it contains warrants practically anchoring oneself to the ground, it can be used to create a theoretically infinite feedback loop.
 
 %-se\[-\] **Primary Fire**
 
