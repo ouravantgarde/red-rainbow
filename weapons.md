@@ -72,12 +72,12 @@ Dashing will holster the weapon if Avnlyla is **Immobilized**, allowing her to d
 
 %-wst**Proc Intensity** : 1
 
-%-wst**Ammo Size** : 30
+%-wst**Ammo Size** : 10
 
 %-wst**Refresh Time** : 5
 
 
-Fires a burst of projectiles with tight spread. Should any of them hit, it will increase Avnlyla's movespeed multiplier by +10%.
+Fires a burst of projectiles with tight spread. Should any of them hit, it will increase Avnlyla's movespeed multiplier by +30%.
 
 This movespeed fades over 5 seconds unless another stack is gained, and only applies while held. While this weapon is held, Avnlyla is unable to stop moving, and attempting to stand still will continue movement in the previous direction moved.
 
