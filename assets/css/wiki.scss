@@ -29,7 +29,7 @@ html,body {
     border-radius: 15px;
     box-shadow: 
     -10px 0 150px 30px hsla(0deg,0%,0%,30%), //Dimmer
-    0 0 120px 180px hsla(0deg,0%,0%,50%) inset, //Inside Dimmer
+    0 0 160px 180px hsla(0deg,0%,0%,65%) inset, //Inside Dimmer
     0.5px 0.5px 0px 0.5px hsla(180deg,100%,50%,50%) inset, //Line Distortion
     -0.5px -0.5px 0px 0.5px hsla(300deg,100%,50%,35%) inset; //Line Distortion, adjusted for red bias
     color: $viowhite;
@@ -46,8 +46,6 @@ html,body {
 
 
 h1,h2 {
-    //border-top: thin solid hsla(0deg,100%,100%,15%);
-    //backdrop-filter: hue-rotate(220deg);
     letter-spacing: 0.3em;
     font-size: 2em;
     white-space: nowrap;
@@ -56,9 +54,14 @@ h1,h2 {
 
 .stats {
     letter-spacing: 0.3em;
-    //backdrop-filter: hue-rotate(220deg);
     margin: 0;
     line-height: 2.4em
+}
+
+.weaponstats {
+    letter-spacing: 0.1em;
+    margin: 0;
+    line-height: 1em
 }
 
 .flavordesc {
