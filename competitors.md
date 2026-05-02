@@ -609,9 +609,13 @@ Killed by Death Wish:
 
 %-st**Weight** : Superheavy
 
-%-st**Health** : 5000
+%-st**Health** : 6000
 
-%-fda
+%-fdHighly anomalous and mysterious, 89 is often found murdering things to simply to take their shiniest limbs.
+
+%-se\[-\] **Abilities**
+
+89 rapidly crawls throughout the arena, and is able to crawl up walls and ceilings, aswell as crawl to the underside of any floating arena if possible. It prefers to move along a circumference at distance from Avnlyla, but will frequently make sudden movements elsewhere.
 
 %-se\[-\] **Compendium Entry**
 
