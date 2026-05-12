@@ -615,7 +615,13 @@ Killed by Death Wish:
 
 %-se\[-\] **Abilities**
 
-89 rapidly crawls throughout the arena, and is able to crawl up walls and ceilings, aswell as crawl to the underside of any floating arena if possible. It prefers to move along a circumference at distance from Avnlyla, but will frequently make sudden movements elsewhere.
+89 rapidly crawls throughout the arena, and is able to crawl up walls and ceilings, aswell as crawl to the underside of any floating arena if possible. It prefers to move along a circumference at distance from Avnlyla, but will frequently make sudden movements elsewhere in a weaving manner, even attempting to speed directly into Avnlyla. 89 deals 50 normal contact damage.
+
+89 is a %%pa**Kleptomaniac**++%, and desires to steal appendages from enemies, corrupting and amassing it into its form so it can make use of their abilities. 89 spawns with the limbs of five random enemies. Upon any enemy dying and leaving in the arena, it will gain massive speed and weave over the corpse to add to its collection. 89 has no ability costs or weights for stolen abilities, and uses everything off cooldown. If an enemy is below 10% health, it may immediately change course and run through them, instantly killing the enemy and collecting a limb as usual.
+
+With %%pa**Grandiosity & Scorn**++%, the largest cooldown 89 has will be reduced to zero whenever Avnlyla is hit. If 89 is the one who dealt the hit, the reset ability will be used twice.
+
+89 enacts %%pa**Mind Games**++%. It may, whenever it goes behind an obstruction such as under a floating arena or moving behind a pillar or wall, disappear entirely. It is considered to have left the arena, and thusly if it is not present the arena will be completed should all other enemies die. However, it can come back at any time. It is likely to come back if it is high health or other enemies are present. It is more likely to escape if it ever collects a limb from that arena or it is at low health. If 89 leaves, it will likely reappear in a *future arena* with everything persisting, including limbs it has collected. It can not dissapear if its head has been in view in the last second.
 
 %-se\[-\] **Compendium Entry**
 
