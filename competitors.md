@@ -653,7 +653,27 @@ INCOMPLETE INCOMPLETE
 
 %-st**Health** : 12000
 
-INCOMPLETE INCOMPLETE
+%-fdOne may find themselves under a veil. A strange, unusual, claustrophobic veil. It will make its presence known as a living, bleeding, envious parasite inside Noxipolis. Avnlya must endure the brain death of the environment itself.
+
+%-se\[-\] **The Daydream**
+
+Heralds is found in farther arenas. The arena is normal, except the music is gone and the sky unusually cluttered. 
+
+Upon completion, the arena will not clear. Avnlyla will be presented with a fleshy, neuron-like node, appearing in the middle of the arena... The veil collapses closer, and the symbols animate, as the node starts to break.
+
+The skybox is alive, and damage can only be dealt by shooting into the skybox. The fight will start however when the node breaks, in which case it will start to %%pa**Dream**++%, which will actively warp the arena into a new one with new enemies, healing itself for 15% of its health and growing a new node, which has 1500 health and will never trigger procs. When all enemies are killed, or if no enemy has been killed for 8 seconds, it will **Dream** again.
+
+However, the enemies are not the only issue. The sky may open cuts in itself, raining blood that deals 30 normal damage. The eyes may cause slow moving beams to sweep across for 20 normal DPS, various symbols may descend or glow to boost enemy speed or mark areas to detonate for 30 normal damage. A hand may extend out from the sky, and push the arena into the veil itself, which does 50 heavy damage when touched.
+
+Whenever an enemy is killed by Avnlyla, various abilities may trigger. %%pa**Lucidity**++% will cause the skybox to become much more active for 2 seconds, in which up to 5 of its attacks may be active at the same time. %%pa**Fever**++% will create a new node, and %%pa**Lapse**++% will duplicate any enemy, including nodes, preserving anything it can such as health. Multiple of these may trigger from one enemy, but at least will always trigger when killing an enemy.
+
+Eventually, %%pa**Entropy**++% will reveal itself as more nodes and enemies come into existence, as the living environment slowly tears itself apart. If Avnlyla kills a node, or has not damaged a node for 6 seconds, any ability except **Dream** may trigger. This results in escalating chaos via its most important abilities, until it is able to dream again and reset the arena.
+
+**Entropy** will eventually lead the Heralds to %%pa**Forget**++%. When it **Forgets**, it creates a "save state" of the arena then rerolls its queue. If a save state already exists, it will replace it before rerolling the queue and all enemies present. %%pa**Dissociate**++% may also trigger, which rewinds to a save state, deletes it, and rerolls enemies and its queue. If no save state is present, it will time skip 5 seconds into the future.
+
+Inevitably, it will begin to %%pa**Dement**++%. **Dement** grows likely with time. It can be randomly selected, but will also trigger if Lucidity has been active for 4 seconds straight or if nine nodes are present. When the Heralds **Dement**, it queues a random ability to happen in 12 seconds, and everything except Avnlyla and Nodes rapidly die over the course of 4 seconds, and Heralds itself takes 4% of its max health as damage and gain a stacking 10% damage vulnurability, and **Forget** and **Dissociate** is prevented for 7 seconds. It will then **Dream** once everything is dead. If the random ability rolled is **Dream**, it will do so instantly and kill all enemies instantly. If the random ability rolled it **Dement**, it will kill everything, dream, then force a **Dement** to be queued in 10 seconds on the new arena.
+
+
 
 %-se\[-\] **Compendium Entry**
 
