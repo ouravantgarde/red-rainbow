@@ -562,7 +562,7 @@ Saponificare can turn the entire arena into a bullet hell, and punishing mindles
 
 %-se\[-\] **Death Messages**
 
-Any death: All clean!
+Any death: 🧼
 
 %-se\[-\] **Compendium Entry**
 
@@ -652,9 +652,9 @@ The arms allow it to aim attacks, and even reach out a bit for melee abilities. 
 
 %-se\[-\] **Death Messages**
 
-Killed by the **Kleptomaniac's** collection: \[The death message of whatever was collected, but any nouns or pronouns are replaced with DESIRE, and any adjectives are replaced with 89\]
+Killed by the **Kleptomaniac's** collection: *\[The death message of whatever was collected, but any nouns, pronouns, or adjectives are replaced with **89**\]*
 
-Killed elsewise: <span style="text-wrap: nowrap">MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE</span>
+<span style="text-wrap: nowrap; z-index: 9999">Killed elsewise: *MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE*</span>
 
 %-se\[-\] **Compendium Entry**
 
