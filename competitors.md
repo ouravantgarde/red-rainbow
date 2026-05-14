@@ -496,17 +496,17 @@ Killed by Trophy Kill: *Victory claimed as her body falls!*
 
 %-se\[-\] **Compendium Entry - %%enThe Audience of War++%**
 
-> War exists in tales old as man, but only so many truths were present: The soldier lived to say yes to their master, to cast aside their disobedient and capricious human nature.\
+> War exists in tales old as man, but only so many truths were present: The soldier lived to say yes to their master, to cast aside their disobedient and capricious human nature.
 >
-> War needed a warrior. It could not disagree lest it die. It must fight as the warrior needed war, it matter not what any civilian say.
+> War needed a warrior. It could not disagree lest it die. It must fight as the warrior needed war, and it matter not what any civilian say.
 >
-> Oh, but this was only so close to the truth.
+> Oh, but this was only so close to the truth.\
 > Does an artist need a master?\
 > Does the artist need someone else's belief?\
 > Does the playwright stop should the philistine audience complain?\
 > Does the choreographer fail if his dance lacks the diluted meaning the mass demands?
 >
-> No! The audience should beg, the audience shall be disturbed, confused, and shamed, left pleading and gasping for the breath of purpose that the artist has!\
+> The audience should beg, the audience shall be disturbed, confused, and shamed, left pleading and gasping for the breath of purpose that the artist has!\
 > They are the audience for a reason, just as the soldier is no commoner.
 >
 > You, my lost, yearning soldier, need no officer to give you purpose, need no bureaucrat.\
@@ -624,7 +624,7 @@ Killed by Death Wish:
 
 %-st**Weight** : Superheavy
 
-%-st**Health** : 6000
+%-st**Health** : 7000
 
 %-fdHighly anomalous and mysterious, 89 is often found murdering things to simply to take their shiniest limbs.
 
@@ -632,11 +632,25 @@ Killed by Death Wish:
 
 89 rapidly crawls throughout the arena, and is able to crawl up walls and ceilings, aswell as crawl to the underside of any floating arena if possible. It prefers to move along a circumference at distance from Avnlyla, but will frequently make sudden movements elsewhere in a weaving manner, even attempting to speed directly into Avnlyla. 89 deals 50 normal contact damage.
 
-89 is a %%pa**Kleptomaniac**++%, and desires to steal appendages from enemies, corrupting and amassing it into its form so it can make use of their abilities. 89 spawns with the limbs of five random enemies. Upon any enemy dying and leaving in the arena, it will gain massive speed and weave over the corpse to add to its collection. 89 has no ability costs or weights for stolen abilities, and uses everything off cooldown. If an enemy is below 10% health, it may immediately change course and run through them, instantly killing the enemy and collecting a limb as usual.
+89 is a %%pa**Kleptomaniac**++%, and desires to steal appendages from enemies, corrupting and amassing it into its form so it can make use of their abilities. 89 spawns with the limbs of five random enemies. Upon any enemy dying in the arena, it will gain massive speed and weave over the corpse to add to its collection. 89 has no ability costs or weights for stolen abilities, and uses everything off cooldown. If an enemy is below 10% health, it may immediately change course and run through them, instantly killing the enemy and collecting a limb as usual.
 
 With %%pa**Grandiosity & Scorn**++%, the largest cooldown 89 has will be reduced to zero whenever Avnlyla is hit. If 89 is the one who dealt the hit, the reset ability will be used twice.
 
 89 enacts %%pa**Mind Games**++%. It may, whenever it goes behind an obstruction such as under a floating arena or moving behind a pillar or wall, disappear entirely. It is considered to have left the arena, and thusly if it is not present the arena will be completed should all other enemies die. However, it can come back at any time. It is likely to come back if it is high health or other enemies are present. It is more likely to escape if it ever collects a limb from that arena or it is at low health. If 89 leaves, it will likely reappear in a *future arena* with everything persisting, including limbs it has collected. It can not dissapear if its head has been in view in the last second.
+
+%-se\[-\] **Visuals & Lore**
+
+89 is a massive anomalous animal, similar in form to a centipede. It is roughly the height of Avnlyla, and spans wider, but has a length almost the distance of some small arenas. It legs are decently spaced apart, with its body clearly segmented. It seems mostly composed of a marble or porcelean material, which makes up arms, hands, and triangular paneling, constructed in a sense that the arms and hands hold the panels to itself. Jutting out along the openings of the exoskeleton is neon tubing, giving it a spiked appearance. The head appears to an attept of the hands to form triangular panels and tubing to mimic antennae and fangs of an insect, with an overall triangular shape. It makes very notable noise as it moves, similar to that of an engine, gaining a roaring whenever it gains rapid speed. It seems to make a chitter or chirp whenever it collects a limb. Pink and sometimes black fluids also leak or spray when it takes damage.
+
+Many arms and hands extend to the side to hold up its collection, often holding other arms and hands to do so, seemingly in display of prize or score to other creatures. The body parts it holds appear to have undergone mild transformation, becoming "lower polygon". Colorful symbols and pink or blue lights seem to emit whenever it decides to make use of any ability it has gained.
+
+%-se\[-\] **Extras**
+
+Almost every enemy in the game has a single ability tagged with kleptomania, and 89 can not use *any* random ability in the game; It is a set list, one per enemy. These usually are ranged attacks and whatever visually makes sense for it to rip off and use, although it can sometimes be a support ability. Rarely this includes melee attacks.
+
+The arms allow it to aim attacks, and even reach out a bit for melee abilities. However it can not intersect its own body, and thusly any ability on the side of its body opposite to Avnlyla has limited success.
+
+%-se\[-\] **Death Messages**
 
 %-se\[-\] **Compendium Entry**
 
