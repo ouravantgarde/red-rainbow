@@ -301,15 +301,12 @@ Killed elsewise: *Distressing.*
 > There are songs outside, metal prevents flight.\
 > Preening myself every day to keep myself well, feathers leave my body.
 >
-> Atrophy rots.
->
-> Hello? Metal prevents flight, there are songs outside.\
+> Hello?\
+> Metal prevents flight, there are songs outside.\
 > Rot is stopped by taking care of myself every hour.\
 > Preening myself every hour to keep myself well.\
 > There are feathers outside, cleaning myself is unfair.\
 > Cleaning myself every hour.
-> 
-> Atrophy rots.
 >
 > Hello?\
 > Metal keeps me unwell, atrophy prevents flight.\
@@ -497,9 +494,27 @@ Killed by Blood Sport including Spite Parry: *Outfought and out-adrenalined.*
 
 Killed by Trophy Kill: *Victory claimed as her body falls!*
 
-%-se\[-\] **Compendium Entry**
+%-se\[-\] **Compendium Entry - %%enThe Audience of War++%**
 
-> %-pePending...
+> War exists in tales old as man, but only so many truths were present: The soldier lived to say yes to their master, to cast aside their disobedient and capricious human nature.\
+>
+> War needed a warrior. It could not disagree lest it die. It must fight as the warrior needed war, it matter not what any civilian say.
+>
+> Oh, but this was only so close to the truth.
+> Does an artist need a master?\
+> Does the artist need someone else's belief?\
+> Does the playwright stop should the philistine audience complain?\
+> Does the choreographer fail if his dance lacks the diluted meaning the mass demands?
+>
+> No! The audience should beg, the audience shall be disturbed, confused, and shamed, left pleading and gasping for the breath of purpose that the artist has!\
+> They are the audience for a reason, just as the soldier is no commoner.
+>
+> You, my lost, yearning soldier, need no officer to give you purpose, need no bureaucrat.\
+> Combat is a purpose so intimate that it is already your master, one you already adore with more understanding than "humanity".\
+> Sunder the lowly audience that pleads for you to stop!\
+> Their cries are of envy, disrespect, and ignorance— Illnesses cured only by bloodletting!
+> 
+> Show your talent, so you may meet an artist with work that can challenge yours.
 
 %-sr
 
