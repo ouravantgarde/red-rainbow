@@ -749,7 +749,7 @@ the leaves<br>
 ,<br>
 the trees<br>
 ,<br>
-the mist<br>
+the fog<br>
 the grass, the waves,<br>
 the soils, the sands,<br>
 the earth, the ocean,<br>
