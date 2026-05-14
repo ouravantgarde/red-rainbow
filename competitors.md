@@ -652,6 +652,10 @@ The arms allow it to aim attacks, and even reach out a bit for melee abilities. 
 
 %-se\[-\] **Death Messages**
 
+Killed by the **Kleptomaniac's** collection: \[The death message of whatever was collected, but any nouns or pronouns are replaced with DESIRE, and any adjectives are replaced with 89\]
+
+Killed elsewise: <span style="text-wrap: nowrap">MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE</span>
+
 %-se\[-\] **Compendium Entry**
 
 > %-pePending...
