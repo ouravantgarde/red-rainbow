@@ -720,42 +720,41 @@ Heralds has too much health to kill outright, and it is dangerous considering on
 
 %-se\[-\] **Compendium Entry**
 
-> I wander on my senses. How could the lord have punished me, to tell me I am everything, just to never let me see it myself? To be the world that can't care, the mother that can't love. I revel in the certainty, however, that I am the gift that gives, the comfort that blankets all, the mother, the world.
->
->
-> I am the void, the primordial beauty.\
-> I am the heavens, the darkness, the moon, the sun, the bright light.
->
-> &nbsp;         the stars.
->
-> &nbsp;       ,
->
-> &nbsp;         the sky
->      
-> &nbsp;       ,
-> 
-> &nbsp;   the storm\
-> &nbsp;             ,
->
-> &nbsp;   the clouds\
-> &nbsp;             ,\
-> &nbsp;   the rain\
-> &nbsp;             ,\
-> &nbsp;         the air\
-> &nbsp;             ,\
-> &nbsp;         the winds\
-> 
-> &nbsp;             ,\
-> &nbsp;         the leaves\
-> &nbsp;             ,\
-> &nbsp;         the trees\
-> &nbsp;             ,\
-> &nbsp;          the fog\
-> &nbsp; the grass,     the waves,\
-> &nbsp;  the soil,      the sand,\
-> &nbsp; the earth,     the ocean,\
-> &nbsp; the stone,\
-> A molten  , beating heart, I am,
+<blockquote style="text-align: center">
+<p>I wander on my senses. How could the lord have punished me, to tell me I am everything, just to never let me see it myself? To be the world that can’t care, the mother that can’t love. I revel in the certainty, however, that I am the gift that gives, the comfort that blankets all, the mother, the world.</p>
+
+<p>I am the void, the primordial beauty.<br>
+I am the heavens, the darkness, the moon, the sun, the bright light.</p>
+
+<p>the stars.</p>
+
+<p>,</p>
+
+<p>the sky</p>
+
+<p>,</p>
+
+<p>the storm<br>
+,</p>
+<p>the clouds<br>
+,<br>
+the rain<br>
+,<br>
+the air<br>
+,<br>
+the winds</p>
+<p>,<br>
+the leaves<br>
+,<br>
+the trees<br>
+,<br>
+the fog<br>
+the grass,     the waves,<br>
+the soil,      the sand,<br>
+the earth,     the ocean,<br>
+the stone,<br>
+A molten  , beating heart, I am,</p>
+</blockquote>
 
 
 %-sr
