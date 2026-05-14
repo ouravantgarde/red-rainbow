@@ -654,7 +654,7 @@ The arms allow it to aim attacks, and even reach out a bit for melee abilities. 
 
 Killed by the **Kleptomaniac's** collection: *\[The death message of whatever was collected, but any nouns, pronouns, or adjectives are replaced with **89**\]*
 
-<span style="text-wrap: nowrap; z-index: 9999">Killed elsewise: *MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE*</span>
+<p style="text-wrap: nowrap; z-index: 9999">Killed elsewise: *MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE*</p>
 
 %-se\[-\] **Compendium Entry**
 
