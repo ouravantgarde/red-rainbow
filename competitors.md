@@ -654,7 +654,7 @@ The arms allow it to aim attacks, and even reach out a bit for melee abilities. 
 
 Killed by the **Kleptomaniac's** collection: *\[The death message of whatever was collected, but any nouns, pronouns, or adjectives are replaced with **89**\]*
 
-<p style="text-wrap: nowrap; z-index: 9999">Killed elsewise: *MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE*</p>
+<span style="text-wrap: nowrap">Killed elsewise: *MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE MINE*</span>
 
 %-se\[-\] **Compendium Entry**
 
@@ -694,22 +694,68 @@ Heralds is found in farther arenas. The arena is normal, except the music is gon
 
 Upon completion, the arena will not clear. Avnlyla will be presented with a fleshy, neuron-like node, appearing in the middle of the arena... The veil collapses closer, and the symbols animate, as the node starts to break.
 
-The skybox is alive, and damage can only be dealt by shooting into the skybox. The fight will start however when the node breaks, in which case it will start to %%pa**Dream**++%, which will actively warp the arena into a new one with new enemies, healing itself for 15% of its health and growing a new node, which has 1500 health and will never trigger procs. When all enemies are killed, or if no enemy has been killed for 8 seconds, it will **Dream** again.
+The skybox is alive, and damage can only be dealt by shooting into the skybox. The fight will start however when the node breaks, in which case it will start to %%pa**Dream**++%, which will actively warp the arena into a new one with new enemies, ceasing all attacks for the duration of the shift, healing itself for 15% of its health, and growing a new node, which has 1500 health and will never trigger procs. When all enemies are killed, or if no enemy has been killed for 8 seconds, it will **Dream** again.
 
 However, the enemies are not the only issue. The sky may open cuts in itself, raining blood that deals 30 normal damage. The eyes may cause slow moving beams to sweep across for 20 normal DPS, various symbols may descend or glow to boost enemy speed or mark areas to detonate for 30 normal damage. A hand may extend out from the sky, and push the arena into the veil itself, which does 50 heavy damage when touched.
 
 Whenever an enemy is killed by Avnlyla, various abilities may trigger. %%pa**Lucidity**++% will cause the skybox to become much more active for 2 seconds, in which up to 5 of its attacks may be active at the same time. %%pa**Fever**++% will create a new node, and %%pa**Lapse**++% will duplicate any enemy, including nodes, preserving anything it can such as health. Multiple of these may trigger from one enemy, but at least will always trigger when killing an enemy.
 
-Eventually, %%pa**Entropy**++% will reveal itself as more nodes and enemies come into existence, as the living environment slowly tears itself apart. If Avnlyla kills a node, or has not damaged a node for 6 seconds, any ability except **Dream** may trigger. This results in escalating chaos via its most important abilities, until it is able to dream again and reset the arena.
+Eventually, %%pa**Entropy**++% will reveal itself as more nodes and enemies come into existence, as the living environment slowly tears itself apart. If Avnlyla kills a node, or has not damaged a node for 6 seconds, any ability except **Dream** may trigger. This results in escalating chaos via its most important abilities, until it is able to dream again and reset the arena. **Entropy** also has a small chance to trigger every 6 seconds regardless.
 
 **Entropy** will eventually lead the Heralds to %%pa**Forget**++%. When it **Forgets**, it creates a "save state" of the arena then rerolls its queue. If a save state already exists, it will replace it before rerolling the queue and all enemies present. %%pa**Dissociate**++% may also trigger, which rewinds to a save state, deletes it, and rerolls enemies and its queue. If no save state is present, it will time skip 5 seconds into the future.
 
 Inevitably, it will begin to %%pa**Dement**++%. **Dement** grows likely with time. It can be randomly selected, but will also trigger if Lucidity has been active for 4 seconds straight or if nine nodes are present. When the Heralds **Dement**, it queues a random ability to happen in 12 seconds, and everything except Avnlyla and Nodes rapidly die over the course of 4 seconds, and Heralds itself takes 4% of its max health as damage and gain a stacking 10% damage vulnurability, and **Forget** and **Dissociate** is prevented for 7 seconds. It will then **Dream** once everything is dead. If the random ability rolled is **Dream**, it will do so instantly and kill all enemies instantly. If the random ability rolled it **Dement**, it will kill everything, dream, then force a **Dement** to be queued in 10 seconds on the new arena.
 
+%-se\[-\] **Visuals & Lore**
 
+Heralds itself is the usual decorated skybox, albiet symbols are more animate. 
+
+The nodes are fleshy although faint, almost translucent or ghostly, and appear to grow outwards in a manner four dimensional when they appear. They seem to become blurry, and a heartbeat increases, as they get closer to 6 seconds without taking damage. Any sounds present are somewhat distorted aswell, and colors may be somewhat off. The entire arena and skybox seems to shake just before or during **Forget**, **Dissociate**, or **Dement**, and the auditory and visual distortions become stronger. Upon death, all the symbols in the veil seem to burst into rapture tar and blood, revealing the normal skybox much further away.
+
+%-se\[-\] **Extras & Tips**
+
+Heralds has too much health to kill outright, and it is dangerous considering one must look into the skybox and not at any enemies to do so. Heralds instead demands you to bare itself until you can snowball, or until it kills itself via **Dement**. The chaos will increase as a continous fight goes on, but breathing room when enemies finally die or after it has begun to **Dream** again. It is thusly important to focus on killing things as quickly as possible and continually damaging nodes to control when they activate, to allow them to eventually build up to guarantee a **Dement**.
+
+**Forget** and **Dissociate** are incredibly dangerous, as they only have a very brief warning, and a very brief time stop, to get your bearings. Attention is demanded as the entire arena can suddenly flash into a new form, even an entirely new arena already mid fight should **Dement** or **Dream** trigger during the time skip, or warp you back to a bad position. The time skip is a roll based on trajectory, a simple system that assigns weights based on the actions in the past 2 seconds. As such, due to nodes triggering **Entropy** if not damaged for 6 seconds, it is extremely likely to trigger should a time skip occur. 
 
 %-se\[-\] **Compendium Entry**
 
-> %-pePending...
+> I wander on my senses. How could the lord have punished me, to tell me I am everything, just to never let me see it myself? To be the world that can't care, the mother that can't love. I revel in the certainty, however, that I am the gift that gives, the comfort that blankets all, the mother, the world.
+>
+>
+> I am the void, the primordial beauty.\
+> I am the heavens, the darkness, the moon, the sun, the bright light.
+>
+> &nbsp;         the stars.
+>
+> &nbsp;       ,
+>
+> &nbsp;         the sky
+>      
+> &nbsp;       ,
+> 
+> &nbsp;   the storm\
+> &nbsp;             ,
+>
+> &nbsp;   the clouds\
+> &nbsp;             ,\
+> &nbsp;   the rain\
+> &nbsp;             ,\
+> &nbsp;         the air\
+> &nbsp;             ,\
+> &nbsp;         the winds\
+> 
+> &nbsp;             ,\
+> &nbsp;         the leaves\
+> &nbsp;             ,\
+> &nbsp;         the trees\
+> &nbsp;             ,\
+> &nbsp;          the fog\
+> &nbsp; the grass,     the waves,\
+> &nbsp;  the soil,      the sand,\
+> &nbsp; the earth,     the ocean,\
+> &nbsp; the stone,\
+> A molten  , beating heart, I am,
+
 
 %-sr
