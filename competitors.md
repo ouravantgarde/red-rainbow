@@ -718,42 +718,42 @@ Heralds has too much health to kill outright, and it is dangerous considering on
 
 **Forget** and **Dissociate** are incredibly dangerous, as they only have a very brief warning, and a very brief time stop, to get your bearings. Attention is demanded as the entire arena can suddenly flash into a new form, even an entirely new arena already mid fight should **Dement** or **Dream** trigger during the time skip, or warp you back to a bad position. The time skip is a roll based on trajectory, a simple system that assigns weights based on the actions in the past 2 seconds. As such, due to nodes triggering **Entropy** if not damaged for 6 seconds, it is extremely likely to trigger should a time skip occur. 
 
-%-se\[-\] **Compendium Entry**
+%-se\[-\] **Compendium Entry - %%enTHE WORLD++%**
 
 <blockquote style="text-align: center">
-<p>I wander on my senses. How could the lord have punished me, to tell me I am everything, just to never let me see it myself? To be the world that can’t care, the mother that can’t love. I revel in the certainty, however, that I am the gift that gives, the comfort that blankets all, the mother, the world.</p>
+<p>How could the lord have punished me, to tell me I am everything, just to never let me see it myself? To be the world that can’t care, the mother that can't love.<br>
+I revel in the faith, however, that I am the gift that gives, the comfort that blankets all, the mother, the world.</p>
 
 <p>I am the void, the primordial beauty.<br>
-I am the heavens, the darkness, the moon, the sun, the bright light.</p>
-
-<p>the stars.</p>
-
-<p>,</p>
-
-<p>the sky</p>
-
-<p>,</p>
-
-<p>the storm<br>
-,</p>
-<p>the clouds<br>
+I am the heavens,<br>
+the darkness, the moon, the sun, the light.</p>
+<p>
+<br>
+the stars.<br>
+,<br>
+the sky<br>
+,<br>
+the storm<br>
+,<br>
+the clouds<br>
 ,<br>
 the rain<br>
 ,<br>
 the air<br>
 ,<br>
-the winds</p>
-<p>,<br>
+the winds<br>
+,<br>
 the leaves<br>
 ,<br>
 the trees<br>
 ,<br>
-the fog<br>
+the mist<br>
 the grass,     the waves,<br>
-the soil,      the sand,<br>
+the soils,      the sands,<br>
 the earth,     the ocean,<br>
 the stone,<br>
-A molten  , beating heart, I am,</p>
+A molten, beating heart, I am,<br>
+&#10084;</p>
 </blockquote>
 
 
