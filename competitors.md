@@ -721,7 +721,7 @@ Heralds has too much health to kill outright, and it is dangerous considering on
 %-se\[-\] **Compendium Entry - %%enTHE WORLD++%**
 
 <blockquote style="text-align: center">
-<p>How could the lord have punished me, to tell me I am everything, just to never let me see it myself?<br>
+<p><br>How could the lord have punished me, to tell me I am everything, just to never let me see it myself?<br>
 To be the world that can’t care, the mother that can't love.<br>
 I revel in the faith, however, that I am the gift that gives, the comfort that blankets all—<br>
 The mother, the world.</p>
