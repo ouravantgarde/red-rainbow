@@ -668,9 +668,18 @@ Killed by the **Kleptomaniac's** collection: *\[The death message of whatever wa
 
 %-st**Weight** : None
 
-%-st**Health** : 6000
+%-st**Health** : 8000
 
-INCOMPLETE INCOMPLETE
+%-fdA gash cuts into the air, pouring and birthing light that flutters and struggles to dry its wings and stand... It is starving.
+
+%-se\[-\] **Bloodthirst**
+
+The Corpse Angel will visit abnormally populated arenas once Avnlyla has killed all enemies. Upon escaping, it will rapidly fly to and crawl over a body to %%pa**String & Leech**++% them, erupting tendrils of light from its body to connect to the corpse.
+
+%%pa**String & Leeched**++% corpses are reanimated and can not be killed by Avnlyla. Enemies will always remain within a distance of the Corpse Angel, often resulting in them being dragged or flung to keep up. It will obsessively attempt to puppet a new corpse every six seconds.
+
+It will flutter around the arena, attempting volleys of %%at++**Toxic Blood**++%, a spread of fetid projectiles that deal 30 normal damage in an AoE, splashing out 20 light damage liquid. It can hover and fly with immense speed, often flying directly past to %%at**Pester**++% Avnlyla, afflicting her with %%at**Hemorrhage** and dealing 30 normal damage, often dragging enemies directly into her.
+
 
 %-se\[-\] **Compendium Entry**
 
@@ -684,7 +693,7 @@ INCOMPLETE INCOMPLETE
 
 %-st**Weight** : None
 
-%-st**Health** : 12000
+%-st**Health** : 14000
 
 %-fdOne may find themselves under a veil. A strange, unusual, claustrophobic veil. It will make its presence known as a living, bleeding, envious parasite inside Noxipolis. Avnlya must endure the brain death of the environment itself.
 
